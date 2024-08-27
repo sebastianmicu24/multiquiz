@@ -1,0 +1,506 @@
+[
+  {
+    "domanda": "L'occlusione uretrale cronica dovuta all'iperplasia prostatica benigna può portare al seguente cambiamento nel parenchima renale",
+    "opzioni": [
+      {
+        "A": "tumori"
+      },
+      {
+        "B": "Ipertrofia"
+      },
+      {
+        "C": "Atrofia"
+      },
+      {
+        "D": "Necrosi"
+      },
+      {
+        "E": "Fibrosi"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "L'iperplasia prostatica benigna può causare un'ostruzione uretrale cronica, che a sua volta può portare a un aumento della pressione nel sistema urinario. Ciò può causare una riduzione del flusso sanguigno ai reni, portando a una atrofia del parenchima renale. L'atrofia è una riduzione della dimensione e della funzionalità di un organo o tessuto, in questo caso il parenchima renale.",
+    "materia": "Urologia",
+    "argomento": "Iperplasia prostatica benigna"
+  },
+  {
+    "domanda": "Quale vitamina viene fornita solo da fonti animali?",
+    "opzioni": [
+      {
+        "A": "Vitamina B1"
+      },
+      {
+        "B": "Vitamina B7"
+      },
+      {
+        "C": "Vitamina B12"
+      },
+      {
+        "D": "Vitamina D"
+      },
+      {
+        "E": "Vitamina E"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "La vitamina B12 è una vitamina essenziale che svolge un ruolo importante nella produzione di globuli rossi e nella funzione del sistema nervoso. A differenza di altre vitamine, la vitamina B12 non può essere prodotta dagli animali e quindi l'unica fonte per gli esseri umani è il cibo di origine animale, come carne, pesce, uova e latticini. Pertanto, gli individui che seguono una dieta vegetariana o vegana possono avere carenze di vitamina B12 se non consumano alimenti fortificati o integratori.",
+    "materia": "Nutrizione",
+    "argomento": "Vitamine essenziali"
+  },
+  {
+    "domanda": "Tutte le seguenti sono opzioni chirurgiche per l'obesità morbida eccetto:",
+    "opzioni": [
+      {
+        "A": "Roux-en Y Duodenal Bypass"
+      },
+      {
+        "B": "Biliopancreatic diversion"
+      },
+      {
+        "C": "Duodenal Switch"
+      },
+      {
+        "D": "Gastric bypass"
+      },
+      {
+        "E": "Bypass gastrico"
+      }
+    ],
+    "opzione_corretta": "A",
+    "spiegazione": "Le procedure chirurgiche bariatriche includono: a. Gastroplastica verticale con bendaggio; b. Bendaggio gastrico regolabile; c. Bypass gastrico Roux-en Y (non bypass duodenale Roux-en Y); d. Diversione biliopancreatica; e. Switch duodenale. Il trattamento chirurgico dell'obesità morbida è noto come chirurgia bariatrica. L'obesità morbida è definita come indice di massa corporea di 35 kg/m2 o più con comorbilità correlate all'obesità. Le operazioni bariatriche producono perdita di peso a causa di due fattori: la restrizione dell'apporto orale e la malassorbimento del cibo ingerito. Le procedure restrittive gastriche includono gastroplastica verticale con bendaggio e bendaggio gastrico regolabile. Le procedure malassorbitive includono la diversione biliopancreatica.",
+    "materia": "Chirurgia generale",
+    "argomento": "Chirurgia bariatrica per obesità morbida"
+  },
+  {
+    "domanda": "Dopo l'endarterectomia sulla carotide comune destra",
+    "opzioni": [
+      {
+        "A": "inferiore all'occhio. Rifornisce il seno mascellare"
+      },
+      {
+        "B": "Arteria nasociliare"
+      },
+      {
+        "C": "Arteria lacrimale"
+      },
+      {
+        "D": "Oftalmologia"
+      },
+      {
+        "E": "Arteria oftalmica"
+      }
+    ],
+    "opzione_corretta": "E",
+    "spiegazione": "L'arteria centrale della retina è un ramo dell'arteria oftalmica. È l'unica fonte di rifornimento sanguigno per la retina; non ha una circolazione collaterale significativa e il blocco di questo vaso porta alla cecità. I rami di questa arteria sono ciò che si osserva durante un esame fondoscopico. Nota: l'arteria infraorbitale è un ramo dell'arteria mascellare. Esce attraverso il forame infraorbitale.",
+    "materia": "Chirurgia vascolare",
+    "argomento": "Anatomia delle arterie della testa e del collo"
+  },
+  {
+    "domanda": "L'ormone della crescita esercita il suo effetto sulla crescita attraverso?",
+    "opzioni": [
+      {
+        "A": "diminuzione dell'utilizzo periferico del glucosio (diminuzione dell'assorbimento)"
+      },
+      {
+        "B": "IGF-1"
+      },
+      {
+        "C": "Tiroxina"
+      },
+      {
+        "D": "Insulina"
+      },
+      {
+        "E": "Adrenalina"
+      }
+    ],
+    "opzione_corretta": "B",
+    "spiegazione": "L'ormone della crescita (GH) esercita il suo effetto sulla crescita attraverso la produzione di fattori di crescita insulino-simili (IGF), in particolare l'IGF-1. Il GH ha due funzioni principali: la prima è la crescita del sistema scheletrico, mediata dagli IGF, che comporta l'aumento della deposizione di cartilagine e osso, nonché la proliferazione di condrociti e osteociti. La seconda funzione è rappresentata dagli effetti metabolici, che sono dovuti all'azione diretta del GH e includono la gluconeogenesi.",
+    "materia": "Endocrinologia",
+    "argomento": "Ormone della crescita e fattori di crescita insulino-simili"
+  },
+  {
+    "domanda": "La febbre da scrub typhus viene trasmessa da:",
+    "opzioni": [
+      {
+        "A": "Pidocchio"
+      },
+      {
+        "B": "Zecca"
+      },
+      {
+        "C": "Acaro"
+      },
+      {
+        "D": "Mosca"
+      },
+      {
+        "E": "Pulce"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "La febbre da scrub typhus è una malattia infettiva causata dal batterio Orientia tsutsugamushi, che viene trasmesso attraverso il morso di un acaro infetto. Gli acari sono piccoli artropodi che si nutrono del sangue di mammiferi e uccelli, e possono essere trovati in aree con vegetazione densa e umida. La febbre da scrub typhus è comune in Asia e nel Pacifico, e può essere prevenuta evitando di entrare in contatto con gli acari infetti.",
+    "materia": "Malattie infettive",
+    "argomento": "Scrub typhus"
+  },
+  {
+    "domanda": "L'occlusione uretrale cronica dovuta all'iperplasia prostatica benigna può portare al seguente cambiamento nel parenchima renale",
+    "opzioni": [
+      {
+        "A": "tumori"
+      },
+      {
+        "B": "Ipertrofia"
+      },
+      {
+        "C": "Atrofia"
+      },
+      {
+        "D": "Necrosi"
+      },
+      {
+        "E": "Fibrosi"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "L'occlusione uretrale cronica dovuta all'iperplasia prostatica benigna può portare a una serie di cambiamenti nel parenchima renale, tra cui l'atrofia. L'atrofia renale è una condizione in cui il tessuto renale si restringe e si atrofizza a causa di una riduzione del flusso sanguigno o dell'urina. Ciò può essere causato da una serie di fattori, tra cui l'occlusione uretrale cronica, che può portare a una riduzione del flusso di urina e a un aumento della pressione all'interno del rene. L'atrofia renale può essere reversibile se la causa sottostante viene trattata, ma può anche essere permanente se la condizione non viene trattata tempestivamente.",
+    "materia": "Urologia",
+    "argomento": "Iperplasia prostatica benigna"
+  },
+  {
+    "domanda": "Quale vitamina è fornita solo da fonti animali?",
+    "opzioni": [
+      {
+        "A": "Vitamina B1"
+      },
+      {
+        "B": "Vitamina B7"
+      },
+      {
+        "C": "Vitamina B12"
+      },
+      {
+        "D": "Vitamina D"
+      },
+      {
+        "E": "Vitamina E"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "La vitamina B12 è una vitamina essenziale per l'organismo umano e può essere trovata solo in alimenti di origine animale, come carne, pesce, uova e latticini. Ciò significa che le persone che seguono una dieta vegana devono ricorrere a integratori alimentari o a prodotti alimentari fortificati per ottenere la quantità necessaria di vitamina B12. La vitamina B12 è importante per la produzione di globuli rossi, per il funzionamento del sistema nervoso e per la sintesi del DNA.",
+    "materia": "Nutrizione",
+    "argomento": "Vitamine essenziali"
+  },
+  {
+    "domanda": "Tutte le seguenti sono opzioni chirurgiche per l'obesità morbosa eccetto:",
+    "opzioni": [
+      {
+        "A": "Roux-en Y Duodenal Bypass"
+      },
+      {
+        "B": "Biliopancreatic diversion"
+      },
+      {
+        "C": "Duodenal Switch"
+      },
+      {
+        "D": "Gastric restrictive procedures"
+      },
+      {
+        "E": "Malabsorbtive procedures"
+      }
+    ],
+    "opzione_corretta": "A",
+    "spiegazione": "La chirurgia bariatrica è un trattamento chirurgico per l'obesità morbosa, definita come un indice di massa corporea (IMC) di 35 kg/m2 o superiore con comorbilità correlate all'obesità, o un IMC di 40 kg/m2 o superiore senza comorbilità. Le procedure chirurgiche bariatriche possono essere suddivise in due categorie: procedure restrittive e procedure malassorbitive. Le procedure restrittive limitano l'ingestione di cibo, mentre le procedure malassorbitive riducono l'assorbimento dei nutrienti. Esempi di procedure restrittive includono la gastroplastica verticale con bendaggio e la fascia gastrica regolabile. Esempi di procedure malassorbitive includono la diversione biliopancreatica e il duodenal switch. La Roux-en Y Duodenal Bypass non è una procedura chirurgica comunemente utilizzata per il trattamento dell'obesità morbosa.",
+    "materia": "Chirurgia generale",
+    "argomento": "Chirurgia bariatrica per l'obesità morbosa"
+  },
+  {
+    "domanda": "Dopo un'endarterectomia sulla carotide comune destra, quale delle seguenti arterie è più probabile che sia coinvolta nella circolazione sanguigna dell'occhio?",
+    "opzioni": [
+      {
+        "A": "Arteria infraorbitale, che è inferiore all'occhio e rifornisce il seno mascellare"
+      },
+      {
+        "B": "Arteria nasociliare"
+      },
+      {
+        "C": "Arteria lacrimale"
+      },
+      {
+        "D": "Arteria oftalmica"
+      },
+      {
+        "E": "Arteria carotide interna"
+      }
+    ],
+    "opzione_corretta": "D",
+    "spiegazione": "L'arteria centrale della retina è un ramo dell'arteria oftalmica. È l'unica fonte di rifornimento sanguigno per la retina; non ha una circolazione collaterale significativa e il blocco di questo vaso porta alla cecità. I rami di questa arteria sono ciò che si osserva durante un esame fondoscopico. Nota: l'arteria infraorbitale è un ramo dell'arteria mascellare. Passa attraverso il forame infraorbitale.",
+    "materia": "Chirurgia vascolare",
+    "argomento": "Anatomia vascolare dell'occhio"
+  },
+  {
+    "domanda": "L'ormone della crescita ha il suo effetto sulla crescita attraverso?",
+    "opzioni": [
+      {
+        "A": "diminuzione dell'utilizzo periferico di glucosio (diminuzione dell'assorbimento)"
+      },
+      {
+        "B": "IGF-1"
+      },
+      {
+        "C": "Tiroxina"
+      },
+      {
+        "D": "Ormone tiroideo"
+      },
+      {
+        "E": "Insulina"
+      }
+    ],
+    "opzione_corretta": "B",
+    "spiegazione": "L'ormone della crescita (GH) ha due funzioni principali: i) Crescita del sistema scheletrico: la crescita è mediata dalle somatomedine (IGF). L'aumento della deposizione di cartilagine (incluso il solfato di condroitina) e osso con aumento della proliferazione di condrociti e osteociti. ii) Effetti metabolici: la maggior parte degli effetti metabolici sono dovuti all'azione diretta del GH. Questi includono la gluconeogenesi.",
+    "materia": "Endocrinologia",
+    "argomento": "Ormone della crescita"
+  },
+  {
+    "domanda": "La febbre scrub è trasmessa da:",
+    "opzioni": [
+      {
+        "A": "Pidocchio"
+      },
+      {
+        "B": "Zecca"
+      },
+      {
+        "C": "Acaro"
+      },
+      {
+        "D": "Pulce"
+      },
+      {
+        "E": "Mosca"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "La febbre scrub, nota anche come febbre mite, è una malattia infettiva causata dal batterio Orientia tsutsugamushi. La trasmissione avviene attraverso il morso di un acaro infetto, in particolare gli acari del genere Leptotrombidium. Gli acari sono piccoli arachidi che si nutrono del sangue di mammiferi e uccelli, e possono trasmettere la malattia attraverso il loro morso. La febbre scrub è comune in Asia e nel Pacifico, e può causare sintomi come febbre, mal di testa, dolori muscolari e eruzione cutanea.",
+    "materia": "Malattie infettive",
+    "argomento": "FEBBRE SCRUB"
+  },
+  {
+    "domanda": "Quali sono i pattern vascolari anormali osservati con la colposcopia nel caso di neoplasia intraepiteliale cervicale, ad eccezione di:",
+    "opzioni": [
+      {
+        "A": "Mosaicism"
+      },
+      {
+        "B": "Atipiche lesioni vascolari"
+      },
+      {
+        "C": "Lesioni satelliti"
+      },
+      {
+        "D": "Punti caldi"
+      },
+      {
+        "E": "Vascolarizzazione radiale"
+      }
+    ],
+    "opzione_corretta": "D",
+    "spiegazione": "La colposcopia è un esame utilizzato per visualizzare la cervice uterina e rilevare lesioni precancerose o cancerose. Nel caso di neoplasia intraepiteliale cervicale (CIN), la colposcopia può mostrare pattern vascolari anormali, come il mosaicism, le lesioni vascolari atipiche e le lesioni satelliti. Tuttavia, i punti caldi non sono un pattern vascolare anormale tipicamente associato alla CIN. I pattern vascolari anormali sono importanti per la diagnosi e la gestione della CIN, poiché possono indicare la presenza di lesioni precancerose o cancerose.",
+    "materia": "Ginecologia",
+    "argomento": "Colposcopia e neoplasia intraepiteliale cervicale"
+  },
+  {
+    "domanda": "L'esame rettale non è un test utile per la diagnosi di",
+    "opzioni": [
+      {
+        "A": "un'ernia del disco"
+      },
+      {
+        "B": "emorroidi"
+      },
+      {
+        "C": "sinus pilonidale"
+      },
+      {
+        "D": "fistola anale"
+      },
+      {
+        "E": "cancro del retto"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "Il sinus pilonidale è una condizione patologica caratterizzata dalla presenza di un canale o di una cavità nella regione sacrale, contenente peli e tessuto di granulazione infetto. La sua origine è infettiva e si verifica nella regione sacrale, tra le natiche. L'esame rettale non è un test utile per la diagnosi di questa condizione, poiché il sinus pilonidale è situato a breve distanza dietro l'ano e non può essere facilmente valutato mediante esame rettale.",
+    "materia": "Chirurgia generale",
+    "argomento": "Sinus pilonidale"
+  },
+  {
+    "domanda": "Caratteristiche del Remifentanil",
+    "opzioni": [
+      {
+        "A": "ab"
+      },
+      {
+        "B": "bc"
+      },
+      {
+        "C": "abc"
+      },
+      {
+        "D": "ac"
+      },
+      {
+        "E": "ad"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "Il Remifentanil è un oppioide sintetico con alcune caratteristiche uniche. La sua metabolizzazione avviene attraverso le esterasi plasmatiche, il che significa che non richiede un metabolismo epatico per essere inattivato. Ciò lo rende utile in pazienti con compromissione epatica. Inoltre, il Remifentanil ha un'emivita molto breve, il che lo rende ideale per procedure chirurgiche brevi o per il controllo del dolore postoperatorio. È anche più potente dell'Alfentanil, un altro oppioide sintetico. Tuttavia, la sua durata d'azione è generalmente più breve rispetto all'Alfentanil. Pertanto, la risposta corretta è abc, poiché il Remifentanil è metabolizzato dalle esterasi plasmatiche, ha un'emivita breve e è più potente dell'Alfentanil.",
+    "materia": "Anestesiologia",
+    "argomento": "Farmacologia degli oppioidi"
+  },
+  {
+    "domanda": "Cos'è l'ipomimia?",
+    "opzioni": [
+      {
+        "A": "Ridotta capacità di copiare"
+      },
+      {
+        "B": "Ridotta esecuzione"
+      },
+      {
+        "C": "Deficit di espressione attraverso i gesti"
+      },
+      {
+        "D": "Ridotta capacità di parlare"
+      },
+      {
+        "E": "Ridotta capacità di udire"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "L'ipomimia è un sintomo caratterizzato da una ridotta capacità di esprimere emozioni attraverso i gesti e le espressioni facciali. Ciò può essere dovuto a diverse condizioni neurologiche, come la malattia di Parkinson, la sclerosi multipla o lesioni cerebrali. L'ipomimia può essere diagnosticata attraverso l'osservazione del paziente e la valutazione delle sue capacità di espressione emotiva.",
+    "materia": "Neurologia",
+    "argomento": "Sintomi e segni neurologici"
+  },
+  {
+    "domanda": "La reazione di Nagler è mostrata da",
+    "opzioni": [
+      {
+        "A": "con antitossina spalmata su metà della piastra"
+      },
+      {
+        "B": "Clostridium botulinum"
+      },
+      {
+        "C": "Clostridium perfringens"
+      },
+      {
+        "D": "3"
+      },
+      {
+        "E": "nessuna delle precedenti"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "La reazione di Nagler è un test utilizzato per identificare la presenza di Clostridium perfringens, un batterio anaerobico che può causare malattie gravi come la gangrena gassosa. Il test consiste nel coltivare il batterio su un terreno di coltura contenente 5% di digesto peptico di sangue di pecora e 20% di siero umano. La presenza di C. perfringens viene confermata dalla formazione di una zona di lisi intorno alle colonie batteriche.",
+    "materia": "Microbiologia",
+    "argomento": "Identificazione di Clostridium perfringens"
+  },
+  {
+    "domanda": "Quale delle seguenti affermazioni è vera?",
+    "opzioni": [
+      {
+        "A": "I pazienti con acromegalia presentano spesso irsutismo."
+      },
+      {
+        "B": "L'irsutismo è definito come una crescita eccessiva di peli in stile maschile dipendente dagli androgeni."
+      },
+      {
+        "C": "La scala di Ferriman e Gallwey è un metodo semplice e comunemente utilizzato per valutare la crescita dei peli."
+      },
+      {
+        "D": "Punteggi superiori a 10 suggeriscono una crescita eccessiva di peli mediata dagli androgeni."
+      },
+      {
+        "E": "I pazienti con eccesso di ormone della crescita presentano sempre irsutismo."
+      }
+    ],
+    "opzione_corretta": "B",
+    "spiegazione": "L'irsutismo è una condizione caratterizzata da una crescita eccessiva di peli in stile maschile, spesso associata a un eccesso di androgeni. I pazienti con acromegalia, una condizione causata da un eccesso di ormone della crescita, possono presentare irsutismo, ma non è una caratteristica universale di questa condizione. La scala di Ferriman e Gallwey è un metodo utilizzato per valutare la crescita dei peli e punteggi superiori a 8 suggeriscono una crescita eccessiva di peli mediata dagli androgeni.",
+    "materia": "Endocrinologia",
+    "argomento": "Irsutismo"
+  },
+  {
+    "domanda": "Cosa è vero riguardo la fase di latenza?",
+    "opzioni": [
+      {
+        "A": "Nonostante possa esserci un aumento delle dimensioni delle cellule. Questo periodo iniziale è il tempo necessario per l'adattamento al nuovo ambiente"
+      },
+      {
+        "B": "La crescita avviene esponenzialmente"
+      },
+      {
+        "C": "L'altopiano nella fase di latenza è dovuto alla morte cellulare"
+      },
+      {
+        "D": "Non c'è alcun aumento apprezzabile del numero di cellule"
+      },
+      {
+        "E": "La fase di latenza è la fase finale della crescita cellulare"
+      }
+    ],
+    "opzione_corretta": "A",
+    "spiegazione": "La fase di latenza è la prima fase della crescita cellulare, durante la quale le cellule si adattano al nuovo ambiente e iniziano a prepararsi per la divisione cellulare. In questa fase, le cellule possono aumentare di dimensioni, ma non si verifica ancora una crescita esponenziale. La fase di latenza è un periodo di preparazione per la crescita cellulare, durante il quale le cellule iniziano a sintetizzare le proteine e gli acidi nucleici necessari per la divisione cellulare.",
+    "materia": "Biologia cellulare",
+    "argomento": "Crescita cellulare"
+  },
+  {
+    "domanda": "Il cambiamento farmacocinetico che si verifica nei pazienti geriatrici è dovuto a",
+    "opzioni": [
+      {
+        "A": "La diminuzione dell'età correlata varia notevolmente da persona a persona. I livelli di creatinina nel sangue spesso rimangono entro i limiti normali nonostante una diminuzione della GFR perché gli adulti più anziani in generale hanno meno massa muscolare e sono generalmente meno attivi fisicamente rispetto agli adulti più giovani e quindi producono meno creatinina."
+      },
+      {
+        "B": "Metabolismo epatico"
+      },
+      {
+        "C": "Depurazione renale"
+      },
+      {
+        "D": "Assorbimento intestinale"
+      },
+      {
+        "E": "Distribuzione del farmaco"
+      }
+    ],
+    "opzione_corretta": "C",
+    "spiegazione": "La depurazione della creatinina diminuisce di circa 8 mL/min/1,73 m2/decade; tuttavia, la diminuzione correlata all'età varia notevolmente da persona a persona. I livelli di creatinina nel sangue spesso rimangono entro i limiti normali nonostante una diminuzione della GFR perché gli adulti più anziani in generale hanno meno massa muscolare e sono generalmente meno attivi fisicamente rispetto agli adulti più giovani e quindi producono meno creatinina. La manutenzione di livelli normali di creatinina nel sangue può trarre in inganno i clinici che assumono che questi livelli riflettano una funzione renale normale. Le diminuzioni della funzione tubulare con l'età sono parallele a quelle della funzione glomerulare.",
+    "materia": "Farmacologia",
+    "argomento": "Farmacocinetica geriatrica"
+  },
+  {
+    "domanda": "Vero riguardo alla fase di latenza?",
+    "opzioni": [
+      {
+        "A": "Sebbene possa esserci un aumento delle dimensioni delle cellule. Questo periodo iniziale è il tempo necessario per l'adattamento al nuovo ambiente"
+      },
+      {
+        "B": "La crescita avviene in modo esponenziale"
+      },
+      {
+        "C": "L'altopiano nella fase di latenza è dovuto alla morte cellulare"
+      },
+      {
+        "D": "La fase di latenza è caratterizzata da una crescita cellulare nulla"
+      },
+      {
+        "E": "La fase di latenza è la fase più lunga della crescita cellulare"
+      }
+    ],
+    "opzione_corretta": "A",
+    "spiegazione": "La fase di latenza è il periodo iniziale di crescita cellulare durante il quale le cellule si adattano al nuovo ambiente. In questo periodo, le cellule possono aumentare di dimensioni, ma non si verifica una crescita cellulare apprezzabile. La fase di latenza è un periodo di adattamento durante il quale le cellule si preparano per la crescita esponenziale che seguirà.",
+    "materia": "Biologia cellulare",
+    "argomento": "Crescita cellulare"
+  }
+]

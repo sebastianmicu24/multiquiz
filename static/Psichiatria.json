@@ -1,0 +1,4469 @@
+{
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il trattamento più appropriato per il delirium è:",
+                "Benzodiazepine a bassa dose ripetibili fino a risposta completa",
+                "Un antipsicotico atipico in flebo",
+                "Un antipsicotico tipico come l&#x27;aloperidolo o atipico come risperidone",
+                "Benzodiazepine a media dose con un antipsicotico ad alta potenza",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F]f!luX`+N",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel quadro clinico della Depressione maggiore sono più frequentemente presenti:",
+                "Deliri di rovina",
+                "Tratti di Disturbo Schizotipico di Personalità",
+                "Associazione con Disturbi da Sintomi Somatici",
+                "Idee deliranti di natura persecutoria persistenti dopo la remissione dell’episodio",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ka4i/5d,g>",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La Discinesia Tardiva è una condizione che segue più frequentemente l&#x27;uso cronico di:",
+                "Antipsicotici di I generazione",
+                "Litio",
+                "Antipsicotici di II generazione",
+                "SSRI",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Kf)<>Px.Jc",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lo stress è:",
+                "Un agente esterno fisico o psichico che può recare problemi di salute",
+                "La reazione a un agente esterno fisico dannoso ma non psichico",
+                "Una reazione dell&#x27;organismo ad agenti esterni fisici o psichici di rilievo",
+                "Una condizione diffusa persistente di malessere cronico, anche senza stimoli esterni",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "GDU`*>sRrO",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La dissociazione è un fenomeno psichico che può conseguire a:",
+                "Un attacco di panico ricorrente",
+                "Un delirio nel corso di schizofrenia",
+                "Farmaci antipsicotici che non agiscono sulla dopamina",
+                "Un trauma psichico rilevante",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "migzbb#H9U",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La derealizzazione si può presentare:",
+                "Nelle depressioni agitate e nel DOC",
+                "Nella epilessia e dopo traumi psichici ma non per effetto di sostanze",
+                "Nell&#x27;epilessia, per effetto di uso di sostanze, nei traumi psichici",
+                "In un dolore intenso che rende le percezioni non reali",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K/:+J;[29t",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna di 56 anni, ricoverata in medicina interna per una tireotossicosi, inizia ad affermare che si trova in albergo, che l&#x27;anno in corso è il 1991 e che il medico è suo fratello che non vede da 15 anni. La memoria a breve termine appare scarsa",
+                "Depressione psicotica",
+                "Esordio schizofrenico",
+                "Reazione ansiosa",
+                "Delirium",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "jp9beE=J}S",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti trattamenti psicoterapeutici ha maggiore efficacia a breve termine dimostrata nel disturbo di panico?",
+                "Terapia cognitivo comportamentale",
+                "Ipnosi",
+                "Terapia familiare",
+                "Psicoanalisi ad orientamento junghiano",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "zGCicg0Cm%",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna separata di 25 anni giunge al pronto soccorso dopo essersi tagliata le vene con un vetro. Afferma di volersi suicidare e che ha effettuato un precedente tentativo 2 anni orsono. Il giorno prima ha dato il suo cane ad un vicino e lo stereo ad un suo caro amico. Il rischio suicidario, in questo caso, deve tener conto in particolare di:",
+                "L&#x27;età",
+                "L&#x27;aver dato via beni a cui era affezionata",
+                "Il sesso",
+                "II fatto che sia separata",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "yd~DDHgPLL",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gli &#x27;stati misti&#x27; dell&#x27;umore hanno sempre:",
+                "Uno stato delirante sottostante",
+                "Uno stato di depressione ed eccitamento coesistenti",
+                "Fobie e ossessioni, miste a umore depresso",
+                "Uno stato di depressione e di allucinazioni presenti",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "O8u9op61%!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il transfert può essere definito come:",
+                "La reazione al trattamento psicoterapeutico",
+                "Una forma di suggestione",
+                "L&#x27;insieme dei bisogni emotivo motivazionali, delle credenze e degli schemi interpersonali attuati dal paziente nella relazione con il clinico",
+                "Una modalità relazionale complessa determinata da fattori sociali",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "kMDO*dN$bj",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Durante il colloquio, un controtransfert caratterizzato dalla forte tendenza ad agire è più frequente con pazienti:",
+                "Di livello di organizzazione Nevrotica",
+                "Di livello di organizzazione Sana",
+                "Di livello di organizzazione Psicotica",
+                "Di livello di organizzazione di personalità Borderline",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "xGt&@L:)@A",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una minore severità di effetti collaterali extrapiramidali è generalmente indotta da:",
+                "Asenapina",
+                "Aripiprazolo",
+                "Clozapina",
+                "Risperidone",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "N,r&;1Cw=u",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le ossessioni sono definite come:",
+                "Allucinazioni mentali sullo sporco con compulsioni",
+                "Fobie irrazionali con agiti compulsivi",
+                "Deliri di contaminazione con compulsioni",
+                "Pensieri ripetitivi, intrusivi, cui spesso seguono compulsioni",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K5H]-_Mdd!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Litio raggiunge mediamente la sua concentrazione ematica terapeutica quando somministrato al dosaggio di:",
+                "600-1200 mg/die",
+                "20-50 mg/die",
+                "1500-2000 mg/die",
+                "100-200 mg/di",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "mj~bd84Ys1",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;acatisia è:",
+                "Un tremore ai muscoli pettorali",
+                "Un blinking involontario",
+                "Un eccesso di movimenti indotto da farmaci",
+                "La mancanza di movimento",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bqP7ZW$TdT",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Durante il colloquio clinico, nel caso si evidenzi una situazione nella quale il focus del discorso appare non chiaro è opportuno tornare a dare attenzione:",
+                "Al contesto familiare",
+                "Alle sensazioni controtransferali del clinico",
+                "Alla credenza patogena più significativa",
+                "Al sintomo o al comportamento più grave descritto",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "nZv2N?H7b[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La visione attualmente più diffusa inquadra la Schizofrenia come un disturbo:",
+                "origine prevalentemente psicogena",
+                "Indotto nella grande maggioranza dei casi dall&#x27;uso di sostanze psicoattive",
+                "Associato a deviazioni dal normale sviluppo neuroevolutivo",
+                "Soggetto ad esclusiva determinazione genetica",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "7BF`[LYVU",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le domande chiuse /dirette servono a:",
+                "Migliorare la qualità della relazione con il paziente",
+                "Ad entrare nel dettaglio di sintomi o comportamenti",
+                "Possono essere usate solo nei pazienti ansiosi",
+                "Non sono mai utilizzabili in psicoterapia",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vcDMgiGWSd",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Secondo le neuroscienze affettive, i sistemi emotivo-motivazionali di base sono:",
+                "Ricerca, Paura, Collera, Panico/Sofferenza, Territorialità, Gioco",
+                "Ricerca, Paura, Collera, Panico/sofferenza, Desiderio sessuale, Cura e Gioco",
+                "Ricerca, paura, Collera, Desiderio sessuale, Gioco e Intersoggettività",
+                "Ricerca, Paura, Collera, Panico/sofferenza, Cura e Gioco",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "crSzNTG>&G",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La Duloxetina possiede un&#x27;azione:",
+                "Serotoninergica selettiva",
+                "Mista serotoninergica e noradrenergica",
+                "Antiserotoninergica selettiva",
+                "Mista antiserotoninergica e noradrenergica",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "z/1ClOuPr:",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un importante effetto collaterale dell&#x27;uso del litio può essere rappresentato da:",
+                "Diabete mellito",
+                "Ipocorticosurrenalismo",
+                "Diabete insipido",
+                "Morbo di Cushing",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "|K%;fOm$^",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "II disturbo bipolare tipo II",
+                "Presenta sintomi depressivi persistenti nei periodi intercritici",
+                "E&#x27; sempre caratterizzato dalla presenza di cicli rapidi",
+                "Può presentare sintomi psicotici gravi associati alla mania",
+                "Può presentare sintomi psicotici associati alla depressione",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "p>Q!GZ]G[2",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La descalation è:",
+                "Una tecnica verbale e non verbale per trattare in psicoterapia gli attacchi di panico",
+                "Una tecnica verbale e non verbale di rassicurazione contro una paura crescente",
+                "Una tecnica non verbale di riduzione di sintomi psicopatologici gravi",
+                "Una tecnica verbale e non verbale per ridurre il rischio di comportamenti aggressivi e violenti",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "u{ETahB75a",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;Amitriptilina appartiene alla classe degli",
+                "Antidepressivi SSRI",
+                "Antipsicotici di II generazione",
+                "Antidepressivi Triciclici",
+                "Antidepressivi NARI",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Q$nq8k{C,b",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel Disturbo Delirante, le idee deliranti sono più frequentemente:",
+                "Prevalentemente incentrate su tematiche di colpa",
+                "Fondate su ideazione iterativa a carattere ossessivo",
+                "Associate a disorganizzazione della forma del pensiero",
+                "Lucide, croniche e strutturate",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bJO|fQQhaM",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "II Coping è rappresentato da:",
+                "Strategie di regolazione emotiva ricorrenti e prevedibili finalizzate alla gestione dello stress",
+                "Modalità di relazione interpersonale basata su meccanismi cooperativi",
+                "Tecniche cognitive per risolvere situazioni conflittuali",
+                "Strategie di gestione delle situazioni sociali complesse",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "QOH>`0;1vx",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cosa è richiesto per effettuare la diagnosi di acatisia?",
+                "Sensazione soggettiva di irrequietezza",
+                "Osservazione obiettiva di dondolii e movimenti",
+                "A e b",
+                "A o b",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "kwIZUc?$=h",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La sindrome di Cotard comprende:",
+                "Deliri somatici idea di essere morti",
+                "Deliri somatici e allucinazioni uditive",
+                "Deliri persecutori e dolore cronico",
+                "",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "MBnCP`(uz",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Risperidone e Quetiapina condividono azione",
+                "erotoninergica ed antidopaminergica",
+                "antidopaminergica e antiserotoninergica",
+                "dopaminergica e serotoninergica",
+                "anti serotoninergica e dopaminergica",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "yZO/G)dm:",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La sertralina a quale delle seguenti classi farmacologiche appartiene:",
+                "Benzodiazepine",
+                "Antipsicotico",
+                "SSRI",
+                "stabilizzanti dell&#x27;umore",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lwQj;zx8kW",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Come è meglio definibile il delirio genealogico:",
+                "l&#x27;incessante bisogno di situazioni erotiche",
+                "la convinzione erronea di essere il discendente di un personaggio famoso",
+                "la convinzione erronea di generare invenzioni utili",
+                "tutte le precedenti",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "s&p:78/=M3",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le allucinazioni tipicamente riscontrabili nella schizofrenia sono",
+                "visive",
+                "olfattive",
+                "uditive",
+                "tutte le precedenti",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Lw1Ad<v%hR",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I Barrages sono:",
+                "i correlati del pensiero autistico",
+                "disturbi formali del pensiero",
+                "i correlati della perseverazione",
+                "alcuni meccanismi di difesa tipici del disturbo ossessivo",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "b|PO1p6c{R",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La Folie À Deux è definibile come:",
+                "un disturbo tipico del bambini fino a 6 anni",
+                "un delirio de riguarda i cugini di un paziente schizofrenico",
+                "un disturbo psicotico condiviso",
+                "un disturbo psicotico non altrimenti specificato",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "x#r-#HJreF",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Per conversione si intende:",
+                "il convertirsi alla terapia psicoanalitica",
+                "il trasferimento sul piano somatico di conflitti psichici",
+                "il trasferimento sul piano psichico di patologie somatiche",
+                "il porre in primo piano un certo obiettivo terapeutico",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pO%+tIApue",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Come è meglio definibile il disturbo dissociativo di identità:",
+                "dissociazione della personalità con sviluppo di una psicosi",
+                "presenza di due o più identità o stati di coscienza in veglia nella persona",
+                "l&#x27;avere dubbi sulla propria identità",
+                "presenza del meccanismi di difesa “dissociazione&quot;",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "rKa((_5@nt",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;ansia libera fluttuante è:",
+                "Un ansia senza oggetto",
+                "Un ansia con oscillazione dell&#x27;intensità",
+                "Un ansia che cambia oggetto",
+                "Un ansia priva di deliri",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "mfI[WX=]Dn",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Per effettuare un trattamento sanitario obbligatorio è necessario che:",
+                "Vi sia una condizione delirante",
+                "Vi sia una condizione allucinatoria",
+                "La persona sia violenta",
+                "Sia presente la necessità di cure, la persona le rifiuti e non siano possibili altri interventi",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "s{;~_vir-e",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27; insight è :",
+                "L&#x27;alterazione del pensiero",
+                "consapevolezza del disturbo da parte del paziente",
+                "sintomo negativo della schizofrenia",
+                "criterio diagnostico per il disturbo post traumatico da stress",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "J2Vy,/)}V",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fra le caratteristiche formali dei fenomeni ossessivi ritroviamo:",
+                "Bizzarrie",
+                "Persistenza, eccessivita",
+                "Persistenza, intrunsitivita",
+                "Totale perdita dell&#x27;esame di realtà",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Gkd5#j`RU<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quanto tempo è necessario aspettare prima di porre una diagnosi di schizofrenia",
+                "Un anno",
+                "Almeno un mese",
+                "Sei mesi",
+                "Non è necessario attendere",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "e~#BGtY.rO",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna di 56 anni ricoverata in medicina interna per una tireotossicosi inizia ad affermare che si trova in albergo, che l&#x27;anno in corso è il 1991 e che il medico è suo fratello che non vede da 15 anni. La memoria a breve termine appare scarsa. Qual è la diagnosi più probabile?",
+                "Delirium",
+                "Depressione psicotica",
+                "Esordio schizofrenico",
+                "Disturbo dissociativo",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "rSM__U]zMB",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La compromissione dell&#x27;orientamento in rapporto a condizioni metaboliche o da danno neuronale di solito compromette:",
+                "Lo spazio",
+                "Il tempo",
+                "L&#x27;identità personale",
+                "Le persone conosciute",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "o81$:Z?FXP",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una persona che siede da sola e che appare stare ascoltando qualcosa improvvisamente inizia ad annuire e borbottare sottovoce. A tuo parere che esperienza sta avendo?",
+                "Un delirio",
+                "Un’allucinazione",
+                "Ha idee di riferimento",
+                "Ha la fuga delle idee",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qAk:@B~Df#",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna di 20 anni, la quale ha sempre goduto di ottima salute, arriva al pronto soccorso lamentando giramenti di testa, cefalea e nausea. Appare molto ansiosa, trema, suda, a respira superficialmente e Frequentemente. Mentre attende di essere visitata lamenta di parestesie orali e lungo le braccia. Qual è la condotta più appropriata?",
+                "invitarla a respirare in un sacchetto di carta",
+                "Somministrarle i.v. 50 ml di glucosio al 50%",
+                "Farla fare und TC cerebrale",
+                "Far efféttuare un esame tossicologico per alcol",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oVySJox:RM",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il rischio di suicidio è minore:",
+                "Nei single",
+                "Negli sposati",
+                "Nei divorziati",
+                "Nei vedovi",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "iNu7CbZ&WI",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti non è un effetto collaterale dei neurolettici?",
+                "Visione appannata",
+                "Ipotensione ortostatica",
+                "Ritenzione urinaria",
+                "Salivazione eccessiva",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "m_h%P:c|>B",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L’effetto biologico della maggior parte delle sostanze psicostimolanti è",
+                "antagonismo dei recettori della serotonina pontino",
+                "incremento dell’attività dopaminergica mesolimbica",
+                "inibizione dei circuiti GABA a livello dei giri temporali",
+                "antagonismo dei recettori dopaminergici del n accumbens",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "CIcc2c%jdu",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le ossessioni sono definite come",
+                "allucinazioni mentali sullo sporco con compulsioni",
+                "fobie irrazionali con atti compulsivi",
+                "deliri di contaminazione con compulsioni",
+                "pensieri ripetitivi intrusivi cui spesso seguono compulsioni",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oOBn#-~%J)",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lo stile impressionistico dell’eloquio è caratteristico di",
+                "istrionico",
+                "antisociale",
+                "evitante",
+                "schizoide",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "GMKW5~au;s",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I criteri minimi per la diagnosi di un episodio di depressione maggiore prevedono durata minima dei sintomi di",
+                "2 settimane",
+                "4 settimane",
+                "1 settimana",
+                "3 settimane",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n([a|N}Nr`",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le allucinazioni sono",
+                "percezione uditiva come una voce ma mai di tipo visivo",
+                "una percezione uditiva e visiva o cutanea senza oggetto",
+                "Un pensiero normale di quella persona è convinta",
+                "una percezione visiva di un oggetto mai uditiva",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bjq@DDyuJ_",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I sintomi principali della depressione sono",
+                "insonnia promiscuità ridotta tolleranza alle frustrazioni con irritabilità scoppi di ira",
+                "ritiro sociale, assenza di motivazione, ridotta tolleranza alle frustrazioni e umore depresso",
+                "dissociazione e allucinazioni",
+                "umore depresso eccessivo ampliamento dell’attività e della responsabilità e megalomania",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "q4:3sRgn4#",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La anedonia è",
+                "L’incapacità di trovare un nome per gli oggetti",
+                "assenza di dolore",
+                "un sintomo del disturbo maniacale",
+                "Incapacità di provare piacere",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "C2@,(II#%$",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Allucinazioni ipnagogiche sono",
+                "Allucinazioni che si manifestano durante il risveglio",
+                "considerate esperienze ricorrenti nel disturbo schizofrenico",
+                "allucinazioni che si manifestano durante l’addormentamento",
+                "caratteristiche della psicosi",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "y?;(c?tr0A",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ad un gruppo per la prevenzione delle ricadute cliniche un paziente riporta che spesso dimentica di prendere i farmaci, quale dovrebbe essere il primo intervento?",
+                "dire al paziente di mettere la sveglia al cellulare",
+                "dire al paziente di comprare un porta pillole",
+                "discutere dei sentimenti che hanno nel prendere le medicine con il gruppo",
+                "scrivere una ricetta",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qn=p,FfHiv",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti non è un criterio per la diagnosi del disturbo di ansia generalizzato",
+                "sudorazioni",
+                "palpitazioni",
+                "durata almeno 3 mesi",
+                "Tremori",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n14I&=[?<O",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti affermazioni sui triciclici è vera",
+                "agiscono a livello sinaptico prevenendo il metabolismo",
+                "non hanno effetti collaterali",
+                "Hanno necessità di 2/4 settimane per essere efficaci",
+                "Non producono modificazioni pressorie",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "HtEZI;a.7,",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti disturbi di personalità è più frequente nelle donne",
+                "Paranoide",
+                "schizotipico",
+                "borderline",
+                "Antisociale",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "x+jLNH.XdN",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti trattamenti non è utile per trattamento delle fobie",
+                "psicoanalisi",
+                "terapia cognitivo comportamentale",
+                "modificazioni comportamentali",
+                "Terapia comportamentista",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "naB@(6rO-D",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I disturbi di personalità inclusi nel cluster B sono accomunati da",
+                "eccentricità bizzarria e ideazione paranoide",
+                "paura dell’abbandono inabilità a tollerare o modulare le emozioni interne",
+                "ansietà e timore",
+                "tutte le precedenti",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F.vMv9]+j[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una bambina di sette anni ospedalizzata per tonsillectomia si sveglia improvvisamente durante la notte piangendo perché vi è un grande orso nella sua stanza, come classifichi questa esperienza",
+                "allucinazione",
+                "de ja vu",
+                "illusione",
+                "reazione dissociativa",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fLySf3q_-Z",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "1. GLI INTERVENTI SUI GENITORI DI UN BAMBINO CON DISABILITA&#x27; INTELLETTIVA MIRANO A:",
+                "indurti a far socializzare il figlio !!",
+                "incoraggiarli ad avere altri figli",
+                "far prendere coscienza delle possibilità del figlio",
+                "tutte le risposte",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "k8G_zzgUMk",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "2. IL CONTINUOUS PERFORMANCE TEST E’ UN REATTIVO UTILIZZATO PER:",
+                "Disturbo spettro autistico",
+                "Disabilità intellettiva",
+                "Disturbo da deficit attenzione ed iperattività.",
+                "Tic",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pgf`n(Z{gj",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3: IL DISEGNO PUO' ESSERE UTILIZZATO COME REATTIVO",
+                "1) di livello cognitivo",
+                "2) di regolazione sensoriale",
+                "3) proiettivo",
+                "4) risposte 1 e 3",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wDX]RS/xU!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "4. LA DISABILITA' INTELLETTIVA PUO' ASSOCIARSI A:",
+                "Disturbo dello spettro autistico",
+                "Disturbo da deficit dell'attenzione ed iperattività",
+                "Disturbo del movimento",
+                "tutte le risposte",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "E4Y*d<HFvK",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "5. NELLA DISABILITA' INTELLETTIVA DI GRADIO MODERATO IL Q.I. E COMPRESO",
+                "10-25",
+                "35-55",
+                "55-70",
+                "40-60",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "m=dE<FMB,o",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6. IL DISTURBO DELLO SPETTRO AUTISTICO E CARATTERIZZATO DA",
+                "compromissione dell&#x27;interazione sociale",
+                "compromissione della comunicazione e presenza di interessi stereotipati, ristretti ripetitivi",
+                "compromissione dell'interazione sociale e della comunicazione - linguaggio",
+                "L’insieme di tutte le risposte",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "h(x!u,FnP,",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Come viene denominata la funzione integrativa che organizza il campo dell’esperienza sensitiva attuale ed assicura l’orientamento temporo-spaziale e di processi di discriminazione e scelta:",
+                "intelligenza",
+                "Coscienza",
+                "Memoria",
+                "Fantasia",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uY4`i)n!AX",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un approccio integrato psicoterapico e psicofarmacologico nel caso del trattamento di pazienti affetti da disturbo borderline di personalità:",
+                "È sconsigliato in quanto la medicazione i soggetti psicologicamente fragili ne",
+                "Può essere utile per ridurre il rischio suicidario",
+                "trova indicazione solamente nel caso di psicoterapia d’orientamento psicodinamico",
+                "non è stato mai studiato ed è controindicato per questo",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "O4c1K/+n<`",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L’agorafobia:",
+                "Si associa ad ideazione ossessiva solo nei soggetti di sesso femminile. aumenta il rischio di non adesione alla terapia",
+                "È costantemente presente nelle persone con fobia sociale.",
+                "È una reazione ansiosa rispetto a situazioni da cui potrebbe essere difficile ricevere soccorsi.",
+                "È un sintomo tipico della depressione maggiore.",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "npBoOeN[;6",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il disturbo ossessivo compulsivo (DOC):",
+                "Dimostra regolarmente una precisa determinazione genetica.",
+                "Risponde più frequentemente a farmaci serotoninergici ed a psicoterapia.",
+                "Appartiene ad uno spettro nel quale è incluso il disturbo borderline di personalità.",
+                "Ha buone evidenze di risposta all’elettroshock terapia.",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "<y4fo0hpD",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una persona che si siede da sola e che appare stare ascoltando qualcosa improvvisamente inizia ad annuire e borbottare sottovoce. A tuo parere che esperienza sta vivendo?",
+                "Delirio.",
+                "Illusione.",
+                "Allucinazione.",
+                "Idee di riferimento.",
+                "Fuga delle idee.",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "HE^c{<CrX`",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna di 56 anni ricoverata in medicina interna per una tireotossicosi, inizia ad affermare che si trova in albergo, che l’anno in corso è il 1991 e che il medico è suo fratello che non vede da 15 anni. la memoria a breve termine appare scarsa. Qual è la diagnosi più probabile?",
+                "Delirium.",
+                "Depressione psicotica.",
+                "Esordio schizofrenico.",
+                "Reazione ansiosa.",
+                "Disturbo dissociativo.",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "id$dpB%nq+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un importante effetto dell’uso di Litio è rappresentato da:",
+                "Ipercorticosurrenalismo.",
+                "Iperparatiroidismo.",
+                "Iperinsulinismo.",
+                "Ipertiroidismo.",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "s)VmZyq<c@",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una maggiore severità di effetti collaterali extrapiramidali è generalmente indotta da:",
+                "Clozapina.",
+                "Risperidone.",
+                "Aripiprazolo.",
+                "Quetiapina.",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vL[^`~NczB",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gli antipsicotici di II generazione condividono un’azione recettoriale:",
+                "Serotoninergia ed antidopaminergica.",
+                "Antidopaminergica e antiserotoninergica.",
+                "Antiserotoninegica e dopaminergica.",
+                "Dopaminergica e serotoninergica.",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "FC4{2X]._>",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La sertralina è indicata in modo primario nel trattamento di:",
+                "Schizofrenia con sintomi negativi.",
+                "Esclusivamente disturbi depressivi di tipo bipolare.",
+                "Disturbi depressivi e disturbi d’ansia.",
+                "",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F!qRrI,y9j",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un’importante controindicazione all’uso del litio è rappresentata da:",
+                "Iperparatiroidismo.",
+                "Aritmie genetiche.",
+                "Episodi depressivi gravi ricorrenti.",
+                "Pregressa ischemia cerebrale con deficit motori.",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pQx-nx|=/U",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La paroxetina è indicata in modo primario nel trattamento di:",
+                "Schizofrenia con sintomi negativi e di disorganizzazione.",
+                "Soltanto disturbi depressivi persistenti.",
+                "Disturbi depressivi e disturbi di panico.",
+                "Soltanto disturbi di panico.",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "OLU9>Q&_!J",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Appartengono alla classe degli SSRI:",
+                "Escitalopram, Quetiapina e Fluvoxamina.",
+                "Fluoxetina, paroxetina e Duloxetina.",
+                "Fluoxetina, paroxetina e sertralina.",
+                "Fluoxetina, Cambamazepina e paroxetina.",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "j<2oAl?c{-",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il disturbo istrionico si associa a",
+                "disturbi psicotici cronici",
+                "disturbi somatoformi e dissociativi",
+                "disturbo bipolare",
+                "disturbo depressivo maggiore ricorrente",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "c:OWxh/[[[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel trattamento della mania",
+                "litio, valproato, fluvoxamin",
+                "litio, carbamazepina, olanzapina",
+                "valproato, queietapina, citalopram",
+                "paroxetina,litio, valproato",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KPD!nK84W[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il disturbo bipolare tipo 1",
+                "è sempre a cicli rapidi",
+                "presenta sempre sintomi psicotici e mania",
+                "PUÒ presentare psicosi insieme a mania",
+                "si caratterizza per la presenza di disturbi depressivi persistenti",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uhe4;8yQ&/",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le allucinazioni uditive nel disturbo bipolare di tipo uno",
+                "possono verificarsi solo nella fase maniacale",
+                "non rispondo ai trattamenti farmacologici",
+                "Escludono che la diagnosi sia giusta",
+                "Possono verificarsi sia nella fase depressiva sia in quella maniacale",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l;$~{(t?2w",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel trattamento della mania sono indicati:",
+                "litio valproato fluvoxamin",
+                "litio, carbamazepina, olanzapina",
+                "valproato queietapina citalopram",
+                "paroxetina litio valproato",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "i&l%|GnH#S",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La depressione non incrementa il rischio di:",
+                "Episodi cerebrovascolari",
+                "Malattie infettive",
+                "Dolore cronico",
+                "Ernia jatale",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Q?kX6iuIt+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La perseverazione è:",
+                "un disturbo del contenuto del pensiero",
+                "un disturbo della forma del pensiero",
+                "un disturbo della sensopercezione",
+                "un disturbo dell’affettività",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "P>O1Ya&zlO",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un fattore di rischio suicidario nella schizofrenia è:",
+                "una scarsa consapevolezza di malattia",
+                "un alto livello di funzionalità premorbosa",
+                "un basso livello di funzionalità premorbosa",
+                "il sesso femminile",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wlOa>t^[6r",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nel disturbo bipolare il rischio di suicidio è più alto:",
+                "nella fase tardiva della malattia",
+                "se la sintomatologia non è di tipo misto",
+                "nella fase di passaggio depressione-mania",
+                "nella donne in età avanzata",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t&tDd0bN%2",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la somministrazione di antidepressivi IMAO:",
+                "indice ipotensione",
+                "comporta restrizioni dietetiche",
+                "induce discinesia tardiva",
+                "induce sintomi parkinsoniani",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vHzsNn],D!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il disturbo di somatizzazione:",
+                "è caratterizzato dal dolore come punto focale principale della alterazione clinica",
+                "è caratterizzato da lamentele fisiche non giustificate",
+                "comporta sintomi ingiustificati di deficit riguardanti le funzioni motorie volontarie e sensitive",
+                "è caratterizzto dall’associazione di dolore e sintomi gastro-intestinali, sessuali e pseudoneurologici",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K9Sk{x]7oI",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti affermazioni relative alla depressione è vera?:",
+                "il trattamento farmacologico è efficace nel 90% dei casi",
+                "il trattamento combinato psicoterapeutico e farmacologico si è dimostrato più efficace dell’uso, solo della psicoterapia o della farmacoterapia",
+                "il trattamento elettroconvulsivante è inefficace",
+                "la depressione maggiore richiede sempre il ricovero",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "BYKx40]C^0",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il delirium è",
+                "una forma di delirio in cui il paziente parla in una lingua staniera",
+                "uno stato confusionale",
+                "un Delirio con contenuti particolari riferiti ad altre persone",
+                "una condizione di coscienza caratterizzata da derealizzazione",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "w9~mQuTIVW",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "quali dei seguenti antidepressivi aumenta il rischio di crisi epilettiche?",
+                "Bupropione",
+                "Sertralina",
+                "Citalopram",
+                "Duloxetina",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "i@(_Fnc(Cs",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "un uomo di 65 anni effetua un intervento di prostatectomia. in seconda giornata posto operatoria sviluppa una modificazione dello stato di coscienza con alterazione di normale vigilanza. Quando è vigile è decisamente agitato e il personale infermieristico lamenta che sia spesso aggressivo. Cosa valuti come opzione di trattamento in questo paziente per impedire che si possa procurare delle lesioni?",
+                "Lorazepam lv",
+                "Aloperidolo im",
+                "Dintoina lv",
+                "Intervento familiare",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ILWr)6uP7k",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dopo aver assunto dell’aloperidolo un paziente sviluppa rigidità, febbre, tremori, aumento delle CPK. Quelè il miglior trattamento?",
+                "Dantrolene e sospensionedell’aloperidolo",
+                "Litio",
+                "Benzodiazepine",
+                "Acido acetilsalicilico",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "m<z4Pp;1rq",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un uomo di 68 anni viene visitato per la presenza di letargia, scarsa concentrazione e difficoltà di attenzione. Ha la sensazione di essere seguito dai servizi segreti. è lievemente atassico, ha un lieve deficit di forza distale, la cute è pallida, presenta macroglossia e i riflessi osteotendinei sono poco evocabili. A quale diagnosi pensi?",
+                "Deficit b12",
+                "depressione maggiore",
+                "ipotiroidismo",
+                "idrocefalo normoteso",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bX^[X(L?L:",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un ragazzo di 13 anni viene condotto a visita dalla madre, la quale riferisce che da alcuni mesi è meno attento, mangia di più, ha avuto un calo nel rendimento scolastico e “perde tempo”. L’unico segno obiettivo è una iperemia congiuntivale. come procedi?",
+                "Lo invii a visita da un neuropsichiatra infantile",
+                "fai effettuare uno screening tossicologico urinario",
+                "avverti i servizi sociali",
+                "lo invii a visita da un oculista",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "PLBK~af><_",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "a tuo parere qual è la misura da adottare per un paziente che presenta una evidente ideazione suicidaria?",
+                "ricoverarlo",
+                "farlo vigilare da un familiare infermiere o altri",
+                "sedarlo farmacologicamente",
+                "farlo contenere meccanicamente",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "MX3(7-BkJO",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "qual è la domanda migliore da porre ad un paziente in cui si sospetta un disturbo ossessivo compulsivo",
+                "ha difficoltà di memoria?",
+                "ha pensieri che non riesce a controlare?",
+                "le viene l’ansia se prende l’ascensore?",
+                "ha difficoltà di concetrazione?",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wQ[qj1:b1x",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "qual è la condizione per la quale vi è una apprensione cronica ed irrazionale per un oggetto o una situazione e la persona compie notevoli sforzi per evitarla, decisamente superiori all’effettivo possibile pericolo o minaccia e se non può evitare lo stimolo appare in grande stress?",
+                "Mania",
+                "ossessione",
+                "s di tourette",
+                "fobia",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bp|UWxLkg*",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "che cosa non è un miglioramento di una condizione psicotica?",
+                "sentire meno voci quando si è ansiosi",
+                "sentirsi più confortevoli in una stanza con altre persone",
+                "pensare che alla tv si stia parlando di me",
+                "arrabbiarsi di meno quando si diviene sospettosi",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "b){r@@2Y&0",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Al capitolo dei disturbi psicotici nel DSM-5 appartengono:",
+                "mania e depresisone maggiore con manifestazioni psicotiche",
+                "disturbo schizofreniforme e disturbo somatoforme",
+                "disturbo schizoaffettivo e disturbo delirante",
+                "disturbo schizotipico di personalità e disturbo schizoide di personalità",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wFU@Z@4MyU",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "una condizione di stress cronico incrementa il rischio di insorgenza di",
+                "disturbo post traumatico da stress",
+                "episodi depressivi",
+                "disturbo bipolare a cicli rapidi",
+                "anoressia mentale",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "C+J1K|1v3-",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la mania",
+                "può comprendere ideazione delirante a sfondo megalomanico",
+                "non si accompagna mai alla depressione maggiore",
+                "in pazienti con disturbo bipolare i esordisce sempre in età avanzata",
+                "risponde esclusivamente ai farmaci antipsicotici",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "eyPiF_#L>E",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il disturbo schizotipico di personalità è caratterizzato da:",
+                "Teatralità manipolatività",
+                "eccentricità, bizzarria",
+                "ideazione delirante persecutoria",
+                "dipendenza emotiva da figure significative",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "I<E!{H:A<U",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "quale tra queste affermazioni su un’idea ossessiva è falsa:",
+                "si presenta con caratteri di iteratività e incoercibilità",
+                "è spesso incentrata su tematiche di contaminazione",
+                "è criticata dal paziente come inadeguata ed estranea",
+                "si fonda su ideazione interpretativa di significato persecutorio",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "p]%Xf.M0Ve",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il disturbo di panico è più frequentemente caratterizzato da:",
+                "agorafobia ed ideazione ossessiva",
+                "agorafobia e condotte di evitamento",
+                "condotte di evitamento mai con agorafobia",
+                "ansia generalizzata con sintomi cronici di insonnia",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qjWCD*0T*Y",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "l’uso cronico di cannabinoidi comporta più frequentemente il rischio di induzione di:",
+                "demenza fronto-temporale senza compromissione specifica delle funzioni esecutive",
+                "depressione cronica amotivazionale con deficit cognitivi",
+                "disurbo di panico ad esordio adolescienziale e decorso cronico",
+                "dipendenza da oppiacei",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "M#Djj61BQ+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il trattamento con sali di litio è indicato:",
+                "nella prevenzione delle riacutizzazioni nella schizofrenia paranoide",
+                "nella prevenzione degli episodi sia depressivi che maniacali nel disturbo bipolare",
+                "nella prevenzione dei soli epidosi maniacali nel disturbo bipo",
+                "nella prevenzione dei soli episodi di eccitamento nel disturbo schizoaffettivo",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Bc(L-,1VRZ",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "l&#x27;episodio depressivo maggiore ha una durata minima secondo il DSM-5 di",
+                "2 ore",
+                "2 giorni",
+                "2 settimane",
+                "2 mesi",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oO%a]Zw,_V",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&quot;Stato alterato di coscienza caratterizzato da restringimento del campo&quot; è la definizione di:",
+                "Stato oniroide",
+                "Stato confusionale",
+                "Stato crepuscolare",
+                "Stato delirante",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "q_WQbG3$b5",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L’episodio maniacale secondo il DSM-5:",
+                "Ha una durata minima di 7 giorni",
+                "Ha una durata minima di 10 giorni consecutivi",
+                "Ha una durata minima di 14 giorni",
+                "Ha una durata minima di un mese",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fd,CTM9kV6",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L’Effetto biologico comune nella maggior parte delle sostanza psicostimolanti è:",
+                "L’antagonismo dei recettori della serotonina al livello pontino",
+                "L’inibizione dei circuiti del GABA a livello dei giri temporali bilaterali",
+                "La liberazione di dopamina nel nucleo accumbens e nell’amigdala",
+                "L’antagonismo dei recettori dopaminergici nel nucleo accumbens e nell’amigdala",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wZ=ybS<Qa^",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le allucinazioni visive di insetti sono più frequenti:",
+                "nelle psicosis schizofreniche",
+                "nel disturbo bipo",
+                "nel delirium tremens",
+                "nella demenza",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Qb:gD=jUob",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "quale tra i seguenti non è un disturbo dell’eloquio",
+                "risposte di traverso",
+                "neologismo",
+                "iperestesia",
+                "schizofasia",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "r<>$G]O/]@",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "una maggiore severità di effetti collaterali extrapiramindali è generalmente indotta da:",
+                "olanzapina",
+                "aloperidolo",
+                "aripiprazolo",
+                "quetiapina",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "rK~o:=YVf>",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il DSM V è:",
+                "organismo internazionale per lo studio delle malattie",
+                "sistema di classificazione dei disturbi neurologici",
+                "sistema di classificazione e diagnostico dei disturbi mentali e psicopatologici",
+                "un test psicometrico",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lZL,s(@W_A",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "qual è la molecola più frequentemente preescrtitta nel disturbo da deficit dell’attenzione?",
+                "metilfenidato",
+                "atomoxitina",
+                "valproato di sodio",
+                "carbamazepina",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "tk)l`6IK!e",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Dopo la trsiomia 21 la causa più frequente di disabilità intellettiva è",
+                "sclerosi tuberosa",
+                "fenilchetonuria",
+                "sindrome dell’x fragile",
+                "sindrome di prader willi",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Qx;F7,SjP)",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti neurolettici produce meno effetti collaterali sulla via nigro-striale?",
+                "Quetiapina",
+                "Pali periodo e",
+                "Aloperidolo",
+                "Risperidone",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "y_/b;r>X$E",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti neurolettici produce meno effetti collaterali sulla via nigrostriatale?",
+                "Pimozide",
+                "Aripiprazolo",
+                "Alloperidolo",
+                "Risperidone",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Gd?x?K}f49",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La vantafaxina possiede un’azione:",
+                "Antidopaminergica selettiva",
+                "Serotoninergica selettiva",
+                "Mista serotoninergica e noradrenergica",
+                "Mista antiserotoninergica e antinoradrenergica",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "dO<cc7fzk:",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "un importante effetto collaterale dell’uso del litio è",
+                "ipercortisolismo",
+                "iperpara",
+                "iperinsulinismo",
+                "ipertiroidismo",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qbLsDh|kVN",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "un sintomo di somatizzazione è:",
+                "un sintomo somatico associato ad uno stato emotivo",
+                "la manifestazione psicologica associata ad una grave condizione somatica",
+                "un sintomo esclusivamente presente nel disturbo da attacchi di panico",
+                "una diagnosi specifica nel dsm5",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "y~Y!kOQWdD",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale tra le seguenti affermazioni sull’ossessione è falsa:",
+                "È sempre concentrata su tematiche rupofobiche / Si fonda su ideazione di riferimento a sfondo persecutorio",
+                "Non è condivisa dal paziente",
+                "È criticata come inadeguata",
+                "È caratterizzata da iterattività e incoercibilità",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "C(2b2Ws~Y2",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un uomo di 40 anni viene portato in ospedale dopo un incidente stradale e viene ospedalizzato. dopo 72 ore dal ricovero riferisce all’infermiera di sentire delle voci che lo inviano a proteggere la madre e la sensazione che ci sia qualcuno alla porta sebbene non ne sia certo. diagnosi più probabile?",
+                "Disturbo post traumatico da stress",
+                "delirium tremens",
+                "disturbo schizoaffettivo",
+                "depressione psicotica",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bW4bAC>[?c",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una condizione di stress cronico costituisce un fattore prevalente di rischio per:",
+                "Sviluppo di psicosi cronica",
+                "Episodi di depressione maggiore",
+                "Anoressia mentale",
+                "Disturbo post traumatico da stress",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "gD~{J(X{w!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale tra queste affermazioni sulla compulsione è falsa:",
+                "È un atto motorio ossessivo",
+                "Può derivare da un singolo impulsò ossessivo che conduce direttamente all’azione",
+                "Può essere mediata da un pensiero",
+                "È presente generalmente nei disturbi dell’umore / (nei disturbi psicotici)",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "eYtE+%I8[~",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale tra queste affermazioni sull’ossessione è falsa?",
+                "È sempre incentrata su tematiche rupofobiche",
+                "Non è condivisa dal paziente",
+                "È criticata come inadeguata",
+                "È caratterizzata da interativita e incoercibilità",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "NOgwn</AaM",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel trattamento della mania sono indicati",
+                "litio cmz fluvoxamina",
+                "Litio valproato e quetiapina",
+                "Cmz citalopram olanzapina",
+                "Fluoxetina litio e lamotigrina",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "m+r-vw^_!o",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sindrome di landau klefner è caratterizzata da",
+                "Epilessia",
+                "Disturbo del comportamento",
+                "Afasia, agnosia uditiva, epilessia e disturbo del comportamento",
+                "Epilessia, afasia/ agnosia uditivo",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Ajmdg1~c~H",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Agorafobia :",
+                "Si associa a ideazione ossessiva",
+                "È spesso presente nelle persone con disturbo di panico",
+                "È una reazione ansiosa Che accompagna l’esposizione forzata al giudizio degli altri",
+                "Ha un’etimologia che deriva dal latino",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "dQUyA.$Zd9",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La ventafaxIna:",
+                "A un’azione antidopaminenergica selettiva",
+                "Serotoninergica selettiva",
+                "Mista serotoninergica e noradrenergica",
+                "Mista antiserotoninergica e antiadrenergica",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "M8HcEFeROn",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale tra le seguenti affermazioni sulla compulsione è falsa",
+                "È un atto notorio ossessivo",
+                "Può derivare da un singolo impulsò ossessivo che conduce all’azione",
+                "Può essere mediata da un pensiero",
+                "È presente generalmente nei disturbi dell’umore",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "G;3J~-Ly`<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un paziente schizofrenico si presenta in studio con movimenti involontari e ripetuti della lingua faccia estremità tronco. Afferma di stare assumendo regolarmente la terapia. Qual è la condotta terapeutica più appropriata?",
+                "Litio 300 mg",
+                "Bromocriptina",
+                "Levodopa",
+                "Riduzione dosaggio neurolettici",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "HB]_iur6GN",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il termine stress definisce :",
+                "Una grave condizione di patologia psicosomatica",
+                "Una reazione fisiologica dell’organismo con finalità adattative",
+                "Un disturbo emotivo classificato tra i disturbi d’ansia",
+                "Nessuna condizione di interesse medico",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "H1<?rJ8CUY",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L’uso cronico di Cannabinoidi omporta più frequentemente :",
+                "Demenza fronto temporale",
+                "Depressione cronica amotivazionale con deficit cognitivi",
+                "Doc",
+                "Disturbi somatoformi",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vQe(Oqu*ge",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le allucinazioni visive di insetti sono più frequenti :",
+                "Psicosi schizofrenica",
+                "Disturbo bipolare",
+                "Delirium tremens",
+                "Demenza",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pk<*!r&jn-",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wisc è un test:",
+                "Di efficacia intellettiva",
+                "Di sviluppo 1-30 mesi",
+                "Del sangue",
+                "Proiettivo",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "rKG-CoO::P",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La behaviour vineland adaptive è una scala di valutazione",
+                "Dello sviluppo adattivo",
+                "Delle funzioni esecutivo",
+                "Delle funzioni visuopercettive",
+                "Delle difficoltà scolastiche",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Of_bE0cK;}",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I tic sono:",
+                "1) Improvvisi involontari coscienti e imperiosi",
+                "2) Presenti sia in veglia che nel sonno",
+                "3) Presenti in veglia",
+                "4) 1 e 3",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "cLVh{AmgV%",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le persone con disturbo schizotipico di personalità presentano:",
+                "una forte predisposizione a divenire schizofreniche",
+                "stili di comunicazione e pensiero bizzarro",
+                "allucinazione e deliri continui",
+                "sintomi psicotici ma non affettivi",
+                "non hanno una storia familiare di schizofrenia",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "B?K7xbO&qa",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un uomo di 28 anni è condotto al pronto soccorso dalla polizia perché trovato ad urlare alle auto in un parcheggio. Appare cooperativo, le condizioni igieniche sono buone ed è preoccupato dalla valutazione psichiatrica. riferisce che è una settimana che sente voci che annunciano la prossima fine del mondo. nega abuso di sostanze, l’esame tossicologico conferma quanto riferito. la diagnosi più probabile è:",
+                "schizofrenia",
+                "episodio maniacale",
+                "disturbo schizofreniforme",
+                "disturbo psicotico breve",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "G,lRz$`2B=",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "l’episodio maniacale, secondo il DSM 5:",
+                "ha una durata minima di 7 giorni",
+                "ha una durata minima di 10 giorni consecutivi",
+                "ha una durata minima di 14 giorni",
+                "ha una durata minima di un mese",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lq5q{r(N9Z",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "A tuo parere qual è la misura da adottare per un paziente che presenta un’evidente ideazione suicidaria",
+                "Farlo contenere meccanicamente",
+                "Ricovero",
+                "Farlo vigilare da un familiare o infermiere",
+                "Sedarlo farmacologicamente",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uIkamDLNb*",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il disturbo ciclotimico è",
+                "Un disturbo di personalità",
+                "Un disturbo dissociativo",
+                "Un disturbo dell’umore",
+                "Un disturbo di ansia",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Oi&JmSj)w9",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la venlafaxina possiede un’azione:",
+                "antidopaminergica selettiva",
+                "serotoninergica selettiva",
+                "mista serotoninergica e noradrenergica",
+                "mista antiserotoninergica e antinoradrenergica",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Ac^5r|MR4<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "appartengono alla classe degli SSRI:",
+                "duloxetina, quetiapina, sertralina",
+                "sertralina, paroxetina e carbamazepina",
+                "fluoxetina, fluvoxamina e sertralina",
+                "escitalopram, clozapina e paroxetina",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "B!HK2d5S:I",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il disturbo bipolare di tipo uno",
+                "Non è mai caratterizzato dalla presenza di cicli rapidi",
+                "Se esordisce in fase depressiva può presentare problematiche di diagnosi differenziale con un disturbo depressivo",
+                "Non si caratterizza per la presenza di eccitamento maniacale",
+                "Non si caratterizza per la presenza di episodi depressivi maggiori",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ugiZB129z_",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Secondo il modello di Million e Davies, all’incrocio tra una personalità con stile passivo e una fonte di rinforzo costituita dagli altri è presente una personalità:",
+                "Dipendente",
+                "Depressiva",
+                "Sadica",
+                "Nessuna delle precedenti",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "y7%K8|rrSu",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Tra queste quali sono le scale di grave patologia della personalità descritte da Millón?",
+                "Antisociale borderline schizotipico",
+                "Borderline schizotipico paranoide",
+                "Paranoide masochista borderline",
+                "Schizoide schizotipico paranoide",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "dD{9bBMA5y",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La personalità evitante descrive soggetti",
+                "Con marcato ritiro sociale nonostante il loro desiderio stabilire relazioni con gli altri",
+                "Incapaci di provare desiderio dolore o piacere con emozioni e bisogni affettivi minimi",
+                "Che ricercano continuamente rapporti sociali all’interno del quale affidarsi agli altri",
+                "Con dis regolazione affettiva in particolare nell’instabilità e nella labilità dell’umore",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "BQF<*;n)LA",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale tre seguenti non è un elemento del dominio strutturale della personalità",
+                "Immagine di se",
+                "Disturbo d’identità",
+                "Organizzazione morfologica",
+                "Temperamento o umore",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "h~i#.V0f6G",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La personalità negativista/ passivo aggressiva descrive soggetti",
+                "Con marcata fiducia in se stessi e senso di superiorità sfruttando gli altri a proprio vantaggio",
+                "Caratterizzati da uno schema irregolare di rabbia esplosiva intervallate da periodi di sensi di colpa e vergogna",
+                "Che si rapportano agli altri in maniera ossequiosa e consentono loro di sfruttarli o trarre i vantaggi da loro",
+                "Con diffidenza vigile verso gli altri e con un chiaro atteggiamento difensivo che anticipa le critiche",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ofps4CCe<*",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la personalità dipendente descrive soggetti",
+                "con distacco nei rapporti interpersonali, disfunzione cognitiva, eccentrici nel comportamento, percepiti come ‘strani’",
+                "molto indecisi e delusi nel loro oscillare tra la deferenza e la sfida",
+                "che provano piacere e soddisfazione dall’umiliazione degli altri o dalla violazione dei loro diritti e sentimenti",
+                "che si rapportano con gli altri in modo ossequioso e sempre pronti al sacrificio",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "e;jPZ/$}pj",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "elencare gli elementi del dominio funzionale della personalità",
+                "identità",
+                "autodirezionalità",
+                "empatia",
+                "intimità",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "keL}p=EeRZ",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la personalità borderline descrive soggetti",
+                "con marcato ritiro sociale, nonostante il loro desiderio a stabilire relazioni con gli altri",
+                "incapaci di provare desiderio, dolore o piacere, con emozioni e bisogni affettivi ridotti al minimo.",
+                "che ricercano continuamente rapporti sociali all’interno dei quali l’affidarsi agli altri può garantire loro affetto, sicurezza e guida",
+                "con disregolazione affettiva, in particolare nell’instabilità e nella labilità dell’umore.",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qJ[;tah62P",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nel disturbo da tic il sistema neurotrasmettitoriale coinvolto è:",
+                "serotoninergico",
+                "dopaminergico",
+                "noradrenergico",
+                "adrenergico",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K4~xIVf4b<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "un’importante controindicazione all’uso del litio è rappresentata da",
+                "iperaldosteronismo",
+                "aritmie genetiche",
+                "episodi depressivi gravi ricorrenti",
+                "pregressa ischemia cerebrale con deficit motori",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "6C:R?j.`9",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il disturbo dello spettro autistico si associa più frequentemente a",
+                "disabilità intellettiva",
+                "epilessia",
+                "disturbo da deficit di attenzione e iperattività",
+                "disabilità intellettiva ed epilessia.",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "PULQrQ>WLi",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "vineland adaptive behaviour scale è una scala di valutazione:",
+                "del temperamento",
+                "dello sviluppo adattativo",
+                "delle funzioni intellettive",
+                "delle funzioni esecutive",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fNF`x#~d?0",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La disabilità intellettiva può essere causata da",
+                "fattori genetici",
+                "fattori lesionali e genetici",
+                "fattori ambientali",
+                "fattori genetici, lesionali o fattori ambientali",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t^l_r2~1d4",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nei disordini del neurosviluppo vanno costantemente indagati",
+                "a) sistema visivo",
+                "b) sistema uditivo",
+                "c) sistema olfattivo",
+                "d) a e b",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "FGx+qa/bR8",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La diagnosi di autismo attualmente si basa su criteri",
+                "neuroradiologici",
+                "neurofisiologici",
+                "comportamentali",
+                "ematochimici",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vbz1<)V.F+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali fattori avrebbero un ruolo prevalente nella etiologia dell’autismo",
+                "metabolici",
+                "genetici",
+                "epilettici",
+                "postnatali",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Gi`<rvlStf",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "l’ICD 10 è:",
+                "un sistema di misurazione dei parametri vitali",
+                "un sistema di classifcazione di tutte le malattie",
+                "un riflesso arcaico",
+                "un farmaco antiepilettico",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "hld&_a31:S",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la compromissione delle acquisizioni di sviluppo può essere presente in",
+                "disabilità intellettiva e disturbo dello spettro autistico",
+                "deficit sensoriale e disabilità intellettiva",
+                "ADHD",
+                "tutte",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "BNl2%yHOQ$",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "le allucinazioni uditive nel caso del disturbo bipolare 1",
+                "sono criticate dal paziente solo nella fase iniziale del disturbo",
+                "non rispondono alle cure farmacologiche",
+                "escludono che la diagnosi di disturbo bipolare sia corretta",
+                "possono verificarsi più frequentemente nella mania",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Mf@[Ls8hW<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la tangenzialità di pensiero",
+                "coincide con la perdita dei nessi associativi",
+                "una riduzione del pensiero astratto",
+                "una successione molto rapida dei pensieri",
+                "incapacità nel cogliere il senso delle domande o seguire il tema del discorso",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Ha)Ctp-tW*",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il blocco del pensiero è",
+                "una difficoltà a mantenere la concentrazione su un singolo pensiero problematico",
+                "un improvviso arresto del flusso del pensiero che lascia un senso di vuoto",
+                "un quadro patognomonico di epilessia temporale",
+                "una forma dis tereotipia verbale",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "H2yE6^gPm`",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la clomipramina possiede un’azione:",
+                "mista anti dopaminergica e antiserotoninergica",
+                "serotoninergica selettiva",
+                "mista serotoninergica noradrenergica",
+                "mista antinoradrenergica e antiserotoninergica",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Qb.3Y<,E~e",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "l’escitalopram è indicato in modo primario nella terapia di:",
+                "schizofrenia con sintomi negativi e disorganizzazione",
+                "tutti i disturbi depressivi",
+                "nel disturbo da ansia generalizzato e nel disturbo di panico",
+                "nel DOC se di sesso femminile",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "zJ6s&<)QGE",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nel trattamento delle fasi di eccitamento del disturbo schizoaffettivo sono indicati",
+                "litio valproato fluoxetina",
+                "litio valproato olanzapina (un antipsicotico atipico + litio/carbamazepina/valproato)",
+                "carbamazepina quetiapina e citalopram",
+                "paroxetina litio e carbamazepina",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "jNfO0)~emO",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "il trattamento sanitario obbligatorio può essere proposto:",
+                "da un medico e da un giudice",
+                "da qualsiasi medico lo ritenga necessario",
+                "da uno psichiatra del SSN",
+                "da un medico e psichiatra obbligatoriamente",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l.-%Mv*%`<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "una paziente di 17 anni corre al bagno dopo ogni pasto. Anche se appare di appetito sta perdendo peso. cosa sospetti?",
+                "anoressia nervosa",
+                "incontinenza fecale",
+                "bulimia nervosa",
+                "pica",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l69=_i)Y%W",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il temperamento ciclotimico",
+                "è caratterizzato dalla presenza di un umore ed energia stabilmente elevati",
+                " è caratterizzato da continue oscillazioni dell&#x27;umore e dell&#x27;energia",
+                " assume sempre caratteristiche di malattia",
+                " Da solo permette la diagnosi di disturbo bipolare",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "E|,ITsk(-C",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti farmaci riduce il rischio di suicidio:",
+                "Carbamazepina",
+                "Fenobarbitale",
+                "Litio",
+                "Quetiapina",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qx}0WI=!Od",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il Disturbo Borderline secondo il DSM-IV è incluso nel gruppo o cluster",
+                "B",
+                "C",
+                "A",
+                "nessuno dei precedenti",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "zLKhpk*l^X",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un’allucinazione è generalmente definita come:",
+                "una percezione non adeguata all’oggetto",
+                "una percezione senza oggetto",
+                "una percezione tipica solo di alcune forme di intossicazione",
+                "un disturbo del pensiero e della percezione",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "plR<,!Ez$n",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti antipsicotici induce più facilmente agranulocitosi?",
+                "Clozapina",
+                "Risperidone",
+                "Aloperidolo",
+                "Clorpromazina",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "M-6p|}G<<8",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti antidepressivi inibisce il CYP450 2D6?",
+                "Escitalopram",
+                "Mirtazapina",
+                "Bupropione",
+                "Venlafaxina",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "kiw$3L<%&u",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti farmaci si usa per il trattamento del Disturbo Ossessivo Compulsivo?",
+                "Desipramina",
+                "Risperidone",
+                "Fluoxetina",
+                "",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "kI=WIpPWA-",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La diagnosi differenziale tra la Schizofrenia e il Disturbo Delirante è data:",
+                "nella schizofrenia i deliri sono bizzarri e associati a dispercezioni, si associano anche altri elementi di disturbo formale del pensiero",
+                "nel disturbo delirante vi è fluttuazione della coscienza e deterioramento cognitivo",
+                "il delirio è condiviso con un’altra persona nel disturbo delirante",
+                "il delirio nel disturbo delirante è abitualmente associato ad idee di modificazione corporea",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "tBK5|k-AJ{",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti patologie mediche non si associa abitualmente allo sviluppo di deliri?",
+                "HIV e infezioni opportunistiche associate",
+                "insufficienza renale cronica",
+                "intossicazione da mercurio",
+                "malattia arteriosclerotica vascolare",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "A&Fhs%xJYt",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un paziente si presenta al DEA con carie dentarie multiple, ideazione delirante e riferisce di non dormire da 72 ore. Quale delle seguenti sostanze è quella che ha più probabilmente assunto?",
+                "Metilenediossimetanfetamina",
+                "Marijuana",
+                "LSD",
+                "Metilfenidato",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "rSO5n6Lq(b",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il Disturbo di Depersonalizzazione secondo il DSM-IV rientra tra:",
+                "i disturbi di ansia",
+                "i disturbi dissociativi",
+                "i disturbi somatoformi",
+                "i disturbi di personalità",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "LWMU*_la2_",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il suicidio è meno frequente:",
+                "nella depressione maggiore",
+                "nella schizofrenia paranoide",
+                "nel disturbo bipolare",
+                "nel disturbo ossessivo-compulsivo",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "NEEs;mTRpl",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti non è una forma depressiva riconosciuta nel DSM-V:",
+                "depressione maggiore",
+                "depressione stagionale",
+                "disturbo disforico premestruale",
+                "disturbo bipolare in fase depressiva",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L*7%bPyc?p",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I Barrages sono",
+                "i correlati del pensiero autistico",
+                " disturbi formali del pensiero",
+                " i correlati della perseverazione",
+                " alcuni meccanismi di difesa tipici del disturbo ossessivo",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "eSy}_16_ek",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;anedonia è",
+                "Incapacità di trovare un nome per gli oggetti",
+                " Assenza di dolore",
+                " Incapacità di provare piacere",
+                " Un sintomo del disturbo maniacale",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "tIOKRx.X]S",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La sindrome metabolica è più frequente con l&#x27;utilizzo di ",
+                "Neurolettici Tipici",
+                " Antidepressivi Triciclici",
+                " Antidepressivi SSRI",
+                " Neurolettici Atipici",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F3O+sW=R2}",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lo sviluppo di tremore; rigidità e bradicinesia in una persona che assume neurolettici di prima generazione è da attribuirsi a:",
+                "incremento della trasmissione serotoninergica",
+                " inibizione dei neuroni gaba-ergici",
+                " sviluppo di malattia di Parkinson",
+                " blocco dei recettori della dopamina",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "nMP_`M61^R",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il livello sierico di litiemia dotato di efficacia terapeutica è:",
+                "0.5mEq/L",
+                " 1mEq/L",
+                " 1.5 mEq/L",
+                " 2mEq/L",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "QYL`NF*SgZ",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti farmaci un paziente che soffre di attachi di panico prende con più probabilità?",
+                "Antipsicotici atipici",
+                " Stabilizzanti dell&#x27;umore",
+                " Neurolettici",
+                " Antidepressivi",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "q7xRF(oVhQ",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "la Paroxetina è:",
+                "Benzodiazepina",
+                " Inibitore della ricaptazione della serotonina",
+                " Antipsicotico atipico",
+                " Antidepressivo triciclico",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "A~:L.i~.`i",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Per migliorare la compliance è necessario:",
+                "Chiedere frequentemente i livelli ematici del principio attivo",
+                " Migliorare la comunicazione",
+                " Spaventare il paziente sui pericoli della mancata assunzione della terapia",
+                " Informare il paziente sui pericoli della mancata assunzione della terapia",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L^%TEWmLf8",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;area del cervello che interviene nella decodificazione delle emozioni sembra essere:",
+                "La regione settale",
+                " L&#x27;amigdala",
+                " L&#x27;area diencefalica periventriclare",
+                " Il giro del cingolo",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "G,S4k8sK/G",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La logorrea generalmente caratterizza:",
+                "L&#x27;eccitamento maniacale",
+                " La fobia semplice",
+                " Il disturbo di panico",
+                " Nessuna delle precedenti",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l-vP.:5v]B",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Per porre la diagnosi di disturbo bipolare nel DSM-5 è necessario sia presente",
+                "uno o più episodi ipomaniacali",
+                " uno o più episodi maniacali",
+                " uno o più episodi depressivi",
+                " Nessuna delle precedenti",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JtU)@7[Hn`",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qual è la percentuale di pazienti affetti da depressione maggiore che non risponde ad un primo trattamento farmacologico?",
+                "10%",
+                "20%",
+                "30%",
+                "40%",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "LNU.;EzL|r",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un paziente affetto da un episodio misto come meglio è descrivibile?",
+                "è un paziente che pone grandi problemi diagnostici",
+                " è colui che vuole essere curato ma allo stesso tempo resiste alla terapia",
+                " è un paziente che sperimenta concomitantemente sintomi maniacali e depressivi",
+                " è colui che soffre sia di una patologia organica sia di una psichica",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l$a6F@0>d1",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I sintomi principali della depressione sono:",
+                "Insonnia; promisquità; ridotta tolleranza alle frustrazioni con irritabilità; scoppi d&#x27;ira",
+                " ritiro sociale; assenza di motivazioni; ridotta tolleranza alle frustrazioni; umore depresso",
+                " Dissociazione; allucinazioni",
+                " Umore depresso; eccessivo ampliamento dell&#x27;attività e delle responsabilità",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Hi0Dl9zS]4",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;interpretazione delirante è",
+                "Una percezione corretta cui viene attribuito un significato erroneo ma comprensibile in rapporto a particolari stati d&#x27;animo",
+                " Un'idea o gruppo di idee che sorte improvvisamente alla mente del soggetto vengono accettate come verità incontestabili",
+                " Una percezione corretta cui viene attribuito un significato del tutto abnorme incomprensibile e incongruo",
+                " Un disturbo della forma del pensiero",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vGIE!8wj(r",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel distrubo schizoaffettivo",
+                "Coestistono contempraneamente sia sintomi schizofrenici sia sintomi di un&#x27;alterazione patologica dell&#x27;umore",
+                " Sono rari i disturbi della forma del pensiero",
+                " La prognosi è più favorevole rispetto ai disturbi dell&#x27;umore",
+                " La prognosi è meno favorevole rispetto alla schizofrenia",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fiBt.1`an[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un delirio può essere definito",
+                "Un errore patologico del giudizio di realtà",
+                " un ripensare incessantemente ad una cosa e riferirla agli altri",
+                " un misto di colpa ed idee suicide",
+                " un sintomo grave ma facilmente risolvibile con terapia appropriata",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "BALstQ|A;$",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kurt Schneider è spesso ricordato per aver classificato quale delle seguenti malattie e relativi sintomi (che domanda infame)",
+                "Parafrenia - sintomi positivi e negativi",
+                " Schizofrenia - sintomi primari e secondari",
+                " Paranoia - sintomi accessori",
+                " Schizofrenia - sintomi di primo e secondo rango",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "e(?--qc:m4",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "una bambina di sette anni ricoverata per una tonsillectomia si sveglia nella notte urlando che un orso sta nella sua stanza si tranquillizza quando un&#x27;infermiera entra nella stanza accende la luce e le fa vedere che l&#x27;orso è un bracciolo di una sedia con sopra un soprabito. Questa esperienza è un esempio di:",
+                "Reazione dissociativa",
+                " Allucinazione",
+                " Illusione",
+                " Deja vu",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KgN%nl5.b#",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un paziente schizofrenico si presenta a studio con movimenti involontari e ripetuti della lingua; faccia; estremità; tronco. Afferma di stare assumendo regolarmente la terapia. Qual è la condotta terapeutica più appropriata?",
+                "Somministrazione di Litio 300mg",
+                " Somministrazione di brocriptina",
+                " Somministrazione di levodopa",
+                " Riduzione del dosaggio di neurolettici",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oU8p+m1Gcr",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il disturbo di depersonalizzazione/ derealizzazione secondo DSM-5 rientra tra",
+                "Disturbi d&#x27;ansia",
+                " Distrubi dissociativi",
+                " Disturbi somatoformi",
+                " Disturbi di personalità",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "s+fFy;:@MY",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una modificazione dello stato di coscienza si associa a:",
+                "ideazione suicidaria",
+                " distubo dissociativo",
+                " depressione",
+                " schizofrenia",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n-|[rh&:Q)",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna di 20 anni la quale ha sempre goduto di ottima salute arriva al pronto soccorso lamentando giramenti di testa  cefalea e nausea. Appare molto ansiosa trema suda e respira superficialmente e frequentemente. Mentre attende di essere visitata lamenta di parestesie orali e lungo le braccia. QUal è la condotta più appropriata?",
+                "invitarala a respirare in un sacchetto di carta",
+                " Somministrarle i.v 50ml di glucosio al 50%",
+                " Farle fare una TC cerebrale",
+                " Far effettuare un esame tossicologico per alcool",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "E|T3qNR-=L",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gli incubi sono un sintomo caratteristico di:",
+                "Alcolismo",
+                " Schizofrenia",
+                " Disturbo da stress post-traumatico",
+                " Assunzione di tetraidrocannabinolo",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "z>[!_Sya(A",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale comportamento si associa al disturbo borderline di pesonalità",
+                "Autolesionismo",
+                " Eloqui rapido e concitato",
+                " Allucinazioni visive",
+                " Incubi",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t,6](X*`zQ",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I disturbi di personalità inclusi nei cluster B sono accomunati da:",
+                "Eccentricità; bizzarria; ideazione paranoide",
+                " Paura dell&#x27;abbandono; inabilità a tollerare o modulare le emozioni interne",
+                " Ansietà e timore",
+                " Perfezionismo; scrupolosità e moralismo",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bAS<*N_4Pc",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In quale dei seguenti distrubi di personalità il rischio suicidario è maggiore?",
+                "Ossessivi compulsivi",
+                " Borderline",
+                " Passivo agressivi",
+                " Schizoidi",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "LbrzkYg!,p",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un appartenente alle forze dell&#x27;ordine è portato a visita dalla moglie per una condizione di instabilità comportamentale e scatti di aggressività. L&#x27;uomo riferisce che circa 20 giorni prima è stato coinvolto in uno scontro a fuoco dove vi sono stati alcuni feriti e che da allora ha immagini ricorrenti dell&#x27;episodio. Al colloqui è ipervigilante depresso ansioso e irrequieto. Il pensiero è in ordine con qualche aspetto perseverativo. Sulla base di questi dati quale diagnosi è più appropriata?",
+                "Disturbo da attacchi di panico",
+                " Disturbo post traumatico da stress",
+                " Disturbo acuto da stress",
+                " Disturbo dell&#x27;adattamento",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "x=}SbsAn.G",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un ragazzo di 18 anni viene ricoverato per un sospetto stato epilettico nonostante i suoi livelli ematici di cabamazepina siano nella norma. Una video registrazione EEG di 24h mostra dei movimenti convulsivi in assenza di scariche epilettiche. Scegliere il trattamento appropriato:",
+                "Aggiungere del valproato di Sodio",
+                " Incrementare la CBZ",
+                " Inviare a consulenza psichiatrica e sostegno psicologico",
+                " Interrompere la CBZ",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "IAgs<Jg7Pt",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna di 35 anni viene al PS e non riesce a fornire il suo nome e appare di non riconoscere il figlio. Qual è la diagnosi più probabile?",
+                "Demenza NOS",
+                " DIsturbo Post traumatico da stress",
+                " Amnesia psicogena",
+                " Disturbo dissociativo di identità",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "d#>WS>+*zi",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Secondo E. Blouler i sintomi primari della schizofrenia sono:",
+                "Sonorizzazione del pensiero; voci per discorsi; repliche; osservazioni; influenzamento somatico; influenzamento del pensiero; diffusione del pensiero; percezioni deliranti",
+                " Alogia; appiattimento affettivo; ambivalenza; autismo",
+                " Sintomi negativi; sintomi negativi e deisorganizzazione del pensiero",
+                " DIsorganizzazione del pensiero e deliri bizzarri",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "H~&xl56D%+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti affermazioni non è vera riguardo I&#x27;anoressia nervosa? ",
+                "La mortalita raggiunge il 20%",
+                " il 50% dei pazienti migliora e il restante 50% cessa di essere anoressico",
+                " La mortalita dipende da suicidio; defedamento o complicazioni mediche",
+                " Gli squilibri elettrolitici sono rari",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "we;M0=n&*v",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il disturbo da sintomi somatici si gestisce:    ",
+                "Spiegando al paziente che ha un disturbo funzionale",
+                " Individuando un sanitario con il 2 quale il paziente possa stabilire una relazione terapeutica valida",
+                " Con terapia ansiolitica ad alti dosaggi ed ipnosi",
+                " Tramite ricovero e trattamento comunitario",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JTp<S<CY.l",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Una donna di 18 anni viene a visita riferendo un tono dell&#x27;umore oscillante che è stato orientato in senso depressivo negli ultimi mesi; con associata ideazione suicidaria e perdita di speranza. Riferisce anche aumento dell&#x27;appetito e difficoltà nel ritmo sonno veglia. Racconta che la relazione con il suo fidanzato è alquanto tempestosa; con liti e riappacificazioni continue e che derivano dalla rabbia che la coglie quando il fidanzato tarda a rispondere ai suoi frequenti messaggi. Nei periodi in cui rompe con il fidanzato tende ad abusare di cannabis e alcol; mentre quando la relazione va bene non ha questi comportamenti; anche se non si sente contenta; ma “distaccata&quot;. Inoltre; la madre riporta che di aver osservato tagli orizzontali superficiali sugli avambracci e che il cambiamento di umore può durare dai 20 ai 40 min e che presenta problemi di identita. Quali diagnosi andrebbero considerate?   ",
+                "Depressione maggiore e disturbo posttraumatico da stress",
+                " Depressione maggiore e disturbo bipolare",
+                " Disturbo post-traumatico da stress e disturbo bipolare",
+                " Depressione maggiore e disturbo borderline di personalita",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "v+9{qAJ65u",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Nel disturbo schizoaffettivo:   ",
+                "La prognosi è piu favorevole rispetto ai disturbi dell&#x27;umore",
+                " la prognosi è peggiore rispetto alla schizofrenia",
+                " |disturbi della forma del pensiero sono rari",
+                " coesistono contemporaneamente sia sintomi schizofrenici sia sintomi di un‘alterazione patologica dell&#x27;umore",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "A4gk8,Z/W*",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il rischio di intossicazione da litio va considerato con valori:   ",
+                "a. inferiori a 1.5 mEq/l",
+                " b. Superiori a 2 MEq/I",
+                " c. superiori a 1.2 mEq/l",
+                " d. superiori a 1.5 mEq/I",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "xNHhE&Z[<Q",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un paziente si presenta al DEA con carie dentarie multiple; ideazione delirante e riferisce di non dormire da 72 ore. Quale delle seguenti sostanze è guella che ha più probabilmente assunto?   ",
+                "Metilfenidato",
+                " b. THC",
+                " c. LSD",
+                " &quot; d. Metildiossianfetamina (MDMA)",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "hT{dA-m842",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale dei seguenti stabilizzanti del tono dell&#x27;umore incrementa il rischio di spina bifida?    ",
+                "a. Valproato di Sodio",
+                " b. Topiramato",
+                " c. Litio",
+                " d. Carbamazepina",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "IJ.Kgl4o@e",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti affermazioni relative alla depressione è vera?    ",
+                "La depressione maggiore richiede sempre il ricovero",
+                " Il trattamento farmacologico è efficace nel 90% dei casi",
+                " ll trattamento elettroconvulsivante è inefficace",
+                " il trattamento combinato psicoterapeutico e farmacologico si è dimostrato piu efficace dell&#x27;uso solo della psicoterapia o della farmacoterapia",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "MT4BbCOP)9",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Un paziente di 19 anni si presenta a visita dopo 10 giorni dall&#x27;inizio di un trattamento con neurolettici. La madre riferisce che ha avuto febbre alta e che lo stato di coscienza a volte è labile. Appare rigido e poco responsivo agli stimoli verbali. AlI&#x27;E.O. presenta febbre a 39.7° diaforesi tachicardia e tachipnea. Indicare quale sintomo non si associa alla condizione descritta:   ",
+                "Instabilita autonomica",
+                " Mioglobinuria",
+                " Aumento marcato delle CPK",
+                " Acatisia",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Be?=snX&mT",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti condizioni non si tratta con neurolettici?    ",
+                "Singhiozzo",
+                " Malattia di Parkinson",
+                " Cefalea",
+                " Sindrome di Gilles de la Tourette",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KbD]Fb#%}H",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali dei seguenti farmaci si usa per il trattamento del Disturbo Ossessivo Compulsivo?   ",
+                "Destroanfetamina",
+                " b. Desimipramina",
+                " c. Valproato di Sodio",
+                " d. Floxetina",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "BRz-77Xtr2",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  HAM-A è   ",
+                "Un test Proiettivo",
+                " Una scala di valutazione dei disturbi d&#x27;ansia",
+                " Una scala per diagnosticare i disturbi d&#x27;ansia",
+                " Una scala del&#x27;MMPI-2",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "EL$:lZ|35Q",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale delle seguenti affermazioni sugli antidepressivi triciclici è vera?   ",
+                "Hanno necessita di 2-4 settimane per essere efficaci",
+                " Non hanno effetti collaterali",
+                " Agiscono a livello sinaptico prevenendo il metabolismo",
+                " Non inducono medificazioni pressorie",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "o%!u-,~!yl",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        }
+    ]
+}

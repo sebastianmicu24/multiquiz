@@ -1,0 +1,1373 @@
+{
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "La via più comune si assorbimento di sostanze chimiche sui luoghi di lavoro è:",
+                "Via aerea",
+                "Contatto cutaneo",
+                "Via gastro-intestinale",
+                "via ematica",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "IOgL-MXWJT",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali delle seguenti NON rappresenta una chiara controindicazione al lavoro notturno?",
+                "a. Disturbi cronici del sonno",
+                "b. Ipertensione di grado medio e Tumori benigni",
+                "c. Tumori benigni",
+                "d. Epilessia",
+                "e. Tumori maligni",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F0oGVIR=.Z",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In relazione alla prevenzione degli infortuni e delle malattie professionali quali di queste affermazioni NON è vera?",
+                "La prevenzione ha un costo",
+                "La prevenzione esige un lavoro di gruppo fra medici e tecnici",
+                "La prevenzione deve essere estesa a largo raggio (ambienti di vita e di lavoro)",
+                "La prevenzione non ha costi",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "I}qbwW]9mp",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La diagnosi di asma occupazionale si basa principalmente su:",
+                "a. Dimostrazione dei cambiamenti del FEVI",
+                "b. Concentrazione di metacolina necessaria per indurre una riduzione del FEVI1 del 20%",
+                "c. Storia clinica",
+                "d. Nessuna delle opzioni di risposta è corretta",
+                "e. Concentrazione di metacolina necessaria per indurre una riduzione del FEV1 del 20% storia clinica e Dimostrazione dei cambiamenti del FEVI",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Pr|LH!WmU=",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;inquinamento indoor può essere provocato da:",
+                "a. Tutte le risposte sono corrette",
+                "b. Nessuna delle risposte è corretta",
+                "c. Fumo di tabacco",
+                "d. Prodotti di combustione",
+                "e. Formaldeide",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wJoqht]Wh+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;andamento temporale delle malattie professionali denunciate all&#x27;INAIL dal 1974 al 2001 per il settore Industria, Commercio e Servizi è:",
+                "a. In diminuzione",
+                "b. In aumento",
+                "c. Prima in diminuzione poi in aumento",
+                "d. Stabile",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "v#^rg%D^:l",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il modello dello sviluppo del Mobbing secondo Leymann quali elementi fra i seguenti NON prevede?",
+                "a. Inizio della stigmatizzazione e del mobbing",
+                "b. Serio aggravamento della salute della vittima",
+                "c. Espulsione dal mondo del lavoro",
+                "d. Accettazione da parte dell&#x27;’amministrazione del personale della situazione presente",
+                "e. Diagnosi errata",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "MObvzxg_t<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lo stress nei luoghi di lavoro può dipendere da cause di inadeguatezza",
+                "a. Strutturale",
+                "b. Relazionale",
+                "c. Premiale",
+                "d. Organizzativa",
+                "e. Tutte le opzioni di risposta sono corrette",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "p:LlvD{znr",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali sono gli effetti principali dell&#x27;esposizione prolungata a vibrazioni?",
+                "a. Effetti cardiovascolari maggiori",
+                "b. Effetti neurologici centrali",
+                "c. Effetti dermatologici",
+                "d. Turbe vasomotorie e Raynaud-simili",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vu^7t(>sYY",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L'ambiente di lavoro comprende fattori di rischio fra cui:",
+                "a. Fattori ambientali e Fattori inquinanti legati alla produzione",
+                "b. Fattori inquinanti legati alla produzione",
+                "c. Fattori ambientali",
+                "d. Fattori connessi all’organizzazione del lavoro, Fattori ambientali e fattori inquinanti legati alla produzione",
+                "e. Fattori connessi all’organizzazione del lavoro",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L):Blqb>46",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali fra i seguenti non è un giudizio di idoneità",
+                "a. Idoneità alla mansione specifica",
+                "",
+                "c. Inidoneità temporanea",
+                "d. Idoneità progressiva",
+                "e. Inidoneità permanente",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "c[YrmT7KB<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Individuare le malattie in fase molto precoce è un tipo di prevenzione",
+                "a. secondaria",
+                "b. primaria",
+                "c. quaternaria",
+                "d. terziaria",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pi1Fx{p8*Q",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La violenza di tipo orizzontale è quella perpetrata a carico del personale sanitario da parte di:",
+                "a. operatori sanitari",
+                "b. avvocati di parte",
+                "c. familiari dei pazienti",
+                "d. pazienti",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "A$J{zRCfJ]",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali fra i seguenti NON è un compito del Medico competente ai sensi del D. L.vo 81/2008?",
+                "a. Collabora con il Datore di Lavoro per il DVR, per le misure per la tutela della salute e sicurezza dei lavoratori.",
+                "b. Visita gli ambienti lavoro almeno 1 volta/anno",
+                "c. Programma ed effettua la Sorveglianza Sanitaria",
+                "d. Istituisce e aggiorna la cartella sanitaria e di rischio",
+                "e. Mette a disposizione ambienti di lavoro macchine ed attrezzature sicure",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "mY*G7x=?sY",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Come si può misurare la sindrome del burnout?",
+                "a. Questionario GSRA",
+                "b. Con il Copenhagen burnout inventory",
+                "c. Questionario Karasek",
+                "d. Questionario SF12",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "qb3ZmyXAr{",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale fra queste vaccinazioni è obbligatoria per il personale sanitario in talune condizioni?",
+                "a. Antitubercolare",
+                "b. Anti epatite C",
+                "c. Anti-covid19",
+                "d. Anti epatite B",
+                "e. Anti epatite A",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oDI[D|#G3F",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali sono i principali Obiettivi del Disability Management",
+                "a. Ridurre i costi dell&#x27;assistenza sanitaria e le provvidenze per la disabilità e accorciare il tempo di assenza dal lavoro",
+                "b. tutte le risposte sono corrette",
+                "c. Migliorare le condizioni competitive dell&#x27;azienda nell&#x27;ambito dell&#x27;economia globale e avere lavoratori più in salute e più produttivi, riducendo l&#x27;insorgenza e l&#x27;impatto della disabilità nell&#x27;ambito della forza lavoro",
+                "d. Considerare gli aspetti etico-morali dando un valore alla disabilità e ottenere l&#x27;aderenza con la legislazione in vigore in materia di disabilità.",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t6i_o1}{Q,",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Di che tipo può essere l&#x27;aggressione al personale sanitario?",
+                "a. Violenza fisica",
+                "b. molestia sessuale",
+                "c. Mobbing",
+                "d. Aggressione verbale",
+                "e. tutte le risposte sono corrette",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "LGPEg;:e/<",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il datore di lavoro",
+                "a) ha poteri illimitati",
+                "b) ha autonomia decisionale ma non di spesa",
+                "c) può obbligare il medico competente a mostrargli le cartelle sanitarie e di rischio",
+                "d) nomina il RLS",
+                "e) ha autonomia decisionale e di spesa",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "p8h`)+,+!A",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Caratteristica propria della malattia professionale rispetto all’infortunio sul lavoro è:",
+                "a) azione lesiva concentrata nel tempo",
+                "b) causa violenta",
+                "c) prognosi superiore a 10 giorni",
+                "d) azione lesiva diluita nel tempo",
+                "e) spargimento di sangue",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KK%a@raYRx",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il datore di lavoro ha obblighi indelegabili?",
+                "a) non ha obblighi indelegabili",
+                "b) sono obblighi indelegabili la nomina del RSPP e del MC",
+                "c) sono obblighi indelegabili il potere di spesa e la nomi na del MC",
+                "d) sono obblighi indelegabili la nomina del RSPP e la valutazione del rischio",
+                "e) sono obblighi indelegabili la valutazione del rischio e la nomina del RLS",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oTAc=K$7b0",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il virus Ebola è classificato nel gruppo",
+                "a) 1",
+                "b) 4",
+                "c) 3",
+                "d) n.c.",
+                "e) XI",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Q]^hdwk6aN",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Come si può definire il pericolo?",
+                "uno stato obiettivo di incertezza",
+                "combinazione di probabilità e gravità di possibili lesioni o danni alla salute in situazioni pericolose",
+                "percezione soggettiva di un evento colposamente temuto",
+                "convenzione giuridica senza aggancio con la realtà",
+                "fonte di possibili lesioni o danni alla salute",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "y!F@MDX45}",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il lavoratore in disaccordo con il giudizio di idoneità",
+                "a) rivolge appello al giudice del lavoro",
+                "b) non può fare nulla",
+                "c) può protestare con il datore di lavoro",
+                "d) ricorre al Rappresentante del Lavoratori per la Sicurezza",
+                "e) può ricorrere entro 30 giorni all’organo di vigilanza competente per territorio",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "tDfJJ~Wpuq",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nell’esposizione professionale a cancerogeni, il rispetto dell’eventuale TLV protegge i lavoratori",
+                "a) il 95% degli esposti",
+                "b) i lavoratori fino all’età di 60 anni",
+                "c) in modo totale",
+                "d) in modo probabilistico (stocastico)",
+                "e) peri primi 30 anni di anzianità lavorativa",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uRh7UYqiRS",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La lavorazione del legno è più frequentemente causa di",
+                "a) tumori polmonari",
+                "b) tumori renali",
+                "c) tumori vescicali",
+                "d) tumori dei seni pranasali",
+                "e) tumori prostatici",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vDC;gS[Oy@",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "10) Una donna in gravidanza può essere adibita al lavoro notturno",
+                "a) sì, fino al VII mese",
+                "b) solo 3 giorni al mese",
+                "c) solo un giorno a settimana",
+                "d) solo nei giorni feriali",
+                "e) no",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F+Qt6wOR|$",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I DPI (dispositivi di protezione individuale)",
+                "a) sono sempre facoltativi",
+                "b) vanno usati solo se c’è pericolo",
+                "c) debbono essere rischiesti al RLS",
+                "d) debbono essere rischiesti al medico competente",
+                "e) vengono forniti dal datore di lavoro",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "e8b:uu{X6w",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lo stress è",
+                "a) una reazione negativa alle sollecitazioni esterne su di esso apportate",
+                "b) una reazione positiva alle sollecitazioni esterne su di esso apportate",
+                "c) una risposta dell’organismo a sollecitazioni esterne di natura psicosociale su di esso apportate",
+                "d) una risposta adattativa dell’organismo a qualsiasi modificazione su di esso apportata",
+                "e) una risposta dell’organismo a sollecitazioni esterne di natura chimicofisica su di esso apportate",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fi!5;~I7cn",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nello studio odontoiatrico la valutazione del rischio è obbligo di",
+                "a) esperto qualificato",
+                "b) ASL",
+                "c) ISPESL",
+                "d) Datore del lavoro",
+                "e) Non va fatta visto che si tratta di medici",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "u-!Hy.%~4:",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il lavoratore è sottoposto a visita preventiva per l’idoneità di mansione",
+                "a) solo su richiesta specifica del DL",
+                "b) mai",
+                "c) prima dell’assunzione e dopo l’assunzione",
+                "d) su richiesta del MC",
+                "e) solo a richiesta del lavoratore",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "OO1&Ci_0aj",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il DL chiede al MC di verificare l’idoneità al lavoro di un dipendente che non è esposto a rischi professionali per i quali vige l’obbligo della sorveglianza sanitaria, ma che è spesso in malattia e provoca malumori tra i colleghi. Il MC:",
+                "a) può eseguire la visita ma non deve trascriverla in cartella",
+                "b) non può eseguire la visita",
+                "c) può eseguire la visita ma non esprimere il giudizio di idoneità",
+                "d) può eseguire la visita ed esprimere il giudizio di idoneità",
+                "e) può eseguire la visita solo se ottiene il consenso scritto del lavoratore",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fsmfgT]3I?",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I risultati individuali della sorveglianza sanitaria (cartella sanitaria e di rischio)",
+                "a) vanno comunicati al DL",
+                "b) sono soggetti a segreto professionale",
+                "c) sono pubblici",
+                "d) vanno comunicati al RLS",
+                "e) debbono rimanere ignoti al lavoratore",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "eTLK&qJ?Z.",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La valutazione del rischio",
+                "a) va effettuata solo se da una prima valutazione, empirica, risulta l’esistenza di un rischio",
+                "b) va effettuata solo se così richiesto dall’organo di vigilanza",
+                "c) decide se effettuarla il SPP",
+                "d) decide se effettuarla il RSPP",
+                "e) va sempre effettuata",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "PzFA+#9AuD",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "I risultati individuali (dati nella cartella clinica) della sorveglianza sanitaria",
+                "a) vengono comunicati dal medico competente al datore di lavoro",
+                "b) vengono comunicati dal medico competente al RSPP",
+                "c) vengono comunicati dal medico competente al funzionario tecnico",
+                "d) vengono comunicati dal medico competente all’esperto qualificato",
+                "e) nessuna delle precedenti",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KSKa=kgPlb",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un valore limite di esposizione è un valore di concentrazione in aria di una sostanza che rappresenta",
+                "a) la soglia oltre la quale la sostanza è sicuramente tossica",
+                "b) la soglia oltre la quale vi è un rischio per la salute",
+                "c) la concentrazione oltre la quale la sostanza può incendiarsi spontaneamente",
+                "d) la soglia oltre la quale la sostanza passa dallo stato liquido a quello gassoso",
+                "e) la dose letale della sostanza",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L|Q-OUS@G~",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le malattie lavoro correlate",
+                "a) riconoscono il lavoro come unica causa",
+                "b) sono in diminuzione",
+                "c) danno esito a un risarcimento automatico",
+                "d) riconoscono il lavoro come concausa",
+                "e) sono tabellate",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "K.H)WAXJnI",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il TLV TWA viene calcolato su",
+                "a) giornata lavorativa di 6h/7 giorni a settimana, riferito a tutti i lavoratorirnata lavorativa di 6h/7 giorni a settimana",
+                "b) giornata lavorativa di 5h/5 giorni a settimana, riferito a tutti i lavoratori",
+                "c) giornata lavorativa di 6h/5giorni a settimana, riferito alla maggior parte dei lavoratori",
+                "d) giornata lavorativa di 8h/5 giorni a settimana, riferito a tutti i lavoratori",
+                "e) giornata lavorativa di 8h/5 giorni a settimana riferito alla maggior parte dei lavoratori",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "5#lMUChHf",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il datore di lavoro ha l’obbligo di informare e formare i lavoratori",
+                "a) circa i rischi connessi all’attività che svolgono",
+                "b) solo in caso di rischio chimico, cancerogeno o biologico",
+                "c) solo in presenza di rischi specifici espressamente indicati dalla normativa",
+                "d) su richiesta dei lavoratori o del RLS",
+                "e) quando ritiene necessario",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Cm-z4vw!$/",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "In presenza di una violazione, l’organo di vigilanza in prima istanza",
+                "a) trasmette gli atti alla PS",
+                "b) redige un verbale di contravvenzione",
+                "c) commina una multa",
+                "d) ammette al pagamento della sanzione",
+                "e) riferisce la notizia di reato",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Owqc67j@.U",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nello studio medico la valutazione del rischio ricade in capo a",
+                "a) datore di lavoro",
+                "b) ASL",
+                "c) ISPESL",
+                "d) Esperto qualificato",
+                "e) Non va fatta visto che si tratta di personale sanitario",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "dvyP-LLoKo",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel lavoro al VDT, ogni quanto va fatta la pausa di 15 minuti",
+                "a) ogni 60 minuti",
+                "b) ogni 90",
+                "c) ogni 120",
+                "d) ogni 150",
+                "e) ogni 180",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bt%,?NgC}(",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel lavoro al VDT i rischi maggiori sono connessi",
+                "a) alle RI (radiazioni ionizzanti) e NIR (radiazioni non ionizzanti)",
+                "b) al microclima",
+                "c) al rumore",
+                "d) allo stress",
+                "e) fattori ergonomici ed illuminotecnica",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KL!AkN.E(]",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Può ricoprire la figura di responsabile del SPP",
+                "a) uno dei rappresentanti sindacali",
+                "b) medico comoetente",
+                "c) un lavoratore",
+                "se eletto dagli altri lavoratori",
+                "d) datore di lavoro",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n!v%$IbA7P",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L’ipoacusia da esposizione cronica a rumore è:",
+                "a) percettiva monolaterale",
+                "b) percettiva bilaterale",
+                "c) trasmissiva monolaterale",
+                "d) trasmissiva bilaterale",
+                "e) mista bilaterale",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "FVAY7<q02Q",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il decibel",
+                "a) è una espressione lineare della pressione sonora",
+                "b) è in relazione con l’altezza dei suoni",
+                "c) è una unità di misura di frequenza",
+                "d) è una epsressione logaritmica della pressione sonora",
+                "e) è direttamente proporzionale al periodo della vibrazione acustica",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JUna,25^r0",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nella sindrome acuta da radiazioni l&#x27;esposizione a 200 Gy determina:",
+                "forma gastrointestinale",
+                "forma ematopoietica",
+                "forma cerebrale e cardiovascolare",
+                "nessuna delle risposte precedenti è corretta",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JV?{$dO@}i",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Le radiazioni non ionizzanti possono avere effetti su tutti tranne:",
+                "gonadi",
+                "sistema nervoso",
+                "cristallino",
+                "cornea",
+                "sangue periferico",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "r8bCITpf@@",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "| valori limite occupazionali in ambito di igiene industriale sono:",
+                "i Threshold Limit Values (TLV)",
+                "Admissible Daily Intake (ADI)",
+                "i No Observed Adverse Effect Level (NOEL)",
+                "la Maximum Allowable Concentration (MAC)",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Qgk0!wGG*j",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Per TLV-TWA si intende:",
+                "Limite di soglia media ponderata nel tempo per una giornata lavorativa di 4 ore per ?? ore settimanali a cui la maggior parte dei lavoratori può essere esposta ripetutamente senza effetti negativi",
+                "Limite di soglia media ponderata nel tempo per una giornata lavorativa di 8 ore per 40 ore settimanali a cui la maggior parte dei lavoratori può essere esposta ripetutamente giorno dopo giorno senza effetti negativi",
+                "Limite di soglia media ponderata nel tempo per una giornata lavorativa di 8 ore per 40 ore settimanali a cui tutti i lavoratori possono essere esposti ripetutamente giorno dopo giorno senza effetti negativi",
+                "Limite di soglia media ponderata nel tempo per una giornata lavorativa di 6 ore per 36 ore settimanali a cui la maggior parte può essere esposta ripetutamente senza effetti negativi",
+                "Limite di soglia media ponderata nel tempo per una giornata lavorativa di 8 ore per 40 ore settimanali a cui la maggior parte può essere esposta con effetti negativi",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JG*l[GK/%,",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il medico competente ai sensi del D.legislativo 81/2008",
+                "è responsabile dei servizi di Prevenzione e Protezione",
+                "effettua almeno tre sopralluoghi degli ambienti di lavoro all’anno",
+                "redige il piano di emergenza",
+                "nessuna delle risposte",
+                "tutte le risposte",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bIrkQo10id",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Per rischio biologico potenziale:",
+                "l’agente biologico non è presente nell’ambiente di lavoro",
+                "ma il contatto è solo occasionale",
+                "l’agente biologico è presente nell’ambiente di lavoro e rappresenta il substrato/catalizzatore/ reagente a cui il lavoro opera",
+                "l’agente biologico è presente nell’ambiente di lavoro ma il danno è solo a seguito di infortunio o occasionalmente",
+                "tutte le precedenti",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lw(vA>?^/A",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;esposizione al lattice può determinare un’immunoreazione di tipo:",
+                "|",
+                "II",
+                "I+IV",
+                "III",
+                "IV",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "sw%l2-r_l7",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il test per la diagnosi di DAC (dermatite allergica da contatto):",
+                "a. prick test",
+                "b. patch test",
+                "c. prist",
+                "d. rast",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "FCs,M#4ytZ",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale figura ha l’obbligo di collaborare per il documento di valutazione dei rischi:",
+                "datore di lavoro",
+                "medico competente",
+                "esperto qualificato",
+                "rappresentante dei lavoratori per la sicurezza",
+                "",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JU<DtZC@oQ",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il monitoraggio biologico serve a:",
+                "a. verificare la presenza di sostanze tossiche all’interno dell’organismo",
+                "b. verificare la presenza di sostanze tossiche nei luoghi di lavoro",
+                "c. tutte le precedenti",
+                "d. nessuna delle precedenti",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "oH5k;?}C;N",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;attività per la verifica di un agente tossico nell’uomo è denominata:",
+                "a. monitoraggio biologico",
+                "b. monitoraggio ambientale",
+                "c. monitoraggio globale",
+                "d. monitoraggio dei liquidi:",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "f5k!Vw@OY~",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La diagnosi di dermatite irritata da contatto (immunoreazione di tipo IV) si effettua con:",
+                "a. 1gE totali",
+                "b. IgE specifiche",
+                "c. Patch test",
+                "d. Si effettua attraverso la raccolta dei dati anamnestici e con l’esame obiettivo che dimostra l’aspetto irritativo della cute",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "msx1^GbU)0",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La Radioprotezione medica per esposti di categoria A è effettuata da:",
+                "medico competente",
+                "medico autorizzato",
+                "ASPP",
+                "QI",
+                "esperto qualificato",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wUu;^Yh(,I",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "| radioesposti sono classificati di categoria B quando l’esposizione è:",
+                "a. &lt;6 nSv",
+                "b. &gt;6 nSv",
+                "c. compresa tra 1 e 6 nSv",
+                "d. compresa tra 6 e 20 nSv",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Dp7L~hB(`^",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Qual è la malattia professionale legata alla MMV (movimentazione manuale di carichi):",
+                "a. discopatia professionale",
+                "b. sindrome di Raynaud",
+                "c. otosclerosi bilaterale",
+                "d. arteriopatia",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ORwbT>L}Gb",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "L&#x27;attività: “valutazione del rischio in ambito ospedaliero” si calcola con:",
+                "a. indice MAPO",
+                "b. indice MEPA",
+                "c. indice NIOSH",
+                "",
+                "",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "i$%TFx#2C)",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il campionamento dei gas e vapori sui luoghi di lavoro può utilizzare:",
+                "campionamento attivo",
+                "campionamento passivo",
+                "lettura diretta",
+                "a+b",
+                "a+b+c",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "teiP[O9X_N",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Secondo uno studio pilota su “Lo stato della sicurezza e della salute” nell’Unione Europea qual è l’agente di rischio maggiore in termini di lavoratori esposti?",
+                "rumore",
+                "vibrazioni",
+                "posture incongrue",
+                "movimentazione manuale dei carichi",
+                "violenza fisica",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "b9mq*nxp$L",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nell’indennizzo del danno riportato dai lavoratori assicurati con l’INAIL, il danno patrimoniale può derivare da:",
+                "a. danno da lucro cessante",
+                "b. danno invalidante",
+                "c. danno emergente",
+                "a+b",
+                "a+c",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lNk7DFe2[w",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "127) L'ambiente di lavoro comprendo fattori di rischio fra cui",
+                "a. fattori inquinanti legati alla produzione",
+                "b. fattori ambientali",
+                "c. fattori connessi all'organizzazione dl lavoro",
+                "a+b",
+                "a+b+c",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "KHWdXM=/G:",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Un tossico occupazionale può indurre",
+                "a) tumori",
+                "b) irritazione di cute e mucose",
+                "c) lesioni in alcuni organi",
+                "d) effetti (sul feto)",
+                "e) tutte le precedenti",
+                "0 0 0 0 1",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t4uz3k)*>[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Auramina e amine aromatiche costituiscono un rischio cancerogeno principalmente per",
+                "vescica",
+                "rene",
+                "cute",
+                "polmone",
+                "seni paranasali",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wX=dR;ej*#",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nella sindrome acuta da radiazioni l&#x27;esposizione a 200 Gy determina",
+                "a. Nessuna delle opzioni di risposta è corretta",
+                "b. Forma ematopoietica",
+                "c. Forma gastrointestinale",
+                "d. Forma cerebrale e cardiovascolare",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "iv{bLel^N1",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La MINDFULNESS è uno strumento in grado di",
+                "a. tutte le risposte sono corrette",
+                "b. migliorare l&#x27;assistenza al paziente",
+                "c. Migliorare lo stato di salute mentale",
+                "d. Diminuire ansia, depressione, stress",
+                "e. burnout",
+                "1 0 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uFLWHte^4y",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nel lavoro &quot;Smoking cessation interventions on health-care workers: a systematic review and meta-analysis&quot; quali disegni dello studio sono stati presi in considerazione?",
+                "clinical trial e caso-controllo",
+                "clinical trial e coorte",
+                "clinical trial",
+                "coorte",
+                "caso-controllo e coorte",
+                "0 1 0 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "IqLrz0X`/S",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Che cosa si intende per esposizione potenziale ad agenti biologici?",
+                "la semplice presenza di microrganismi in qualunque luogo di lavoro",
+                "quando i microrganismi vengono appositamente immessi nel ciclo produttivo",
+                "l&#x27;impiego di microrganismi come substrato, catalizzatore, reagente o prodotto (i.e. coltura ed isolamento di agenti virali e batterici in microbiologia)",
+                "la presenza occasionale, o concentrata di microrganismi qualora vi sia la manipolazione di fluidi e/o altri materiali biologici in ambito occupazionale",
+                "",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Q;(Ok`E]DF",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": []
+        }
+    ]
+   
+}

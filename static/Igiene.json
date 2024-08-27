@@ -1,0 +1,2020 @@
+{
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "L’esclusiva funzione di erogazione in sanità è esercitata da: ",
+                "gli IRCCS",
+                "le Aziende Sanitarie Locali ",
+                "le Aziende Ospedaliere propriamente dette ",
+                "i Policlinici Universitari ",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bk=.9~pj|;",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali, tra le seguenti, sono proprietà che caratterizzano le disuguaglianze della salute e nell’assistenza?",
+                "la evitabilità ",
+                "l’essere legate a comportamenti liberamente scelti ",
+                "la gravità (rilevanza clinica) ",
+                "l’episodicità",
+                "tutte le risposte precedenti ",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ID+i:7NHW~",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "La funzione di ‘committenza’ in sanità è esercitata da (una sola risposta): ",
+                "IRCCS",
+                "Aziende Ospedaliere ",
+                "Servizi a gestione diretta ",
+                "Aziende Sanitarie Locali ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "rg|{kV0V]",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quali dei seguenti è organo dell’Azienda Sanitaria Locale:",
+                "Collegio Sindacale ",
+                "la [<i>conferenza?]</i> dei Sindaci ",
+                "Assessore alla Sanità ",
+                "Direttore Generale",
+                "nessuna delle risposte precedenti ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "pr/x_7jb|[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il Distretto garantisce, tra le altre, le seguenti tipologie di assistenza:",
+                "attività/servizi per persone con tossicodipendenza/ (?) ",
+                "assistenza domiciliare o residenziale per malati in fase terminale (?)",
+                "strutture semiresidenziali per paziente affetti da demenza ",
+                "interventi di varia natura senza prenotazione negli ambulatori (?) di cure primarie/case della salute",
+                "tutte le risposte precedenti ",
+                "0 0 0 0 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "mTF43:U}Dm",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il Distretto: ",
+                "fa parte dell’Azienda USL",
+                "deve garantire, tra le altre, l’erogazione delle prestazioni sanitarie a rilevanza sociale (?)",
+                "fa parte dell’Azienda Ospedaliera ",
+                "prevede un Ufficio di Coordinamento che affianca il Direttore (?)",
+                "tutte le risposte precedenti ",
+                "1 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "BI437ch&;I",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Il medico di medicina generale (MMG) è: ",
+                "un libero professionista convenzionato con il SSR",
+                "un dipendente del Servizio Sanitario Regionale (SSR)",
+                "un fondamentale attore per l’appropriatezza prescrittiva",
+                "uno specialista formato a livello universitario ",
+                "un professionista coordinato dal Distretto  ",
+                "1 0 1 0 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Gzh|KcioC=",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Quale delle seguenti rappresenta la strategia di maggiore efficacia nel contrasto delle disuguaglianze nella salute (una sola risposta): ",
+                "il miglioramento delle condizioni abitative",
+                "il rafforzamento della coesione sociale ",
+                "l’azione politica intersettoriale sui determinanti sociali ",
+                "l’aumento degli stipendi ",
+                "nessuna delle risposte precedenti ",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "yTzuA8rN|R",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Per quali delle seguenti condizioni è dimostrata, a livello internazionale, una diretta proporzionalità con la distribuzione ineguale delle risorse economiche nella popolazione? ",
+                "obesità ",
+                "numero di detenuti ",
+                "numero di gravidanze in adolescenti ",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "C@5Hj0aB_9",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  A quale delle seguenti modalità di finanziamento proprie di diversi Sistemi Sanitari viene riconosciuto il più alto livello di equità?",
+                "assicurazioni private ",
+                "tassazione generale ",
+                "out of pocket ",
+                "assicurazioni sociali ",
+                "nessuna delle precedenti risposte ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F$=9wiLf}}",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  In termini di correlazione tra indicatori sanitari e sociali e distribuzione delle ricchezze interne a un paese (coefficiente Gini): ",
+                "gli indicatori sono tanto peggiori quanto più concentrata è la distribuzione del reddito nella popolazione ",
+                "gli indicatori sono tanto migliori quanto più concentrata è la distribuzione del reddito nella popolazione ",
+                "gli indicatori sono tanto migliori quanto più diffusa è la distribuzione del reddito nella popolazione ",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "eMXe/@[Aec",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Con riferimento all’obesità tra gli adulti in Italia: ",
+                "è dimostrata una correlazione con il livello di istruzione, a favore di chi ha un titolo più elevato",
+                "non è dimostrata una correlazione con il livello di istruzione a favore di chi ha un titolo più elevato",
+                "è dimostrato che chi ha molte difficoltà economiche è più facilmente obeso ",
+                "non è dimostrato che chi ha molte difficoltà economiche è più facilmente obeso",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "BpYdcrsFfs",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale delle seguenti affermazioni relative alla normativa nazionale sulla tutela assistenziale dello Straniero Temporaneamente Presente è vera: ",
+                "ha diritto al medico di medicina generale (MMG)",
+                "non ha diritto al MMG",
+                "ha diritto alle cure urgenti o essenziali, ancorché continuative, ospedaliere e ambulatoriali ",
+                "ha diritto alle cure urgenti ospedaliere e ambulatoriali ",
+                "deve comunque pagare le prestazioni ricevute ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "r:Y<Hrn$%|",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Dai risultati del sistema di sorveglianza PASSI sugli adulti risulta che, nel 2016, a livello nazionale: ",
+                "la percentuale di adulti sedentari sia di circa il 32%",
+                "la percentuale di adulti sedentari sia di quasi il 46%",
+                "la percentuale di adulti obesi sia di circa il 10%",
+                "la percentuale di adulti obesi sia di quasi il 25%",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "C]S_Kk(AE#",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale, tra i seguenti, è requisito rilevante per l’applicazione di massa di un test di screening:",
+                "diffusione e gravità della specifica patologia  ",
+                "disponibilità di una terapia efficace",
+                "affidabilità del test ",
+                "costi organizzativi e gestionali della campagna di screening ",
+                "nessuna delle risposte precedenti ",
+                "1 1 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "q0D<Am{#Dq",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale, tra le seguenti, è una caratteristica specifica degli screening di massa:",
+                "la disponibilità di un idoneo trattamento in grado di influenzare la prognosi ",
+                "l’utilizzo dei registri anagrafici per l’individuazione dei soggetti a rischio ",
+                "la gratuità dei test di 1° livello offerto ai soggetti a rischio ",
+                "il fatto che la proposta di prevenzione secondaria includa, se necessario, ulteriori approfondimenti ",
+                "tutte le risposte precedenti  ",
+                "0 0 0 0 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L_22~@SXa_",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  In sanità gli output rappresentano (una sola risposta): ",
+                "le condizioni da soddisfare necessariamente ",
+                "gli esiti di salute degli interventi effettuati ",
+                "gli standard esterni di riferimento ",
+                "il complesso delle attività (visite, prestazioni…) erogate ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ip]DM;pYg1",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale delle seguenti affermazioni è corretta:",
+                "l’efficienza è l’utilizzo ottimale delle risorse disponibili ",
+                "l’efficienza è la capacità di raggiungere gli obiettivi prefissati ",
+                "l’appropriatezza organizzativa riguarda il ricordo al contesto assistenziale più coerente alle condizioni del paziente ",
+                "l’efficacia è l’utilizzo ottimale delle risorse disponibili ",
+                "l’efficacia è la capacità di raggiungere gli obiettivi prefissati ",
+                "1 0 1 0 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "q<AL-A]f::",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Perché una struttura possa vedersi riconosciuto l’accreditamento istituzionale è necessario che soddisfi:",
+                "requisiti strutturali e professionali ",
+                "requisiti tecnologici, organizzativi e professionali ",
+                "requisiti strutturali, tecnologici e professionali ",
+                "requisiti strutturali, tecnologici, organizzativi e professionali ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "vA0!sEL9y]",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  L’accreditamento istituzionale: ",
+                "prevede il possesso di requisiti stabiliti dallo Stato ",
+                "prevede il possesso di requisiti stabiliti dalla Regione",
+                "viene riconosciuto a tempo indeterminato ",
+                "consente a chi ne è in possesso di erogare assistenza a nome e per conto del SSR",
+                "tutte le risposte precedenti ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "yw{c][y5>%",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il Distretto: ",
+                "fa parte dell’Azienda Ospedaliera ",
+                "fa parte dell’azienda USL",
+                "è sotto la diretta gestione del Direttore Generale ",
+                "deve garantire, tra le altre, l’erogazione delle prestazioni sanitarie a rilevanza sociale",
+                "nessuna delle risposte precedenti ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "nV$b5{.60o",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il Distretto garantisce, tra le altre, le seguenti tipologie di assistenza: ",
+                "attività o servizi di assistenza domiciliare programmata",
+                "visite periodiche preventive dei lavoratori",
+                "rilascio di idoneità abitative",
+                "assistenza specialistica ambulatoriale",
+                "tutte le risposte precedenti ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Cq:~k,7#|1",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  L’integrazione sociosanitaria: ",
+                "si attua prevalentemente a livello del presidio ospedaliero ",
+                "si attua prevalentemente a livello del Distretto ",
+                "comprende prestazioni sanitarie a rilevanza sociale e prestazioni sociali a rilevanza sanitaria",
+                "si attua prevalentemente a livello del Dipartimento di Prevenzione ",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n^h&y8|zA@",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale dei seguenti macro-obiettivi è presente nel piano nazionale della prevenzione (PNP) per gli anni 2020 – 2025: ",
+                "prevenire le conseguenze dei disastri ambientali (?)",
+                "prevenire gli infortuni e le malattie professionali ",
+                "prevenire le dipendenze da sostanze e comportamenti ",
+                "ridurre la frequenza di infezioni/malattie infettive prioritarie",
+                "tutte le risposte precedenti ",
+                "0 1 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "cZ^C[.h~[f",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  La quota capitaria: ",
+                "comprende anche le risorse necessarie al funzionamento del SSN",
+                "è quanto ogni cittadino deve pagare per l’assistenza ",
+                "equivale in questi anni a circa 1700 euro per residente ",
+                "è utilizzata per la ripartizione del Fondo Sanitario Nazionale ",
+                "tutte le risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "G^yc2_DnY|",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  La quota capitaria: ",
+                "esplicita il valore pro-capite medio nazionale necessario per assicurare la copertura del fabbisogno finanziario dei LEA ",
+                "equivale in questi anni a circa 1.400 euro per residente ",
+                "è quanto ogni cittadino deve pagare per ricevere l’assistenza ",
+                "è utilizzata per la ripartizione del Fondo Sanitario Regionale tra le Aziende Sanitarie Locali",
+                "tutte le risposte precedenti ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "dr5VB?#x)R",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali delle seguenti quote % di ripartizione del Fondo Sanitario Nazionale tra le macro-funzioni assistenziali sono corrette: ",
+                "prevenzione 3% / assist. ospedaliera 51% / assist. distrettuale 46%",
+                "prevenzione 5% / assist. ospedaliera 51% / assist. distrettuale 44%",
+                "prevenzione 7% / assist. ospedaliera 45% / assist. distrettuale 48%",
+                "prevenzione 5% / assist. ospedaliera 44% / assist. distrettuale 51%",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "d,q`uUQa#*",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Le prestazioni di assistenza ospedaliera in regime di ricovero (d’urgenza) vengono remunerate (una sola risposta): ",
+                "secondo nomenclatore tariffario regionale ",
+                "secondo diaria giornaliera moltiplicata per le giornate di degenza ",
+                "secondo la tariffa associata allo specifico DRG",
+                "tutte le risposte ",
+                "nessuna delle risposte f.       (sulla base della modalità attiva o passiva) ",
+                "0 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "DxGR)5ALjS",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Le regioni in piano di rientro: ",
+                "devono rientrare dai disavanzi di bilancio accumulati ",
+                "sono poste sotto stretta sorveglianza da parte del Ministero dell’Economia e delle Finanze (MEF), attraverso un sub-commissario ",
+                "vedono sospeso il finanziamento tramite quota capitaria ",
+                "sono tenute a bloccare i concorsi per l’assunzione del personale sanitario (salvo specifiche deroghe) ",
+                "tutte le risposte precedenti ",
+                "1 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "z[z5/~GB*=",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Nel ciclo della programmazione (una sola risposta):",
+                "l’analisi di fattibilità precede la definizione del programma ",
+                "l’analisi di fattibilità segue la definizione del programma ",
+                "la definizione della popolazione bersaglio è distinta dalla esplicitazione degli obiettivi specifici ",
+                "la valutazione avviene solo al termine del processo/ciclo per valutarne l’efficacia ",
+                "nessuna delle risposte precedenti",
+                "1 0 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Pm3yd(ll*c",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo i dati PASSI per gli anni 2014–2017, in Italia si sono registrati i seguenti tassi di copertura dei rispettivi screening: ",
+                "circa 80% per lo screening del Ca della cervice uterina",
+                "circa 45% per lo screening del Ca colon rettale",
+                "circa 65% per lo screening del Ca colon rettale ",
+                "circa 90% per lo screening del Ca della mammella",
+                "nessuna delle risposte precedenti ",
+                "1 1 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L|O(G:hZwM",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo i dati PASSI per gli anni 2016 – 2019 il tasso di copertura dei rispettivi screening in Italia è di: ",
+                "circa 80% per lo screening del Ca (?)",
+                "circa 75% per lo screening del Ca (?)",
+                "circa il 65% per lo screening del Ca (?)",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti  ",
+                "1 1 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "o!B<OKBe&)",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; L’International Diabetes Federation (IDF) stima che nel mondo l’ammontare di diabetici tra 20 e 79 anni sia attualmente (2019)  di (una sola risposta): ",
+                "282 milioni",
+                "246 milioni",
+                "453 milioni",
+                "700 milioni ",
+                "nessuna delle risposte precedenti ",
+                "0 0 1 0 0",
+                "1",
+                "",
+                "",
+                "Nel 2021 sono gia 537 milioni<br>"
+            ],
+            "guid": "xqqE4BU/5^",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali delle seguenti malattia si possono trasmettere per via fecale-orale: ",
+                "epatite B",
+                "epatite A ",
+                "poliomielite",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "rZ<yU?0mrE",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Gli articoli sanitari vengono definiti ‘critici’ quando: ",
+                "vengono a contatto solo con cute integra",
+                "vengono a contatto con mucose integre ",
+                "vengono introdotti in zone sterili del corpo o sono oggetti nei quali scorrerà sangue",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "xPL/_g|ny@",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Dai risultati del sistema di sorveglianza PASSI sugli adulti risulta che, nel 2016, a livello nazionale:",
+                "la percentuale di fumatori sia di circa il 26%",
+                "la percentuale di fumatori sia di circa il 36%",
+                "la percentuale che guida sotto l’effetto dell’alcol sia di circa l’8%",
+                "la percentuale che guida sotto l’effetto dell’alcol sia di circa il 18%",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "L]S_y>yy9s",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Dai risultati del sistema di sorveglianza PASSI sugli adulti risulta che, nel periodo 2017-2020, a livello nazionale:",
+                "la percentuale di adulti sedentari sia di quasi il 47%",
+                "la percentuale di adulti sedentari sia di quasi il 37%",
+                "la percentuale di adulti in sovrappeso sia di quasi il 32%",
+                "la percentuale di adulti in sovrappeso sia di quasi il 47%",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "G_n;u$@z~H",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Dai risultati del sistema di sorveglianza PASSI sugli adulti risulta che, nel periodo 2017-2020, a livello nazionale:",
+                "la percentuale (%) di fumatori sia di oltre il 35%",
+                "la percentuale (%) di fumatori sia di oltre il 25%",
+                "la percentuale (%) che ha un consumo di alcol a maggior rischio sia circa il 26%",
+                "la percentuale (%) che ha un consumo di alcol a maggior rischio sia circa il 16%",
+                "nessuna delle risposte precedenti ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Q^`+)|,Lg&",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  La mortalità perinatale interessa il periodo che va:",
+                "dalla nascita al primo anno dopo la nascita",
+                "dalla ventottesima settimana di gestazione alla prima settimana dopo la nascita ",
+                "dalla prima alla quarta settimana dopo la nascita ",
+                "dalla quinta settimana ad un anno dopo la nascita ",
+                "nessuna delle risposte precedenti ",
+                "0 1 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n7(POz~.*1",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Con riferimento ai Livelli Essenziali di Assistenza:",
+                "tutte le regioni sono tenute a garantirne l’applicazione ",
+                "sono tenute a garantire l’applicazione solo <i>[del livello essenziale di assistenza ?] </i>Ordinario ",
+                "le regioni non possono aggiungere ulteriori LEA facendosene carico a proprio spese ",
+                "le regioni possono eventualmente con <i>[delibera?]</i> aggiungere ulteriori LEA",
+                "nessuna delle risposte precedenti ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n4`[G(vwwa",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il modello di stratificazione del rischio di Kaiser permanente afferma che:",
+                "al livello 1 sia di norma collocato il 40-50% dei pazienti cronici che necessitano di case management ",
+                "al livello 1 sia di norma collocato circa il 70-80% dei pazienti cronici che necessitano di supporto all’autocura",
+                "al livello 2 sia di norma collocato circa il 12-13% dei pazienti cronici ad alto rischio che necessitano di disease management ",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "r~m}-4_b_5",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Per lo Straniero Temporaneamente Presente (STP) in Italia:",
+                "sono previste, tra le altre, cure ambulatoriali essenziali",
+                "è previsto il medico di Medicina Generale (MMG) a parità dei cittadini italiani ",
+                "è indicato il pagamento del ticket, laddove previsto ",
+                "è vietata la segnalazione all’autorità di polizia, a meno che non vi sia obbligo di referto, a parità di condizioni con il cittadino italiano ",
+                "tutte le risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "&8i>I8QuW",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Quali delle seguenti malattie si possono trasmettere per via aerea:",
+                "influenza ",
+                "meningite ",
+                "morbillo",
+                "epatite A",
+                "tutte le risposte precedenti&nbsp;",
+                "1 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "eqJ6^gxE>T",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il Distretto garantisce, tra le altre, le seguenti tipologie di assistenza: ",
+                "visite periodiche preventive dei lavoratori",
+                "attività o servizi residenziali e semiresidenziali per non autosufficienti ",
+                "attività o servizi di controllo sui prodotti alimentari di origine animale ",
+                "assistenza specialistica ambulatoriale",
+                "tutte le risposte precedenti ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "z~ThXBqnUL",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Il Distretto:",
+                "deve garantire, tra le altre, l’erogazione dell’assistenza domiciliare (?)",
+                "è sotto la diretta gestione del Direttore Generale ",
+                "è sotto la gestione del Direttore di Distretto ",
+                "deve garantire, tra le altre, l’erogazione delle prestazioni sanitarie a rilevanza sociale ",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "sV%B4%oz6+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale delle seguenti affermazioni relative alla normativa nazionale sulla tutela assistenziale dello Straniero Temporaneamente Presente (STP) è vera:",
+                "ha diritto al medico di medicina generale (MMG)",
+                "non ha diritto al medico di medicina generale (MMG)",
+                "ha diritto alle prestazioni urgenti essenziali, ancorché continuative, ospedaliere e ambulatoriali ",
+                "deve essere segnalato all’autorità di polizia solo se si rifiuta di pagare la prestazione ricevuta ",
+                "non deve mai essere segnalato all’autorità di polizia ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "I{aOf;8.H]",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  L’esclusiva funzione di erogazione in sanità è esercitata da: ",
+                "Aziende Sanitarie Locali ",
+                "IRCCS",
+                "LEA",
+                "Aziende Ospedaliere",
+                "nessuna delle risposte precedenti ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "f5>#AJabn~",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Nel ciclo della programmazione:",
+                "l’analisi di fattibilità segue la definizione del programma",
+                "l’analisi di fattibilità precede la definizione del programma",
+                "la definizione della popolazione bersaglio è compresa nella esplicitazione degli obiettivi specifici ",
+                "la definizione della popolazione bersaglio è distinta dalla esplicitazione degli obiettivi specifici ",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "fk/s7)f&5}",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale dei seguenti fattori è considerato dalla carta di rischio cardiovascolare:",
+                "consumo di caffè",
+                "colesterolemia ",
+                "predisposizione genetica",
+                "fumo di sigaretta ",
+                "diabete ",
+                "0 1 0 1 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "F|Hrvvi/}o",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale, tra le seguenti, è una caratteristica specifica degli screening di massa:",
+                "l’utilizzo dei registri anagrafici per l’individuazione dei soggetti a rischio",
+                "la gratuità del test di 1° livello offerto ai soggetti a rischio",
+                "la preliminare iscrizione volontaria dei soggetti a rischio in un registro per lo screening ",
+                "il fatto che la proposta di prevenzione secondaria includa, se necessario, ulteriori approfondimenti diagnostici ",
+                "tutte le risposte precedenti ",
+                "1 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "o5di-5}_XK",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Per quali delle seguenti malattie esiste un vaccino efficace e sicuro?",
+                "difterite ",
+                "infezioni da Haemophilus Influenzae di tipo B",
+                "infezioni da HIV ",
+                "infezioni da rotavirus (?)",
+                "tutte le risposte precedenti ",
+                "1 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Ad_qv*;2FN",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  La mortalità post-neonatale interessa il periodo che va (una sola risposta):",
+                "dalla quinta settimana ad un anno dopo la nascita ",
+                "dalla ventottesima settimana di gestazione alla prima settimana dopo la nascita ",
+                "dalla seconda alla quarta settimana dopo la nascita ",
+                "dalla nascita al primo anno dopo la nascita ",
+                "nessuna delle risposte precedenti ",
+                "1 0 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "E5rhVu/Tn[",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Tra i 6 elementi caratteristici del Chronic Care Model vi è:",
+                "il supporto all’autocura",
+                "i sistemi informativi ",
+                "la riorganizzazione dei servizi delle cure primarie ",
+                "l’aggiornamento obbligatorio dei professionisti ",
+                "tutte le risposte precedenti ",
+                "1 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ptryH>JlHV",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali delle seguenti malattie si possono trasmettere per via fecale-orale:",
+                "epatite B",
+                "rotavirus ",
+                "SARS",
+                "poliomelite",
+                "tutte le risposte precedenti ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "korK($}h4+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali dei seguenti sono elementi comuni ai diversi modelli innovativi di gestione della cronicità:",
+                "la natura pubblica universalistica dei servizi di cura ",
+                "il disporre di linee guida in grado di tenere conto della co-morbilità (?)",
+                "la presenza/utilizzo di sistemi informativi evoluti ",
+                "l’erogazione di un’assistenza focalizzata sui bisogni individuali della persona, nel suo specifico contesto sociale",
+                "tutte le risposte precedenti ",
+                "0 1 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "I])^`2Ntwn",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Nel gruppo operativo del comitato per il controllo delle IO: ",
+                "è prevista la figura del dirigente infermieristico ",
+                "è prevista la figura del farmacista ",
+                "è prevista la figura del microbiologo ",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "He43lW;D_+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Le prestazioni di assistenza specialistica in regime ambulatoriale (una sola risposta): vengono remunerate secondo la tariffa associata allo specifico DRG",
+                "vengono remunerate dal SSR anche se non incluse nei LEA",
+                "vengono remunerate secondo nomenclatore tariffario regionale ",
+                "nessuna delle risposte precedenti ",
+                "tutte le risposte precedenti ",
+                "",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "NyDl^M:O[R",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  In termini di correlazione tra indicatori sanitari e sociali e distribuzione delle ricchezze interne a un paese (coefficiente Gini) (una sola risposta):",
+                "non è stata dimostrata una correlazione ",
+                "gli indicatori sono tanto peggiori quanto più concentrata è la distribuzione del reddito nella popolazione ",
+                "gli indicatori sono tanto migliori quanto più concentrata è la distribuzione del reddito nella popolazione ",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 1 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "NRZ$}qI:dp",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali delle seguenti affermazioni relative alla normativa nazionale sulla tutela assistenziale dello straniero temporaneamente presente (STP) è vera:",
+                "non ha diritto al medico di medicina generale (MMG)",
+                "ha diritto al medico di medicina generale (MMG)",
+                "deve essere segnalato all’autorità di polizia solo se si rifiuta di pagare la prestazione ricevuta ",
+                "ha diritto alle prestazioni urgenti o essenziali, ancorché continuative, ospedaliere e ambulatoriali ",
+                "non deve mai essere segnalato all’autorità di polizia ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bz4|r77A]K",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo i dati dei rapporti AIRTUM 2020 e 2021 il carcinoma del colon- retto e ano rappresenta:",
+                "la seconda causa di morte oncologica nei maschi",
+                "la prima causa di morte oncologica nei maschi ",
+                "la terza causa di morte oncologica nelle femmine ",
+                "la seconda causa di morte oncologica nelle femmine ",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "HJT15I33c+",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  La quota capitaria: ",
+                "equivale in questi anni a circa 1.500 euro per residente ",
+                "non costituisce l’equivalente finanziario dei servizi e delle prestazioni da assicurare a ciascun cittadino/residente ",
+                "è utilizzata per la ripartizione del Fondo Sanitario Nazionale ",
+                "è quanto il cittadino deve pagare per ricevere l’assistenza",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "OBZgsJ2|tk",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il Distretto garantisce, tra le altre, le seguenti tipologie di assistenza: ",
+                "attività/servizi domiciliari e residenziali per la cura dei pazienti non autosufficienti gravi ",
+                "visite periodiche preventive dei lavoratori ",
+                "assistenza specialistica ambulatoriale ",
+                "cure primarie nelle case della salute ",
+                "tutte le risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Gz0yq|OdnK",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Con riferimento al modello di stratificazione del rischio di Kaiser permanente ripreso dal Piano Nazionale della Cronicità: ",
+                "al livello 3 è collocato il 7-8% dei pazienti cronici, che necessitano di case management ",
+                "alla base è collocata la popolazione sana che necessita di promozione della salute e prevenzione ",
+                "al livello 1 è collocato il 70-80% dei pazienti cronici che necessitano di supporto all’autocura ",
+                "tutte le risposte precedenti ",
+                "nessuna delle precedenti risposte",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uYEu@xC~DW",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Tra gli screening di massa propriamente detti vi è attualmente (una sola risposta):",
+                "la RMN total body per la diagnosi precoce di tutte le patologie tumorali",
+                "la visita dermatologica oncologica per la diagnosi precoce di melanoma ",
+                "la angio-TAC con mezzo di contrasto per la diagnosi precoce di aneurisma cerebrale ",
+                "la ricerca di sangue occulto nelle feci per la diagnosi precoce di carcinoma del colon-retto ",
+                "tutte le risposte precedenti   ",
+                "0 0 0 1 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "i5$==q=c=&",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Per i presidi sanitari ‘semi-critici’ (contatto con mucose e cute non integra) sono previsti trattamenti di (una sola risposta): ",
+                "sterilizzazione ",
+                "disinfezione di alto livello ",
+                "disinfezione di basso livello ",
+                "disinfestazione ",
+                "nessuna delle risposte precedenti ",
+                "0 1 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "xywOGHdH%{",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo la WHO/OMS, al mondo nel 2019: ",
+                "sono morte circa 18 milioni di persone per malattie cardiovascolari",
+                "sono morte circa 38 milioni di persone per malattie cardiovascolari ",
+                "oltre ¾ delle morti per CVD è avvenuto in paesi ad alto e medio reddito ",
+                "oltre ¾ delle morti per CVD è avvenuto in paesi a basso e medio reddito ",
+                "nessuna delle risposte precedenti ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "ex/pn:-s!F",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Dai risultati del sistema di sorveglianza PASSI sugli adulti risulta che, nel periodo 2014-2017, a livello nazionale: ",
+                "la percentuale di fumatori sia di circa il 26% ",
+                "la percentuale di fumatori sia di oltre i 36%",
+                "la percentuale che ha un consumo di alcol a maggior rischio sia di circa il 17%",
+                "la percentuale che ha un consumo di alcol a maggior rischio sia di circa il 27%",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "b/;!ntG2e:",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Per quali delle seguenti malattie esiste un vaccino efficace e sicuro?",
+                "pertosse",
+                "infezioni da HIV",
+                "infezioni da Haemopilus Influenzae di tipo B ",
+                "infezioni da Streptococcus Pneumoniae ",
+                "tutte le risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "w2!X)9P+Y^",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Una IO può causare un aumento della degenza stimato in (una sola risposta): ",
+                "si stima (dati 2019) che la prevalenza della popolazione che ne è affetta in Italia sia di oltre il 5%",
+                "si stima (dati 2019) che la prevalenza della popolazione che ne è affetta in Italia sia di circa il 10%",
+                "si stima (dati 2019) che oltre i 45 anni la prevalenza sia più alta nei maschi",
+                "si stima (dati 2019) che oltre i 45 anni la prevalenza sia più alta nelle femmine",
+                "si stima (dati 2019) che la prevalenza sia più elevata nelle regioni meridionali",
+                "0 0 1 0 0",
+                "2",
+                "",
+                "",
+                ""
+            ],
+            "guid": "uf;7&Fq&;N",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                " che la prevalenza sia più elevata nelle regioni meridionali ",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "1 0 1 0 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "eL~UHzJ5dL",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il tasso critico di copertura vaccinale:",
+                "è lo stesso per tutte le malattie prevenibili da vaccino ",
+                "è specifico per ogni malattia prevenibile da vaccino ",
+                "è legato al tasso di riproduzione di base specifico di quell’infezione ",
+                "è indipendente dal tasso di riproduzione di base specifico di quell’infezione ",
+                "tutte le risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "l-CkgVFlRt",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo i dati PASSI per gli anni 2017-2020, la copertura complessiva dei rispettivi screening in Italia è di: ",
+                "circa il 47% per lo screening del Ca del colon-retto",
+                "circa il 67% per lo screening del Ca del colon-retto",
+                "circa il 90% per lo screening del Ca della cervice uterina ",
+                "circa il 75% per lo screening Ca della mammella",
+                "nessuna delle risposte precedenti ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "D^jWT*sV/F",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Con riferimento ai dati demografici ISTAT al 1° gennaio 2020:",
+                "l’età media della popolazione residente è di circa 36 anni ",
+                "l’età media della popolazione residente è di circa 46 anni ",
+                "il numero medio di figli per donna è di circa 1,3",
+                "il numero medio di figli per donna è di circa 1,9",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "tqA%opOnY?",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  La carta del rischio cardiovascolare:",
+                "stima il rischio immediato di evento cardiovascolare maggiore",
+                "stima il rischio a 10 anni di evento cardiovascolare maggiore ",
+                "è rivolta a persone di età compresa tra 50 e 69 anni, comprese quelle che abbiano già avuto eventi cardiovascolari ",
+                "è rivolta a persone di età compresa tra 40 e 69 anni che non abbiano già avuto eventi cardiovascolari ",
+                "deve essere utilizzata dal medico ",
+                "0 1 0 1 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "t<I+DXHo+k",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Una IO può causare un aumento della degenza stimato in media di: ",
+                "7-21 giorni per una infezione delle vie urinarie",
+                "7-8 giorni per una infezione della ferita chirurgica ",
+                "5-6 giorni per una polmonite",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 1 0 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "B58>c_aIvD",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale dei seguenti interventi può produrre un aumento della resistenza ad un’infezione: ",
+                "profilassi antibiotica preoperatoria",
+                "promozione di un adeguato tasso nutrizionale della popolazione",
+                "immunoprofilassi attiva",
+                "tutte le risposte precedenti ",
+                "nessuna delle precedenti risposte",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "Hs>|c|?ipj",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Le malattie infettive a notificazione obbligatoria riguardano (una sola risposta): ",
+                "circa 20 patologie divise in 4 classi ",
+                "circa 35 patologie divise in 5 classi ",
+                "circa 50 patologie divise in 5 classi ",
+                "circa 50 patologie divise in 3 classi ",
+                "tutte le risposte precedenti ",
+                "0 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "s;R@[cyN=!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Nei nati da madri HBsAg positiva, la prima dose di vaccino si somministra (una sola risposta):",
+                "al 3° mese di vita, come per gli altri bambini ",
+                "la prevenzione del bambino si effettua vaccinando la madre ",
+                "non esiste purtroppo un vaccino specifico ",
+                "alla nascita (entro le prime 24 ore), insieme alle immunoglobuline specifiche ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "NQ:~,rbb;>",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale delle seguenti affermazioni è corretta: ",
+                "i figli di madre con basso titolo di studio hanno una copertura più alta per le vaccinazioni raccomandate",
+                "i figli di madre con basso titolo di studio hanno una copertura più alta per le vaccinazioni raccomandate",
+                "le persone svantaggiate sono più vulnerabili a cure inappropriate (ad esempio mortalità più elevate dopo intervento di bypass)",
+                "l’esito delle cure, per motivi etico-deontologici, sono dipendenti dalle condizioni materiali delle persone",
+                "nessuna delle risposte precedenti ",
+                "0 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "bp{|zHX%pk",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale delle seguenti affermazioni relativa all’HPV è vera: ",
+                "nella maggior parte dei casi l’infezione è asintomatica e il virus viene eliminato ",
+                "la percentuale di femmine vaccinate in Italia con ciclo completo è attualmente intorno al 50%",
+                "la vaccinazione è gratuita e rivolta alle femmine tra gli 11 e i 12 anni ",
+                "la vaccinazione protegge da tutti i casi di Ca cervicale",
+                "non esiste un vaccino per prevenire l’infezione f.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (si trasmette attraverso i rapporti sessuali)",
+                "1 1 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "IT{3>b1+F=",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Con riferimento ai casi di infezioni nosocomiali si stima che potrebbe esserne evitato: ",
+                "circa il 10-15%",
+                "circa il 40-50%",
+                "circa il 60-70%",
+                "circa il 20-30%",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "wE!U/2m;.]",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale dei seguenti microrganismi presenta una resistenza a specifiche categorie di antibiotici:",
+                "Staphylococcus Aureus ",
+                "Enterococchi ",
+                "Klebsiella Pneumoniae ",
+                "tutte le risposte precedenti",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "k@t]2XPpOV",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale delle seguenti attività caratterizza la fase di indagine epidemiologica successiva a segnalazione di malattie a notificazione obbligatoria:",
+                "individuazione della modalità di trasmissione ",
+                "protezione di conviventi e contatti ",
+                "isolamento ospedaliero dei casi ",
+                "identificazione sorgente del contagio ",
+                "tutte le risposte precedenti ",
+                "1 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "x3BK`[#tl!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quando, secondo le linee guida della WHO, occorrerebbe che gli operatori sanitari si lavassero le mani: ",
+                "prima di attuare procedure di asepsi sui pazienti ",
+                "dopo aver toccato il paziente ",
+                "prima di aggiornare la cartella clinica del paziente ",
+                "dopo aver toccato ciò che circonda il paziente ",
+                "nessuna delle risposte precedenti ",
+                "1 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "lpuNRI39&!",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali sono le fasi di vita in cui il Piano Nazionale di Prevenzione raccomanda le rispettive vaccinazioni: ",
+                "vaccinazione antivaricella a partire dal 13° mese ",
+                "vaccinazione antivaricella a partire dal 3° mese ",
+                "vaccinazione anti-HPV a partire dal 12° anno ",
+                "vaccinazione anti-HPV a partire dal 13° mese ",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 0 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "zgAGF`,f.~",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Il modello di stratificazione del rischio alla base del ‘Chronic Care Model’ prevede: ",
+                "la necessità di sottoporre tutta la popolazione ad esami clinici approfonditi ",
+                "la necessità di sottoporre tutta la popolazione a screening affidabili ",
+                "una differenziazione degli interventi clinici sulla base del rischio genetico ",
+                "una differenziazione delle strategie d’intervento in relazione ai differenti livelli di rischio ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "gPzwtYSM$`",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Con riferimento ai tassi globali di mortalità standardizzata per età per le 4 principali cause di malattie croniche (malattie cardiovascolari, tumori, diabete mellito, BPCO), tra il 2000 e 2015:",
+                "i tassi vedono un trend in aumento in tutti i paesi del mondo ",
+                "i tassi vedono un trend in diminuzione in tutti i paesi del mondo ",
+                "non vi sono sostanziali differenze per le malattie cardiovascolari tra paesi ad alto reddito e paesi a medio e basso reddito ",
+                "vi sono sostanziali differenze per le malattie cardiovascolari tra paesi ad alto reddito e paesi a medio e basso reddito ",
+                "nessuna delle risposte precedenti",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "A{@`OH#x*7",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Secondo i dati ISTAT disponibili in Italia: ",
+                "soffre di una patologia cronica grave oltre il 16% delle persone con laurea o diploma ",
+                "soffre di una patologia cronica grave oltre il 14% delle persone con laurea o diploma ",
+                "soffre di una patologia cronica oltre il 16% di quanti hanno al massimo la licenza elementare",
+                "soffre di una patologia cronica oltre il 22% di quanti hanno al massimo la licenza elementare",
+                "nessuna delle risposte precedenti ",
+                "1 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "e>M7dkl:Ke",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali dei seguenti sono elementi comuni ai diversi modelli innovativi di gestione della cronicità: ",
+                "il passaggio da un’assistenza reattiva ad un’assistenza proattiva",
+                "la natura pubblica universalistica dei servizi di cura ",
+                "la presenza/utilizzo di sistemi informativi evoluti ",
+                "il basarsi su team multiprofessionali che puntano al miglioramento continuo ",
+                "tutte le risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n?<)w0/Y4N",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Con riferimento al modello di stratificazione del rischio di Kaiser permanente: ",
+                "al livello 3 è collocato il 2-3% dei pazienti cronici che necessitano di case management ",
+                "a livello 1 è collocato il 70-80% dei pazienti cronici che necessitano di supporto all’autocura",
+                "al livello 2 è collocato il 20-30% dei pazienti cronici ad alto rischio che necessitano di disease management ",
+                "tutte le risposte precedenti ",
+                "nessuna delle risposte precedenti ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "DZ-eM_myXr",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo i dati del Pool AIRTUM 2018 il K del colon-retto rappresenta: ",
+                "il secondo tumore più frequentemente diagnosticato nella popolazione ",
+                "il quarto tumore più frequentemente diagnosticato nella popolazione ",
+                "la seconda causa di morte oncologica nei maschi ",
+                "la seconda causa di morte oncologica nelle femmine",
+                "nessuna delle risposte precedenti ",
+                "1 0 1 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "G}Bg$FetGp",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo le stime del rapporto AIRTUM 2017, quale delle seguenti associazioni tra tipologia di tumore e rango per frequenza di diagnosi è corretta su tutta la popolazione italiana: ",
+                "colon-retto al 1° posto",
+                "colon-retto al 2° posto ",
+                "tiroide al 3° posto ",
+                "prostata al 3° posto ",
+                "prostata al 4° posto ",
+                "1 0 0 0 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "n8cUJj$Kl8",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Secondo l’annuario statistico italiano dell’ISTAT (dati 2016) :",
+                "il totale delle persone con 2 malattie croniche o più è di oltre il 30%",
+                "il totale delle persone con 2 malattie croniche o più è di oltre il 20%",
+                "la % di cronici in buona salute è maggiore al sud e isole rispetto al resto d’Italia",
+                "la % di cronici in buona salute è maggiore al nord rispetto al resto d’Italia ",
+                "nessuna delle risposte precedenti  ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "im#`dgBv>j",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quale dei seguenti fattori non è considerato dalla carta del rischio cardiovascolare: ",
+                "pressione arteriosa sistolica ",
+                "colesterolemia ",
+                "fumo di sigaretta ",
+                "predisposizione genetica ",
+                "diabete ",
+                "0 0 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "p=>/fuZclc",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "&nbsp; Quale dei seguenti fattori è considerato dalla carta del rischio cardiovascolare:&nbsp;",
+                "colesterolemia",
+                "fumo di sigaretta",
+                "predisposizione genetica ",
+                "diabete ",
+                "pressione arteriosa sistolica",
+                "1 1 0 1 1",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "f3XsR>{-.=",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "  Quali delle seguenti affermazioni relative all’Health Equity Audit è vera: ",
+                "è un processo che coinvolge esclusivamente politici, amministratori e professionisti ",
+                "è un processo ciclico ",
+                "non prevede la valutazione dell’impatto delle azioni intraprese nel ridurre le iniquità ",
+                "prevede la valutazione dell’impatto delle azioni intraprese nel ridurre le iniquità ",
+                "tutte le risposte precedenti ",
+                "0 1 0 1 0",
+                "1",
+                "",
+                "",
+                ""
+            ],
+            "guid": "JZDSuXs]%?",
+            "note_model_uuid": "9b8a4e5e-647f-11ef-ba87-141333e65c78",
+            "tags": [
+                "Igiene_Sapienza_Quiz"
+            ]
+        }
+    ]
+}
