@@ -6,7 +6,7 @@
   let filteredQuestions = [];
   let currentQuestionIndex = 0;
   let score = 0;
-  let selectedOption = null;
+  let selectedOptions = [];
   let quizCompleted = false;
   let questionAnswered = false;
   let scoreDisplayOption = 'fraction';
@@ -34,29 +34,39 @@
 
   function selectOption(option) {
     if (!questionAnswered) {
-      selectedOption = option;
+      const currentQuestion = filteredQuestions[currentQuestionIndex];
+      if (currentQuestion.tipo_domanda === "Risposta multipla") {
+        const index = selectedOptions.indexOf(option);
+        if (index === -1) {
+          selectedOptions = [...selectedOptions, option];
+        } else {
+          selectedOptions = selectedOptions.filter((_, i) => i !== index);
+        }
+      } else {
+        selectedOptions = [option];
+      }
     }
   }
 
   function submitAnswer() {
-    if (selectedOption === null || questionAnswered) return;
+    if (selectedOptions.length === 0 || questionAnswered) return;
 
     questionAnswered = true;
     maxAnswers++;
     const currentQuestion = filteredQuestions[currentQuestionIndex];
     
     if (currentQuestion.tipo_domanda === "Risposta singola" || currentQuestion.tipo_domanda === "Vero o Falso") {
-      if (selectedOption === currentQuestion.opzione_corretta) {
+      if (selectedOptions[0] === currentQuestion.opzione_corretta) {
         score += 1;
-      } else {
-        score -= 0;
       }
     } else if (currentQuestion.tipo_domanda === "Risposta multipla") {
-      const correctOptions = currentQuestion.opzione_corretta.split(',');
-      const selectedOptions = selectedOption.split(',');
-      const correctCount = selectedOptions.filter(option => correctOptions.includes(option)).length;
-      const incorrectCount = selectedOptions.length - correctCount;
-      score += (correctCount / correctOptions.length) - (incorrectCount * 0.25);
+      const correctOptions = currentQuestion.opzione_corretta.split(',').sort().join(',');
+      const selectedOptionsStr = selectedOptions.sort().join('');
+      console.log(selectedOptionsStr)
+      console.log(correctOptions)
+      if (correctOptions === selectedOptionsStr) {
+        score += 1;
+      }
     }
 
     // Round the score to 2 decimal places
@@ -66,7 +76,7 @@
   function nextQuestion() {
     if (currentQuestionIndex < filteredQuestions.length - 1) {
       currentQuestionIndex++;
-      selectedOption = null;
+      selectedOptions = [];
       questionAnswered = false;
     } else {
       quizCompleted = true;
@@ -76,7 +86,7 @@
   function restartQuiz() {
     currentQuestionIndex = 0;
     score = 0;
-    selectedOption = null;
+    selectedOptions = [];
     quizCompleted = false;
     questionAnswered = false;
     maxAnswers = 0;
@@ -208,14 +218,15 @@
           <p>Score</p>
         </div>
       </div>
-      <h2>Question {currentQuestionIndex + 1}</h2>
+      <h2>Domanda {currentQuestionIndex + 1}</h2>
+      <p class="explanation"><b>{filteredQuestions[currentQuestionIndex].tipo_domanda}</b></p> 
       <p>{filteredQuestions[currentQuestionIndex].domanda}</p>
       <div class="options">
         {#each filteredQuestions[currentQuestionIndex].opzioni as option}
           <button
-            class:selected={selectedOption === Object.keys(option)[0]}
-            class:correct={questionAnswered && Object.keys(option)[0] === filteredQuestions[currentQuestionIndex].opzione_corretta}
-            class:incorrect={questionAnswered && Object.keys(option)[0] !== filteredQuestions[currentQuestionIndex].opzione_corretta}
+            class:selected={selectedOptions.includes(Object.keys(option)[0])}
+            class:correct={questionAnswered && filteredQuestions[currentQuestionIndex].opzione_corretta.split(',').includes(Object.keys(option)[0])}
+            class:incorrect={questionAnswered && !filteredQuestions[currentQuestionIndex].opzione_corretta.split(',').includes(Object.keys(option)[0]) && selectedOptions.includes(Object.keys(option)[0])}
             on:click={() => selectOption(Object.keys(option)[0])}
             disabled={questionAnswered}
           >
@@ -224,10 +235,10 @@
         {/each}
       </div>
       {#if !questionAnswered}
-        <button class="submit-btn" on:click={submitAnswer} disabled={selectedOption === null}>Submit Answer</button>
+        <button class="submit-btn" on:click={submitAnswer} disabled={selectedOptions.length === 0}>Submit Answer</button>
       {:else}
-      <p class="explanation"><b>Risposta Corretta:</b> {filteredQuestions[currentQuestionIndex].opzione_corretta}</p>
-      <p class="explanation"><b>Spiegazione:</b> {filteredQuestions[currentQuestionIndex].spiegazione}</p> 
+        <p class="explanation"><b>Risposta Corretta:</b> {filteredQuestions[currentQuestionIndex].opzione_corretta}</p>
+        <p class="explanation"><b>Spiegazione:</b> {filteredQuestions[currentQuestionIndex].spiegazione}</p> 
         <button class="next-btn" on:click={nextQuestion}>Next Question</button>
       {/if}
     </div>
@@ -236,7 +247,6 @@
 
 <style>
   main {
-    font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
     padding: 1rem;
@@ -244,23 +254,25 @@
   }
 
   h1 {
-    color: #333;
+    color: var(--text-primary);
     font-size: 2rem;
     margin-bottom: 1.5rem;
     text-align: center;
   }
 
   h2 {
-    color: #444;
+    color: var(--text-primary);
     font-size: 1.25rem;
     margin-bottom: 1rem;
   }
 
   .question-container {
-    background-color: #f9f9f9;
+    background-color: var(--bg-secondary);
     border-radius: 8px;
     padding: 1rem;
     margin-bottom: 1.5rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 60px; /* Add margin-top to create space for the top-right menu */
   }
 
   .options {
@@ -271,9 +283,9 @@
   }
 
   button {
-    background-color: #4CAF50;
+    background-color: var(--accent-color);
     border: none;
-    color: white;
+    color: var(--bg-primary);
     padding: 12px 24px;
     text-align: left;
     text-decoration: none;
@@ -282,43 +294,45 @@
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 4px;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, transform 0.2s;
     width: 100%;
     word-wrap: break-word;
   }
 
   button:hover:not(:disabled) {
-    background-color: #45a049;
+    background-color: #9a67ea;
+    transform: translateY(-2px);
   }
 
   button.selected {
-    border: 2px solid black;
+    border: 2px solid var(--text-primary);
   }
 
   button.correct {
-    background-color: #2ecc71 !important;
-    color: black;
+    background-color: var(--success-color) !important;
+    color: var(--bg-primary);
     font-weight: bold;
   }
 
   button.incorrect {
-    background-color: #808080 !important;
-    color: #d3d3d3;
+    background-color: var(--error-color) !important;
+    color: var(--text-secondary);
   }
 
   button:disabled {
     cursor: not-allowed;
+    opacity: 0.7;
   }
 
   .submit-btn, .next-btn {
     display: block;
     margin: 0 auto;
-    background-color: #3498db;
+    background-color: var(--accent-color);
     max-width: 200px;
   }
 
   .submit-btn:hover, .next-btn:hover {
-    background-color: #2980b9;
+    background-color: #9a67ea;
   }
 
   .quiz-completed {
@@ -331,9 +345,8 @@
 
   .explanation {
     margin-top: 1rem;
-    font-style: italic;
-    color: #666;
-    font-size: 14px;
+    color: var(--text-secondary);
+    font-size: 18px;
   }
 
   .charts-container {
@@ -357,7 +370,7 @@
 
   .circle-bg {
     fill: none;
-    stroke: #eee;
+    stroke: var(--bg-primary);
     stroke-width: 3.8;
   }
 
@@ -366,15 +379,15 @@
     stroke-width: 2.8;
     stroke-linecap: round;
     animation: progress 1s ease-out forwards;
-    stroke: #4CAF50;
+    stroke: var(--accent-color);
   }
 
   .score-circle {
-    stroke: #3498db;
+    stroke: var(--success-color);
   }
 
   .percentage {
-    fill: #666;
+    fill: var(--text-secondary);
     font-family: sans-serif;
     font-size: 0.5em;
     text-anchor: middle;
@@ -387,11 +400,12 @@
   }
 
   .top-right-menu {
-    position: absolute;
+    position: fixed; /* Change to fixed positioning */
     top: 10px;
     right: 10px;
     display: flex;
     gap: 10px;
+    z-index: 1001; /* Increase z-index to ensure it's always on top */
   }
 
   .icon-button {
@@ -400,19 +414,19 @@
     font-size: 24px;
     cursor: pointer;
     padding: 5px;
-    color: #333;
+    color: var(--text-primary);
     transition: color 0.3s ease;
   }
 
   .icon-button:hover {
-    color: #3498db;
+    color: var(--accent-color);
   }
 
   .dropdown-menu {
     position: absolute;
     top: 100%;
     right: 0;
-    background-color: white;
+    background-color: var(--bg-secondary);
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
     z-index: 1000;
@@ -422,13 +436,13 @@
   }
 
   .dropdown-header {
-    background-color: #f0f0f0;
-    color: #333;
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
     font-size: 16px;
     font-weight: bold;
     padding: 12px 16px;
     margin: 0;
-    border-bottom: 1px solid #e0e0e0;
+    border-bottom: 1px solid var(--bg-secondary);
   }
 
   .dropdown-menu button {
@@ -438,22 +452,24 @@
     text-align: left;
     background: none;
     border: none;
-    color: #333;
+    color: var(--text-primary);
     cursor: pointer;
     transition: background-color 0.2s ease;
     font-size: 14px;
   }
 
   .dropdown-menu button:hover {
-    background-color: #f0f0f0;
+    background-color: var(--bg-primary);
   }
 
   .dropdown-menu button:active {
-    background-color: #e0e0e0;
+    background-color: var(--accent-color);
+    color: var(--bg-primary);
   }
 
   .dropdown-menu button.active {
-    background-color: #e0e0e0;
+    background-color: var(--accent-color);
+    color: var(--bg-primary);
     font-weight: bold;
   }
 
@@ -471,6 +487,7 @@
     h1 {
       font-size: 1.5rem;
       margin-bottom: 1rem;
+      margin-top: 60px; /* Add margin-top to create space for the top-right menu */
     }
 
     h2 {
@@ -479,6 +496,7 @@
 
     .question-container {
       padding: 0.75rem;
+      margin-top: 0; /* Remove margin-top for mobile */
     }
 
     button {
@@ -515,6 +533,11 @@
 
     .filter-menu {
       max-height: 250px;
+    }
+
+    .top-right-menu {
+      top: 5px;
+      right: 5px;
     }
   }
 </style>

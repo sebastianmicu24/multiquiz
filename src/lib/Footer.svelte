@@ -4,14 +4,12 @@
 
 <style>
   footer {
-    background-color: #34495e;
-    color: white;
+    background-color: var(--bg-secondary);
+    color: var(--text-secondary);
     text-align: center;
     padding: 1rem;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-size: 0.9rem;
   }
-
-  
 </style>

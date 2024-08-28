@@ -134,30 +134,30 @@
 
 <style>
   main {
-    font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
     padding: 2rem;
   }
 
   h1 {
-    color: #333;
+    color: var(--text-primary);
     font-size: 2.5rem;
     margin-bottom: 2rem;
     text-align: center;
   }
 
   h2 {
-    color: #444;
+    color: var(--text-primary);
     font-size: 1.5rem;
     margin-bottom: 1rem;
   }
 
   .question-container {
-    background-color: #f9f9f9;
+    background-color: var(--bg-secondary);
     border-radius: 8px;
     padding: 2rem;
     margin-bottom: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
 
   .options {
@@ -168,9 +168,9 @@
   }
 
   button {
-    background-color: #4CAF50;
+    background-color: var(--accent-color);
     border: none;
-    color: white;
+    color: var(--bg-primary);
     padding: 15px 32px;
     text-align: left;
     text-decoration: none;
@@ -179,40 +179,42 @@
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 4px;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, transform 0.2s;
   }
 
   button:hover:not(:disabled) {
-    background-color: #45a049;
+    background-color: #9a67ea;
+    transform: translateY(-2px);
   }
 
   button.selected {
-    border: 2px solid black;
+    border: 2px solid var(--text-primary);
   }
 
   button.correct {
-    background-color: #2ecc71 !important;
-    color: black;
+    background-color: var(--success-color) !important;
+    color: var(--bg-primary);
     font-weight: bold;
   }
 
   button.incorrect {
-    background-color: #808080 !important;
-    color: #d3d3d3;
+    background-color: var(--error-color) !important;
+    color: var(--text-secondary);
   }
 
   button:disabled {
     cursor: not-allowed;
+    opacity: 0.7;
   }
 
   .submit-btn, .next-btn {
     display: block;
     margin: 0 auto;
-    background-color: #3498db;
+    background-color: var(--accent-color);
   }
 
   .submit-btn:hover, .next-btn:hover {
-    background-color: #2980b9;
+    background-color: #9a67ea;
   }
 
   .quiz-completed {
@@ -226,7 +228,7 @@
   .explanation {
     margin-top: 1rem;
     font-style: italic;
-    color: #666;
+    color: var(--text-secondary);
   }
 
   .charts-container {
@@ -250,7 +252,7 @@
 
   .circle-bg {
     fill: none;
-    stroke: #eee;
+    stroke: var(--bg-primary);
     stroke-width: 3.8;
   }
 
@@ -259,15 +261,15 @@
     stroke-width: 2.8;
     stroke-linecap: round;
     animation: progress 1s ease-out forwards;
-    stroke: #4CAF50;
+    stroke: var(--accent-color);
   }
 
   .score-circle {
-    stroke: #3498db;
+    stroke: var(--success-color);
   }
 
   .percentage {
-    fill: #666;
+    fill: var(--text-secondary);
     font-family: sans-serif;
     font-size: 0.5em;
     text-anchor: middle;

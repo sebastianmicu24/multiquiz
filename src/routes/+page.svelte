@@ -10,12 +10,12 @@
     <button on:click={() => goto('/quiz/sanita_pubblica')}>Sanità Pubblica</button>
     <button on:click={() => goto('/quiz/igiene')}>Igiene</button>
     <button on:click={() => goto('/quiz/anatomia_patologica')}>Anatomia Patologica</button>
+    <button on:click={() => goto('/quiz/anatomia_patologica/Teoria_Anapat')}>Teoria Anapat</button>
   </div>
 </main>
 
 <style>
   main {
-    font-family: Arial, sans-serif;
     max-width: 800px;
     margin: 0 auto;
     padding: 2rem;
@@ -23,13 +23,13 @@
   }
 
   h1 {
-    color: #333;
+    color: var(--text-primary);
     font-size: 2.5rem;
     margin-bottom: 1rem;
   }
 
   p {
-    color: #666;
+    color: var(--text-secondary);
     font-size: 1.2rem;
     margin-bottom: 2rem;
   }
@@ -42,9 +42,9 @@
   }
 
   button {
-    background-color: #4CAF50;
+    background-color: var(--accent-color);
+    color: var(--bg-primary);
     border: none;
-    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -53,10 +53,11 @@
     margin: 4px 2px;
     cursor: pointer;
     border-radius: 4px;
-    transition: background-color 0.3s;
+    transition: background-color 0.3s, transform 0.2s;
   }
 
   button:hover {
-    background-color: #45a049;
+    background-color: #9a67ea;
+    transform: translateY(-2px);
   }
 </style>

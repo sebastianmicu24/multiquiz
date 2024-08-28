@@ -1,6 +1,7 @@
 <script>
   import Header from '$lib/Header.svelte';
   import Footer from '$lib/Footer.svelte';
+  import '$lib/darkTheme.css';
 </script>
 
 <div class="app">
@@ -14,10 +15,7 @@
 <style>
   :global(body) {
     margin: 0;
-    font-family: Arial, sans-serif;
     min-height: 100vh;
-    position: relative;
-    padding-bottom: 60px; /* Height of the footer */
   }
 
   .app {
@@ -29,5 +27,6 @@
   main {
     flex: 1;
     padding: 2rem;
+    background-color: var(--bg-secondary);
   }
 </style>

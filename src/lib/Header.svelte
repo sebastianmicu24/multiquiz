@@ -1,6 +1,5 @@
 <script>
   import { page } from '$app/stores';
-  import { writable } from 'svelte/store';
 </script>
 
 <header>
@@ -14,17 +13,13 @@
       </li>
     </ul>
   </nav>
-  
 </header>
 
 <style>
   header {
-    background-color: #3498db;
+    background-color: var(--bg-secondary);
     padding: 1rem;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
   }
 
   nav ul {
@@ -32,6 +27,7 @@
     padding: 0;
     margin: 0;
     display: flex;
+    justify-content: center;
   }
 
   nav li {
@@ -39,54 +35,18 @@
   }
 
   nav a {
-    color: white;
+    color: var(--text-secondary);
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
+    font-size: 1.1rem;
   }
 
   nav a:hover {
-    color: #ecf0f1;
+    color: var(--accent-color);
   }
 
   .active a {
-    color: #2c3e50;
-  }
-
-  .settings {
-    position: relative;
-  }
-
-  .settings button {
-    background: none;
-    border: none;
-    cursor: pointer;
-    color: white;
-  }
-
-  .dropdown {
-    position: absolute;
-    right: 0;
-    top: 100%;
-    background-color: white;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    z-index: 10;
-  }
-
-  .dropdown button {
-    display: block;
-    width: 100%;
-    padding: 0.5rem 1rem;
-    text-align: left;
-    background: none;
-    border: none;
-    cursor: pointer;
-    color: #333;
-  }
-
-  .dropdown button:hover {
-    background-color: #f0f0f0;
+    color: var(--accent-color);
   }
 </style>
