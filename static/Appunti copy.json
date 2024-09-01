@@ -1,0 +1,1132 @@
+[
+  {
+    "Tumori dell'Osso": {
+      "Fibroma ossificante": {
+        "Clinica": ["dolore","cagarella pre-esame"],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Displasia fibrosa": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Osteoma osteoide": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Osteoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Osteosarcoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Osteoblastoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Osteocondroma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Condroma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Condroblastoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Condrosarcoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Fibroma non ossificante": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Cisti aneurismatica dell'osso": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumore a cellule giganti": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Sarcoma di Ewing": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori dei Tessuti Molli": {
+      "GIST": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leiomioma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leiomiosarcoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Schwannoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Lipoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Liposarcoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Neoplasie Neuroendocrine": {
+      "NEN": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "NET": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "NEC": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "MiNEN": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "MEN": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Neuroblastoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologie del Cavo orale, naso, seni paranasali, faringe e laringe": {
+      "Edema di Reinke": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nodulo laringeo": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papilloma laringeo": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Cheratosi laringea": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma squamocellulare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia fibrosa": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Granuloma piogenico": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papilloma squamocellulare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Lesioni non odontogene maligne": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leucoplachia": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Eritroplachia": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Cheratosi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinomi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Ameloblastoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Odontoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Sinusite micotica": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Polipi e poliposi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papillomi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Angiofibroma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma letale della linea mediana": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologie delle Ghiandole salivari": {
+      "Ghiandole salivari": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Sjogren": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Mucocele": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenoma pleomorfo": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenomi monomorfi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": []
+      },
+      "Tumore di Warthin": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Oncocitoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma mucoepidermoide": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma a cellule aciniche": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma adenocistico": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenoma microcistico": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Malattie metaboliche dell'osso e Autopsia": {
+      "Osteoporosi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperparatiroidismo": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Paget": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Rachitismo/osteomalacia": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Necroscopia": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Carcinoma Polmonare": {
+      "Amartoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia adenomatosa atipica": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma in situ": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma microinvasivo": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma acinare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma papillare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma squamoso": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma a piccole cellule": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma a grandi cellule": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori dell'Esofago e dello Stomaco": {
+      "Adenocarcinoma gastrico": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Early gastric cancer": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Linfomi gastrici": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori della via Pancreatico-Biliare": {
+      "Tumori pancreatici": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori vie biliari": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Cisti pancreatiche": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori del Colon-Retto": {
+      "Lesioni serrate sessili e non": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenoma serrato": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Polipo amartomatoso": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Poliposi adenomatosa familiare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Carcinoma della Cervice Uterina ed Esame Estemporaneo": {
+      "CIN/HSIL": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Nevi e Melanomi": {
+      "Lentigo simplex & maligna": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nevi melanocitari": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nevo dermico": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nevo di Sutton": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Spitz": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Reed": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Blu": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Melanoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologie della Mammella": {
+      "Ectasia dotti mammari": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Galattocele": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Mastopatia linfocitaria": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Malattia fibrocistica": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Mastopatia fibrosa": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia duttale": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenosi sclerosante": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Lesioni sclerosanti complesse": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papilloma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia lobulare atipica": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Fibroadenoma": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumore filloide": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma micropapillare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma duttale": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Paget": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma duttale infiltrante": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma lobulare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma invasivo special e non": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori dell'Ovaio": {
+      "Tumori sierosi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori mucinosi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori endometrioidi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori di brenner": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Teratomi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leydig/granulosa/teca": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologie del Corpo dell'Utero": {
+      "Endometriosi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenomiosi": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia ghiandolare": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma endometroide": {
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  }
+]

@@ -1,0 +1,1793 @@
+[
+  {
+    "Tumori dell'Osso": {
+      "Osteoma osteoide": {
+        "Generalità": [
+          "<div>L'osteoma osteoide, istologicamente è identico all'<b>osteoblastoma</b>, in quanto sono entrambi <b><u>tumori benigni producenti osso</u></b></div>"
+        ],
+        "Clinica": [
+          "<div>Quasi sempre viene colpito lo scheletro <b>Appendicolare. 50% </b>dei casi totali sono in <b>Femore</b>&nbsp;o <b>Tibia</b></div>",
+          "<div><u>Trasformazione maligna:</u> <b>Rara</b></div>",
+          "<div>Risponde bene alla <b>radioablazione</b></div>",
+          "<div>Il <b>Dolore notturno</b>&nbsp;è molto caratteristico ed è causato dalla produzione di PGE2</div>",
+          "<div>L'efficacia terapeutica dell'<b>Acido Acetilsalicilico</b>&nbsp;è specifica per la malattia</div>"
+        ],
+        "Epidemiologia": [
+          "<div>♂ &gt;&gt;&gt; ♀</div>",
+          "<div><u>Picco d'incidenza</u> = 10 - 20 anni</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Non superano i <b>2 cm</b>. (Una delle differenze fondamentali con l'osteoblastoma, che invece è sempre &gt; 2 cm)</div>",
+          "<div><u>Radiologicamente</u> vediamo una <b>spessa rima corticale</b>&nbsp;e una lesione radiotrasparente detta <b>nidus,</b>&nbsp;che può avere o meno il centro mineralizzato.&nbsp;</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Trabecole piccole e immature <i>(come nella displasia fibrosa)</i></div>",
+          "<div>Prominente rima di osteoclasti <i>(permette di differenziare dalla displasia fibrosa)</i></div>",
+          "<div>Osteoblasti benigni <i>(permettono di differenziare dall'osteosarcoma)</i></div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Osteoma": {
+        "Generalità": [
+          "<div>L'osteoma, così come l'<b>osteoma osteoide</b> e l'<b>osteoblastoma,</b>&nbsp;è un tumore <b>benigno </b>formante osso. La sua peculiarità sta nella mordologia a osso compatto&nbsp;</div>"
+        ],
+        "Clinica": [
+          "<div>Invade spesso le ossa del <b>neuro </b>e <b>splancnocranio &nbsp;</b>&nbsp;</div>",
+          "<div>Associato alla sindrome di <b>Gardner</b>: <br>&nbsp; 1) osteoma <br>&nbsp; 2) polipi intestinali <br>&nbsp; 3) cisti epidermiche<br>&nbsp; 4) fibromi<br>&nbsp; 5) tumori Desmoidi</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Abbastanza raro: 2% dei tumori totali</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Storia familiare di sindrome di Gardner, di Turcot, o di Poliposi Adenomatosa Familiare.&nbsp;</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Lesione addensante</div>",
+          "<div>Margini ben definiti</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Osso denso compatto</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div>Nella sindrome di <b>Gardner </b>abbiamo una mutazione del gene <b>APC </b>(oncosoppressore) che regola l'espressione della <b>β-catenina</b>.</div>"
+        ]
+      },
+      "Osteoblastoma": {
+        "Generalità": [
+          "Simile all'osteoma e all'osteoma osteoide. Differiscono solo le zone maggiormente colpite (rachide vs appendicolare) e le dimensioni (&gt; 2cm)<br>"
+        ],
+        "Clinica": [
+          "<div>Colpisce gli elementi posteriori delle vertebre</div>",
+          "<div>Sebbene sia un \"osteoma osteoide più grande\" è assente il tipico dolore notturno che sparisce con acido acetilsalicilico</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Colpisce maggiormente i giovani</div>",
+          "<div>♂&gt;&gt;&gt;♀</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Dimensioni <b>sempre &gt; 2cm</b></div>",
+          "<div>Radiologicamente ha un aspetto <b>litico </b>con bordo <b>fibrotico</b></div>"
+        ],
+        "Aspetto microscopico": [
+          "<div><b>Trabecole anastomizzate</b>&nbsp;ricoperte da un monostrato di osteoblasti</div>",
+          "<div>Stroma Fibrovascolare Lasso</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Osteosarcoma": {
+        "Generalità": [
+          "<div>L'osteosarcoma è un tumore <b style=\"\"><u>maligno producente osso</u> </b>(la controparte dell'<b>osteoblastoma </b>e dell'<b>osteoma osteoide</b>)</div>"
+        ],
+        "Clinica": [
+          "<div>Affligge generalmente la <b>metafisi</b> delle <b>ossa lunghe</b></div>",
+          "<div><u>Esordio</u> con dolore + fratture patologiche&nbsp;</div>",
+          "<div>Metastasi virtualmente presenti nel 100% dei pazienti alla diagnosi (per questo ricevono tutti chemioterapia)</div>"
+        ],
+        "Epidemiologia": [
+          "<div><u>Tumore osseo più comune</u>:&nbsp;<b>20% </b>di tutti i tumori ossei</div>",
+          "<div>Affligge principalmente i giovani sotto i <b><u>20 anni</u></b></div>",
+          "<div>♂&gt;&gt;♀</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Numerose patologie associate all'osteosarcoma, determinano il 25% dei casi nei pazienti anziani &gt; 20 anni</div>",
+          "<div>Malattia ossea di <b>Paget</b></div>",
+          "<div>Infarti ossei</div>",
+          "<div>Pregressa esposizione a radiazioni</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Lesione mista&nbsp;<b>osteolitica </b>e <b>osteoaddensante</b></div>",
+          "<div>Segno radiologico a <b>raggi di sole</b></div>",
+          "<div>Segno radiologico del <b>triangolo di Codman</b></div>",
+          "<div>Spesso contengono aree <b>cistiche </b>ed <b>emorragiche</b></div>",
+          "<div>Invadono spesso il midollo, raramente l'epifisi o l'articolazione</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Cellule pleomorfe, ipercromatiche, giganti</div>",
+          "<div>Elevata mitosi, spesso aberrante (mitosi tripolare)</div>",
+          "<div>Necrosi e invasione vascolare</div>",
+          "<div>Trabecole sottili con architettura a <b>merletto</b></div>",
+          "<div>Possono produrre <b>cartilagine</b>&nbsp;(si chiamano allora osteosarcomi condroblastici)</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazione <b>LoF </b>del gene <b>RB </b>(oncosoppressore)</div>",
+          "<div>Mutazione <b>LoF</b>&nbsp;del gene <b>TP53</b>&nbsp;(oncosoppressore) → sindrome di <b>Li-Fraumeni</b></div>",
+          "<div>Mutazione <b>LoF </b>di <b>CDKN2A </b>(o <b>INK4a</b>) che codifica per 2 oncosoppresori <b>p16 </b>e <b>p14</b></div>",
+          "<div>Mutazione <b>GoF</b>&nbsp;di&nbsp;<b>MDM2 </b>(inibitore di <b>p53</b>)</div>",
+          "<div>Mutazione <b>GoF</b> di <b>CDK4 </b>(inibitore di <b>RB</b>)</div>"
+        ]
+      },
+      "Osteocondroma": {
+        "Generalità": [
+          "<div>L'osteocondroma è un tumore benigno producente cartilagine, ed è il tumore osseo primitivo più comune in assoluto</div>"
+        ],
+        "Clinica": [
+          "<div>Affliggono principalmente le <b>metafisi </b>vicine al <b>ginocchio</b></div>",
+          "<div>Crescita lenta</div>",
+          "<div>Manifestazione dolorosa solo se comprimono un nervo, altrimenti incidentaloma</div>"
+        ],
+        "Epidemiologia": [
+          "<div>85% dei casi: <b>lesione solitaria → </b>Tipica dell'adolescente</div>",
+          "<div>15% sindrome da <b>esostosi multiple ereditarie</b> → Tipica dell'infanzia</div>",
+          "<div>♂ &gt;&gt; ♀</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Possono essere sia <b>Sessili</b>&nbsp;che <b>Peduncolati</b></div>",
+          "<div>Hanno dimensioni variabili: da <b>1</b>&nbsp;cm a <b>20 </b>cm</div>",
+          "<div>Radiologicamente si vede la corticale ossea neoformata dal tumore che è in continuità con il periostio osseo</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Vicino alla superficie si vede una cartilagine abbastanza simile alla cartilagine fisiologica ma leggermente più disorganizzata</div>",
+          "<div>In profondità il tessuto cartilagineo diventa progressivamente tessuto osseo encondrale</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div>Le esostosi ereditarie presentano mutazioni germinali <b>EXT1 </b>o <b>EXT2 → </b>Assente sintesi di eparan-Solfato → Inibizione della via di differenziazione <b>Hedgehog</b>&nbsp;da condroblasti a condrociti.&nbsp;</div>"
+        ]
+      },
+      "Condroma": {
+        "Generalità": [
+          "<div>I condromi sono tumori benigni che producono cartilagine ialina</div>",
+          "<div>Si chiamano anche&nbsp;<b>encondromi</b>&nbsp;se derivano dalla cavità midollare</div>",
+          "<div>Si chiamano&nbsp;<b>condromi iuxtacorticali</b>&nbsp;se appaiono sulla superficie ossea</div>"
+        ],
+        "Clinica": [
+          "<div>Affligono di solito le ossa lunghe di <b>mani </b>e <b>piedi</b></div>",
+          "<div>Sono solitamente lesioni isolate e circoscritte</div>",
+          "<div><b>Sindrome di Ollier:&nbsp;</b>encondromi multipli</div>",
+          "<div><b>Sindrome di Maffucci</b>: encondromi multipli + emangiomi a cellule fusate + altre neoplasie non cartilaginee</div>",
+          "<div>Spesso asintomatici, possono essere dolorosi e causare fratture patologiche a seconda della localizzazione</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Picco di incidenza tra i <b>20</b>&nbsp;e i <b>50 anni</b></div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Le sindromi di Maffucci e di Ollier hanno un maggiore rischio di diventare maligni (osteosarcoma)</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Margine circolare radiopaco, ben delimitato</div>",
+          "<div>Contenuto principalmente radiotrasparente, con calcificazioni radiopache sparse nel mezzo</div>",
+          "<div>Piccoli (&gt; 3cm)</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Simili alla cartilagine ialina normale</div>",
+          "<div>presentanu una maggiore cellularità e atipia cellulare in caso di sindromi genetiche&nbsp;</div>",
+          "<div>Il centro può essere necrotico e poi diventerà calcificato</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div><div>Mutazioni di <b>IDH1 </b>e <b>IDH2 </b><i>(fisiologicamente codificano per la isocitrato-deidrogenasi)&nbsp;</i>che causano la produzione di un <b>onco-metabolita</b>&nbsp;<i>(il 2-idrossiglutarrato),</i> il quale interferisce con la corretta metilazione del DNA.</div></div>"
+        ]
+      },
+      "Condroblastoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Condrosarcoma": {
+        "Generalità": [
+          "Tumori maligni producenti cartilagine",
+          "<div>Vengono classificati in: <b>convenzionali</b>, a <b>cellule chiare</b>, <b>dedifferenziati</b>, <b>mesenchimali</b>&nbsp;</div>"
+        ],
+        "Clinica": [
+          "<div>La maggior parte sono localizzati nello scheletro <b>assiale</b>, soprattutto nel <b>bacino </b>e nella <b>spalla.</b></div>"
+        ],
+        "Epidemiologia": [
+          "<div>Secondo tumore maligno per incidenza <i>(dopo l'osteosarcoma)</i></div>",
+          "<div>La variante convenzionale ha un'età media di incidenza &gt; 40 anni</div>",
+          "<div>♂ &gt;&gt; ♀</div>",
+          "<div>Le varianti a cellule chiare e mesenchimali hanno un'incidenza precoce: 20-30 anni</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Aspetto radiologico di focolai con densità flocculante detta a<b>&nbsp;pop-corn</b></div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Presente necrosi, calcificazione, aspetto cistico</div>",
+          "<div>Cellule atipiche</div>",
+          "<div>La cartilagine infiltra nel midollo, tra le trabecole preesistenti</div>",
+          "<div>Il condrosarcoma a cellule chiare presenta <b>condrociti</b>&nbsp;<b>grandi</b>, con <b>citoplasma chiaro</b>, frammisti a numerosi <b>osteoclasti giganti</b></div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazioni <b>EXT </b>→ derivanti da osteocondroma</div>",
+          "<div>Mutazioni <b>IDH1 / IDH2 </b>→ derivanti da condromi o mutazioni spontanee</div>",
+          "<div>Mutazioni <b>CDKN2A </b>→ origine spontanea</div>"
+        ]
+      },
+      "Fibroma non ossificante": {
+        "Generalità": [
+          "<div>Sono anomalie dello sviluppo del tessuto connettivo, dove il tessuto osseo viene sostituito da tessuto connettivo fibroso</div>",
+          "<div>Deve avere una dimensione sopra a <b>5 cm</b> per essere definita fibroma, sotto a questa dimensione è un semplice <b>difetto corticale fibroso</b></div>"
+        ],
+        "Clinica": [
+          "<div>Possono determinare fratture patologiche</div>"
+        ],
+        "Epidemiologia": [
+          "<div>I difetti corticali fibrosi interessano il 50% dei bambini, ma molto raramente arrivano alla grandezza necessaria per essere considerati fibromi</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Piccole aree radiotrasparenti a margini netti e bordo sclerotico radiopaco</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Fibroblasti blandi disposti <b>a girandola</b></div>",
+          "<div>Aggregati di <b>macrofagi schiumosi </b>e <b>cellule giganti multinucleate</b></div>",
+          "<div>Presente emosiderina</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Fibroma ossificante": {
+        "Generalità": [
+          "Neoplasia benigna fibro-ossea"
+        ],
+        "Clinica": [
+          "Crescita lenta e asintomatica",
+          "Può causare deformità facciale",
+          "Diagnosi spesso accidentale durante esami radiografici di routine",
+          "<div>Colpisce principalmente <b>mascella/mandibola</b> e <b>arti inferiori</b></div>"
+        ],
+        "Epidemiologia": [
+          "Più comune nei bambini piccoli"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "Massa ben circoscritta",
+          "Consistenza dura",
+          "Colore bianco-grigiastro",
+          "Dimensioni variabili (da pochi mm a diversi cm)"
+        ],
+        "Aspetto microscopico": [
+          "<div>Trabecole osse irregolari su stroma fibroso</div>"
+        ],
+        "Immunoistochimica": [
+          "Positivo alla citocheratina"
+        ],
+        "Genetica e biologia molecolare": []
+      },
+      "Displasia fibrosa": {
+        "Generalità": [
+          "<div>La displasia ossea è un <b>Tumore Benigno</b>&nbsp;che è come se comportasse un arresto localizzato dello sviluppo. Qui le strutture restano immature e non differenziano.</div>"
+        ],
+        "Clinica": [
+          "<div><b>Displasia Monostotica:&nbsp;</b>è interessato un solo osso. Lesione spesso asintomatica che afflige frequentemente tibia, femore, coste, o ossa del cranio.&nbsp;</div>",
+          "<div><b>Displasia Poliostotica:&nbsp;</b>sono interessate più ossa. Colpisce le stesse ossa della monostotica, ma con maggiore frequenza il cranio. Se colpisce i cingoli causa disabilità. Molto spesso è dolorosa. Raramente degenera in Sarcoma.</div>",
+          "<div><b>Sindrome di Mazabraud</b>: displasia fibrosa + mixomi dei tessuti molli (sono benigni ma possono causare sindromi da compressione)</div>",
+          "<div><b>Sindrome di McCune-Albright:</b>&nbsp;displasia poliostotica + pigmentazioni caffé-latte + anomalie endocrine ( frequentemente pubertà precoce, ma anche ipertiroidismo, Adenomi Ipofisari secernenti GH, Iperplasia Surrenalica Primitiva)</div>"
+        ],
+        "Epidemiologia": [
+          "<div><b>Displasia Monostotica:</b>&nbsp;colpisce gli adolescenti prima che si chiudano le cartilagini di accrescimento, può riacutizzarsi in gravidanza</div>",
+          "<div><b>Displasia Poliostotica</b>: è la più precoce, colpisce i bambini e peggiora fino all'età adulta.</div>",
+          "<div><b>Sindrome di</b>&nbsp;<b>Mazaraboud</b>: la displasia appare nell'infanzia, i mixomi in età adulta</div>",
+          "<div><b>McCune-Albright</b>: più frequente nelle bambine dove si può manifestare con pubertà precoce come primo sintomo.</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div><b>Colore</b>: bruno-biancastro</div>",
+          "<div><b>Aspetto</b>: Granulare</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Trabecole curvilinee immature</div>",
+          "<div>Assente rima osteoblastica</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div><u>Tipo Mutazione:</u>&nbsp;<b style=\"\">Gain of Function</b></div>",
+          "<div><u>Gene:</u>&nbsp;<b>GNAS1</b></div>",
+          "<div><u>Funzione alterata</u>: il gene GNAS 1 codifica per la subunità α della proteina Gs, la quale promuove la proliferazione cellulare e impedisce il differenziamento in osteoblasti.&nbsp;</div>"
+        ]
+      },
+      "Cisti aneurismatica dell'osso": {
+        "Generalità": [
+          "<div>Lesione caratterizzata da spazi cistici multiloculati</div>"
+        ],
+        "Clinica": [
+          "<div>Colpisce <b>femore</b>, <b>tibia </b>e <b>vertebre</b></div>",
+          "<div>Sono <b>dolorose </b>e causano <b>tumefazioni</b></div>",
+          "<div>Possono causare claudicatio se comprimono qualche nervo</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Più comune nell'adolescenza</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Cisti multiple ripiene di sangue e separate da sottili setti</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>I setti tra le cisti appaiono formati da <b>cellule fusare rigonfie </b>ed <b>osteoclasti giganti multinucleati</b></div>",
+          "<div>30% dei casi presentano una metaplasia specifica detta <b>osso blu</b>&nbsp;in quanto appare riccamente basofilo</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div>Riarrangiamenti del cromosoma <b>17p13</b>&nbsp;che causano l'avvicinamento di <b>USP6</b>&nbsp;(codificante per una proteasi) a <b>CDH11</b>&nbsp;(gene altamente espresso negli osteoblasti).&nbsp;</div>",
+          "<div>Le mutazioni cromosomiche portano quindi alla iperproduzione di <b>proteasi </b>e <b>metalloproteasi </b>nella matrice ossea, che causano <b>riassorbimento osseo</b></div>"
+        ]
+      },
+      "Tumore a cellule giganti": {
+        "Generalità": [
+          "<div>Le cellule giganti da cui prende il nome sono <b>osteoclasti</b>, per cui prende anche il nome di <b>osteoclastoma</b></div>",
+          "<div>Il tumore a cellule giganti è relativamente <b>benigno</b>, ma <b>localmente aggressivo</b></div>"
+        ],
+        "Clinica": [
+          "<div>La maggior parte origina nelle epifisi vicine al ginocchio</div>",
+          "<div>I sintomi sono <b>simil-artritici </b>siccome spesso appare a ridosso dell'articolazione</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Affligge individui tra i 20 e i 60 anni</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Vediamo tessuto molle sporgente oltre la corticale</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Cellule <b>monomorfe mononucleate </b>piccole (linea <b>osteoblastica</b>)</div>",
+          "<div>Cellule giganti, con anche <b>100+ nuclei </b>(linea <b>osteoclastica</b>)</div>",
+          "<div>Molto evidenti la <b>necrosi </b>e il <b>tasso mitotico</b></div>",
+          "<div>Non secernono né <b>osso </b>né <b>cartilagine</b></div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": [
+          "<div>Le cellule tumorali producono la <b>proteina istonica 3.3</b>, ma non si sa come questo porti alla formazione della neoplasia</div>",
+          "<div>Le cellule tumorali secernono elevati livelli di RANKL</div>"
+        ]
+      },
+      "Sarcoma di Ewing": {
+        "Generalità": [
+          "<div>Il sarcoma di Ewing è un tumore <b>maligno, </b>derivante da celulle non differenziate</div>"
+        ],
+        "Clinica": [
+          "<div>Insorge nelle <b>diafisi </b>delle <b>ossa lunghe</b></div>",
+          "<div>Le zone colpite presentano i segni tipici dell'infiammazione (<b>dolore</b>, <b>tumefazione</b>, <b>calore</b>)</div>"
+        ],
+        "Epidemiologia": [
+          "<div>6-10% dei tumori maligni</div>",
+          "<div><b>Secondo </b>tumore maligno in <b>pediatria </b><i>(dopo l'osteosarcoma)</i></div>",
+          "<div>♂&gt;&gt;♀</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Etnia caucasica</div>",
+          "<div>La necrosi ottenuta con la chemioterapia è un importante fattore prognostico</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Tumore litico <i>(radiotrasparente)</i>, a margini infiltrativi</div>",
+          "<div>Aspetto radiologico a <b><u>bulbo di cipolla</u></b></div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Nidi di <b>piccole celule rotonde</b></div>",
+          "<div>Citoplasma <b>grande </b>e <b>chiaro</b>, siccome ripieno di <b>glicogeno</b></div>",
+          "<div>Segno specifico delle <b><u>Rosette di Homer-Wright</u><i style=\"\"><u>.</u>&nbsp;</i></b></div>",
+          "<div>Necrosi a <b>carta geografica</b></div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Si colora con <b>CD99</b>&nbsp;<i>(proteina di membrana) - </i>Non molto specifico</div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Traslocazione tra geni <b>EWSR1 </b><i>(chr. 22) e </i><b style=\"\">FLI1 </b><i>(chr 22)</i>.&nbsp;</div>"
+        ]
+      }
+    }
+  },
+  {
+    "Tumori dei Tessuti Molli e Neuroendocrini": {
+      "Schwannoma": {
+        "Generalità": [
+          "<div>Sono tumori benigni che insorgono dai nervi periferici</div>"
+        ],
+        "Clinica": [
+          "<div>Sono componenti della <b>Neurofibromatosi di tipo 2</b></div>",
+          "<div>Siccome non invadono il nervo da cui orginano, sono facilmente resecabili</div>",
+          "<div>Spesso insorge nell'angolo ponto-cerebellare, dove prende il nome di <b>neuroma acustico</b>&nbsp;siccome comprime il nervo VIII</div>"
+        ],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Masse solide di colore grigiastro</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Presenza di <u>aree dense</u> dette <b>aree di Antoni A</b></div>",
+          "<div>Presenza di <u>aree lasse</u>&nbsp;dette <b>aree di Antoni B</b></div>",
+          "<div>Presenza di <u>aree anucleate alternate a nuclei da palizzata</u>&nbsp;dette <b>corpi di Verocay</b></div>",
+          "<div>Ci sono alcuni Scwannomi detti <b>cellulati</b>&nbsp;che non presentano aree di <b>Antoni B</b>, e che possono somigliare ad un sarcoma</div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Si colorano con <b>S-100</b></div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Causati da mutazioni <b>LoF</b>&nbsp;nel gene <b>NF2</b>, sia nei casi <u>sporadici </u>che nella <u>neurofibromatosi di tipo 2</u></div>",
+          "<div>In tutti gli shwannomi si osserva la perdita di produzione della <b>merlina</b>&nbsp;(codificata da NF2)</div>"
+        ]
+      },
+      "Lipoma": {
+        "Generalità": [
+          "<div>è un tumore benigno formato da tessuto adiposo</div>"
+        ],
+        "Clinica": [
+          "<div><div>Possono raramente raggiungere grandi dimensioni o apparire a livello intramuscolare</div></div>"
+        ],
+        "Epidemiologia": [
+          "<div>è il tumore dei tessuti molli più comune</div>"
+        ],
+        "Fattori di rischio": [
+          null,
+          "Età avanzata"
+        ],
+        "Aspetto macroscopico": [
+          "<div><div>Di solito sono piccoli e sottocutanei</div></div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>è una massa ben capsulata contenente adipociti maturi</div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Negativo per <b>MDM2</b>&nbsp;e <b>CDK4</b>&nbsp;(diagnosi differenziale con liposarcoma)</div>"
+        ],
+        "Genetica e biologia molecolare": []
+      },
+      "Liposarcoma": {
+        "Generalità": [
+          "<div>Il liposarcoma è un tumore maligno del tessuto adiposo</div>"
+        ],
+        "Clinica": [
+          "<div>Colpisce maggiormente le strutture <b>molli profonde </b>degli <b>arti prossimali </b>e il <b>retroperitoneo</b></div>",
+          "<div>Ci sono <u>3 sottotipi principali </u>di liposarcoma:<div>1. Ben differenziato<br>2. Mixoide<br>3. Pleomorfo</div></div>"
+        ],
+        "Epidemiologia": [
+          "<div>è uno tra i tumori maligni più comuni</div>",
+          "<div>Colpisce principalmente la popolazione tra <b>50-80 anni</b></div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Vecchiaia</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Possono raggiungere dimensioni gigantesche</div>",
+          "<div>Hanno colore giallognolo, o bianco-grigiastro in caso di aree de-differenziate</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div><u>Liposarcoma ben differenziato</u>: cellule adipose mature con intersparse cellule fusate atipiche</div>",
+          "<div><u>Liposarcoma mixoide</u>: presenta una matrice extracellulare basofila e somiglia a tessuto adiposo fetale</div>",
+          "<div><u>Liposarcoma pleomorfo</u>: presenta cellule con nuclei bizzarri e adipociti immaturi (<b>lipoblasti</b>)</div>"
+        ],
+        "Immunoistochimica": [
+          "<div><b>MDM2 </b>positivo</div>",
+          "<div><b>CDK4&nbsp;</b>positivo</div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div><u>Liposarcoma ben differenziato</u>: amplificazione di <b>MDM2 </b>(un inibitore di <b>p53</b>)</div>",
+          "<div><u>Liposarcoma mixoide</u>: traslocazione che provoca la formazione di un gene alterato</div>",
+          "<div><u>Liposarcoma pleomorfo</u>: alterazione del cariotipo</div>"
+        ]
+      }
+    }
+  },
+  {
+    "Neoplasie Neuroendocrine": {
+      "NEN in generale": {
+        "Generalità": [
+          "<div>Sono Neoplasie derivanti da cellule neuroendocrine, quindi presenti in tutto l'organismo</div>",
+          "<div><b>NET</b>&nbsp;- <u>Tumori Neuroendocrini</u>: sono neoplasie benigne</div>",
+          "<div><b>NEC</b>&nbsp;- <u>Carcinomi Neuroendocrini</u>: sono neoplasie maligne</div>",
+          "<div><b>MiNEN</b>&nbsp;- <u>Neoplasie Miste Neuroendocrine Non-neuroendocrine</u>: se entrambi i tipi cellulari sono rappresentati &gt; 30. Sono Neoplasie <b>Benigne</b></div>",
+          "<div><b>MaNEC:</b>&nbsp;Versione maligna del MiNEN</div>"
+        ],
+        "Clinica": [
+          "<div>Possono essere NEN <b>Funzionanti</b>&nbsp;se secernono ormoni, o NEN&nbsp;<b>Non Funzionanti </b><i>(70% dei casi)</i></div>",
+          "<div>Quando queste neoplasie metastatizzano a livello <b>epatico</b>, causano la <u style=\"font-weight: bold;\">Sindrome da Carcinoide</u>: flushing, tachicardia, dolore addominale, dispnea</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Sono neoplasie molto rare, complessivamente 5/100.000</div>",
+          "<div>Le più comuni sono a livello gastrointestinale (65%) seguite da quelle polmonari (25%).</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Vecchiaia</div>",
+          "<div>Sesso maschile</div>",
+          "<div>Immunosoppressione</div>",
+          "<div>Familitarità positiva</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div><b>NET</b>: crescita lenta, poco aggressivi</div>",
+          "<div><b>NEC</b>: Necrotici, solidi, crescita rapida</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div><b>NET</b>: Pattern organoide, con rare atipie</div>",
+          "<div><b>NEC</b>: Pattern scarsamente differenziato, cellule atipiche, sottotipi <u>a grandi cellule</u>, e a <u>piccole cellule</u></div>"
+        ],
+        "Immunoistochimica": [
+          "<div><b>Sinaptofisina</b></div>",
+          "<div><b>Cromogranina</b></div>",
+          "<div><b>NSE</b>&nbsp;- Enolasi Neurone Specifica</div>",
+          "<div><b>CD56</b></div>",
+          "<div><b>CD57</b></div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazioni di numerosi geni: DAXX, ATRX</div>"
+        ]
+      },
+      "Nen Gastrointestinali": {
+        "Generalità": [
+          "<div>I tumori neuroendocrini più comuni sono: <b>Gastrinoma, VIPoma, Insulinoma, Glucagonoma, Tumore Carcinoide</b></div>"
+        ],
+        "Clinica": [
+          "<div><b>Insulinoma</b>: <u>Triade di Whipple</u>&nbsp;(ipoglicemia a digiuno, sintomi ipoglicemici, correzione glicemica con glucosio) + sintomi autonomici (palpitazione, tremore, sudorazione, fame) + eventuali sintomi neuroglicopenici.&nbsp;</div>",
+          "<div><b>Glucagonoma</b>: <u>sindrome delle 4D</u>: Diabete, Dermatite, Depressione, DVT (trombosi venosa profonda)</div>",
+          "<div><b>Somatostatinoma</b>: Diabete, colelitiasi, steatorrea, diarrea</div>",
+          "<div><b>VIPoma</b>: <u>Sindrome WDHA</u>: Diarrea Acquosa, Ipopotassemia, Acloridria</div>",
+          "<div><b>Gastrinoma: </b><u>Sindrome di Zollinger-Ellison</u>: ulcera peptica, esofagite, diarrea, metastasi epatica</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Il NEN funzionante (secernente ormoni) più comune è l'<b>insulinoma</b></div>",
+          "<div>Il <b>glucagonoma </b>è più comune nelle donne <u>perimenopausa</u></div>"
+        ],
+        "Fattori di rischio": [
+          "<b>Sindrome MEN 1</b>: frequente <u>insulinoma</u>, raramente <u>vipoma,</u>&nbsp;<u>glucagonoma</u>&nbsp;e&nbsp;<u>gastrinoma</u>."
+        ],
+        "Aspetto macroscopico": [
+          "<div><b>Insulinoma&nbsp;</b>&nbsp;di solito piccolo&nbsp;</div>",
+          "<div><b>Glucagonoma&nbsp;</b>&nbsp;di solito grande</div>",
+          "<div>La maggior parte delle NEN multifocali è connessa ad una MEN-1, mentre i tumori isolati si presentano unifocali</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div><div><b>Insulinoma</b>: cellule monomorfiche con cromatina <b>sale e pepe</b>&nbsp;con architettura trabecolare o tubulare. Stroma ialino, raramente amiloide</div></div>"
+        ],
+        "Immunoistochimica": [
+          "<div><b>Sinaptofisina</b></div>",
+          "<div><b>Cromogranina</b></div>",
+          "<div><b>NSE</b>&nbsp;- Enolasi Neurone Specifica</div>",
+          "<div><b>CD56</b></div>",
+          "<div><b>CD57</b></div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<b>Insulinoma:</b>&nbsp;associazione con mutazione gene&nbsp;<u>MAFA</u>&nbsp;e con MEN-1",
+          "<div>Mutazioni <b>LoF</b> di <b>PTEN </b>e <b>TSC2 → </b>attivano la via&nbsp;<b>mTOR</b></div>",
+          "<div>Mutazioni ATRX e DAXX → allungamento telomerico anche senza telomerasi</div>"
+        ]
+      },
+      "Feocromocitoma": {
+        "Generalità": [
+          "<div>Le neoplasie neuroendocrine si sviluppano ovviamente nella midollare (a causa dell'origine embriologica)</div>"
+        ],
+        "Clinica": [
+          "<div><b>Feocromocitoma</b>: ipertensione (spesso con crisi parossistiche)</div>"
+        ],
+        "Epidemiologia": [
+          "<div>10% dei casi sono pediatrici, ma sono più blandi</div>",
+          "<div>10% dei sono extra-surrenalici</div>",
+          "<div>10% sono bilaterali</div>",
+          "<div>10% sono maligni</div>",
+          "<div>10% non causano ipertensione</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Neurofibromatosi tipo 1</div>",
+          "<div>Malattia di von Hippel-Lindau</div>",
+          "<div>displasia dell'arteria renale</div>",
+          "<div>Neoplasia della corticale del surrene</div>",
+          "<div>Altri paragangliomi</div>",
+          "<div>Parte delle neoplasie multiple <b>MEN2a </b>e <b>MEN2b</b></div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Capsulati, Giallognoli-marroncini</div>",
+          "<div>Formazioni cistiche, necrosi, emorragia</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Cellule poligonali o fusate raggruppate in piccoli nidi detti di <b>Zellballen</b></div>",
+          "<div>I nidi sono avvolti da cellule stromali dette <b>sostentacolari</b></div>",
+          "<div>Vediamo un'elevata vascolarizzazione</div>",
+          "<div>I nuclei hanno aspetto a <b>sale e pepe</b></div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Reazione Cromaffina → le catecolammine si ossidano quando immerse in dicromato di potassio</div>",
+          "<div>Le cellule <b>sustentacolari</b>&nbsp;si colorano con S-100</div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazioni <b>RET</b>&nbsp;- sindromi MEN</div>",
+          "<div>Mutazioni <b>NF1 - </b>Neurofibromatosi tipo 1</div>",
+          "<div>Mutazioni <b>VHL</b>&nbsp;- sindrome von Hipple-Lindau</div>",
+          "<div>Mutazioni della <b>succinato deidrogenasi</b> (SDH-A, SDH-B, SDH-C, SDH-D)</div>"
+        ]
+      },
+      "Neuroblastoma": {
+        "Generalità": [
+          "<div>Le neoplasie neuroendocrine si sviluppano ovviamente nella midollare (a causa dell'origine embriologica)&nbsp;</div>",
+          "<div>Le più importanti neoplasie del surrene certamente il&nbsp;<b>feocromocitoma&nbsp;</b>e il&nbsp;<b>neuroblastoma</b></div>"
+        ],
+        "Clinica": [
+          "<div>La sede surrenale è la più comune, ma rappresenta solo il 35% dei casi</div>",
+          "<div>Le sedi extra-surrenali sono: retroperitoneo, mediastino posteriore, paragonadale, inguinale, cefalico</div>",
+          "<div>Occhi di panda/procione</div>",
+          "<div>Pancitopenia</div>",
+          "<div>Dolori Ossei</div>",
+          "<div>Paralisi</div>",
+          "<div>Diarrea acquosa</div>",
+          "<div>Retenzione idrica</div>",
+          "<div>L'esordio tipico è: massa addominale + febbre + calo ponderale</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Risulta il tumore con sede extra-cranica più comune nell'età pediatrica, superato per incidenza solo da leucemia e medulloblastoma</div>",
+          "<div>90% dei pazienti ha &gt;5 anni</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Sindrome di Beckwith-Wiedemann</div>",
+          "<div>Sindrome di Hirschsprung</div>",
+          "<div>Neurofibromatosi</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Multinodulare, grigiastro, ben delimitato</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Cellule piccole con poco citoplasma</div>",
+          "<div>Nuclei scuri con aspetto tipico a <b>cellule blu</b>&nbsp;(immagine caratteristica ma non molto specifica)</div>",
+          "<div>Elevato tasso mitotico e carioressi</div>",
+          "<div>Ci sono alcune forme di tumore (spesso a causa della chemioterapia) che assumono forme diverse per cui prendono nomi specifici: <b>galnglioneuroma </b>o&nbsp;<b>ganglioneuroblastoma</b>,&nbsp;</div>",
+          "<div>Rosette di Homer-Wright</div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Enolasi Neurone Specifica</div>",
+          "<div>PHOX2B</div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazioni germinali attivanti ALK (o più raramente somatiche)</div>",
+          "<div>Mutazioni di MYC</div>",
+          "<div>Delezioni dei cromosomi 1 o 11</div>"
+        ]
+      }
+    }
+  },
+  {
+    "Patologia del Naso e seni paranasali": {
+      "Sinusite micotica e Aspergillosi": {
+        "Generalità": [
+          "<div>Aspergillus è una muffa presente ovunque e causa allergie anche gravi</div>"
+        ],
+        "Clinica": [
+          "<div>Oltre alla sinusite Aspergillus può causare: <u>aspergillosi broncopolmonare allergica</u> e <u>polmoniti</u></div>"
+        ],
+        "Epidemiologia": [],
+        "Fattori di rischio": [
+          "<div>immunosoppressione</div>",
+          "<div>Corticoterapia</div>",
+          "<div>Tubercolosi</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>A livello sinusale causano necrosi</div>",
+          "<div>a livello polmonare possono formare aspergillomi</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Presenza di <b>pseudoife </b>a forma di bastoncelli <u>ramificati ad angolo acuto</u>&nbsp;(diagnosi differenziale con mucormicosi che sono ad angolo retto)</div>",
+          "<div>Presenza di <b>spore </b>di forma tondeggiante</div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Impregnazione argentica \"<b>Gomori</b>\" delle ife</div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Aspergillus viene solitamente riconosciuto dall'immunità innata tramite i TLR ed eliminato per fagocitosi in seguito all'azione delle citochine IL1 e TNF</div>",
+          "<div>In soggetti immunosoppressi resta nell'organismo dove produce alcune tossine: la più importante è l'<b>aflatossina</b></div>",
+          "<div>Le aflatossine causano epatotossicità e sono correlate con un maggiore rischio di tumore epatico</div>"
+        ]
+      },
+      "Polipi sino-nasali": {
+        "Generalità": [
+          "<div>Polipo benigno della mucosa del naso e dei seni nasali</div>"
+        ],
+        "Clinica": [
+          "<div>Congestione nasale</div>",
+          "<div>Rinorrea</div>"
+        ],
+        "Epidemiologia": [
+          "<div>è la lesione nasale benigna più frequente</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Allergia</div>",
+          "<div>Vasculite</div>",
+          "<div>Fibrosi cistica</div>",
+          "<div>Antinfiammatori</div>",
+          "<div><b>Rinosinusite cronica</b></div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Lesioni multiple e bilaterali</div>",
+          "<div>Aspetto edematoso e translucente</div>",
+          "<div>Stroma fibroso o myxoide, ricoperto da epitelio respiratorio</div>",
+          "<div>sono presenti linfociti, plasmacellule, eosinofili, neutrofili...</div>",
+          "<div>Spesso si osserva una concomitante infezione micotica</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Stoma mixoide o fibroso</div>",
+          "<div>Edema/spongiosi</div>",
+          "<div>Presenza di celllule stromali grandi e pleomorfe</div>",
+          "<div>Possibile presenza di infezione micotica</div>"
+        ],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papillomi": {
+        "Generalità": [
+          "Neoplasia benigna della cavità nasale e dei seni. Distinta in 3 tipi:<br>1) Endofitico (o invertito)<br>2) Esofitico<br>3) Oncocitico"
+        ],
+        "Clinica": [
+          "<div>Sintomi aspecifici simil rinite allergica</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Età: 30 - 60 anni</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Sesso Maschile</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div><b>Endofitico</b>: superficie rugosa, convoluta</div>",
+          "<div><b>Esofitico</b>: assomiglia ad un fungo</div>",
+          "<div><b>Oncocitica: </b>ha un aspetto piu variabile</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Endofitico: vediamo la mucosa entrare dentro allo stroma sottostante</div>",
+          "<div>Tutti: l'epitelio è spesso iperplasico e può avere aspetto squamoso, transizionale o respiratorio</div>",
+          "<div><b>Esofitico</b>: aspetto papillare con possibile koilocitosi, ma con scarsa presenza di cellule immunitarie</div>",
+          "<div><b>Oncocitico</b>: pseudostratificato o colonnare con citoplasma eosinofilo</div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Positivo alla colorazione con citocheratine</div>",
+          "<div>Negativo a S100 e CD45</div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazioni EGFR</div>",
+          "<div>Coinvolgimento di <b>HPV</b>&nbsp;<i>(soprattutto ceppi 6 e 11)</i></div>"
+        ]
+      },
+      "Angiofibroma": {
+        "Generalità": [
+          "<div>è una neoplasia fibrovascolare aggressiva</div>"
+        ],
+        "Clinica": [
+          "<div>Gonfiore del volto</div>"
+        ],
+        "Epidemiologia": [
+          "<div>Tumore molto raro, situato nella porzione posterolaterale delle cavita nasali o a livello nasofaringeo</div>",
+          "<div>Può espandersi a livello intracranico</div>"
+        ],
+        "Fattori di rischio": [
+          "<div>Sesso maschile</div>",
+          "<div>Giovani e adolescenti</div>"
+        ],
+        "Aspetto macroscopico": [
+          "<div>Aspetto polipoide di colorito scuro (a causa dell'emorragia intraoperatoria)</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div>Presenza di vasi dilatati con trombi all'interno</div>",
+          "<div>Stroma fibroso con un centro più ricco di cellule</div>",
+          "<div>Presenza di mastociti&nbsp;</div>",
+          "<div>Assenza di Mitosi</div>"
+        ],
+        "Immunoistochimica": [
+          "<div>SMA / HHF35 / caldesmon per la colorazione della muscolare liscia dei vasi</div>",
+          "CD31 / CD 34 per evidenziare le cellule endoteliali<br>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazione di <b>CTNNB1 </b>(per la β-catenina)</div>"
+        ]
+      },
+      "Carcinoma letale della linea mediana": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologia della Cavità orale": {
+      "Iperplasia fibrosa": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Granuloma piogenico": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papilloma squamocellulare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leucoplachia": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Eritroplachia": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Cheratosi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinomi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Ameloblastoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Odontoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologia della Faringe e Laringe": {
+      "Edema di Reinke": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nodulo laringeo": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papilloma laringeo": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Cheratosi laringea": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenoma Microcistico": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma squamocellulare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma indifferenziato del rinofaringe": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologie delle Ghiandole salivari": {
+      "Sjogren": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Mucocele": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenoma pleomorfo": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenomi monomorfi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": []
+      },
+      "Tumore di Warthin": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Oncocitoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma mucoepidermoide": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma a cellule aciniche": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma adenocistico": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Malattie metaboliche dell'osso e Autopsia": {
+      "Osteoporosi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperparatiroidismo": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Paget": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Rachitismo/osteomalacia": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Necroscopia": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Carcinoma Polmonare": {
+      "Amartoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia adenomatosa atipica": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma in situ": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma microinvasivo": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma acinare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma papillare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma squamoso": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma a piccole cellule": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma a grandi cellule": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori dell'Esofago e dello Stomaco": {
+      "Adenocarcinoma gastrico": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Early gastric cancer": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Linfomi gastrici": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "GIST": {
+        "Generalità": [
+          "<div>GIST significa Gastro-Intestinal Stromal Tumor</div>",
+          "<div>Origina dalle cellule interstiziali di <b>Cajal</b></div>"
+        ],
+        "Clinica": [
+          "<div><b>Sindrome di Carney-Stratakis</b>: GIST + Paraganglioma</div>",
+          "<div><b>Ulcerazioni </b>che causano <b>anemia </b>ed <b>emorragia intestinale</b></div>",
+          "<div>Effetto di massa all'esordio</div>",
+          "<div>Forma frequentemente metastasi nel <b>peritoneo </b>e a <b>livello epatico</b>, ma raramente in altre sedi</div>"
+        ],
+        "Epidemiologia": [
+          "<div>è il tumore mesenchimale dell'addome più comune&nbsp;</div>"
+        ],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [
+          "<div>Può raggiungere anche i 30cm di diametro</div>",
+          "<div>Superficie mucosa ulcerata</div>"
+        ],
+        "Aspetto microscopico": [
+          "<div><b>Tipo a cellule fusate:</b>&nbsp;presenta cellule sottili e allungate</div>",
+          "<div><b>Tipo a cellule epitelioidi: </b>le cellule sembrano epiteliali</div>",
+          "<div>Raramente vediamo pleomorfismo nucleare</div>"
+        ],
+        "Immunoistochimica": [
+          "<div>Colorazione con <b>CD117</b>: che colora KIT</div>"
+        ],
+        "Genetica e biologia molecolare": [
+          "<div>Mutazioni <b>GoF </b>di <b>KIT</b>&nbsp;<i>(oncogene) - 75% dei casi</i></div>",
+          "<div>Mutazioni <b>GoF </b>di <b>PDGFRA </b><i>(oncogene) - 8% dei casi</i></div>",
+          "<div>Mutazioni dei geni per la <b>Succinato Deidrogenasi </b><i>(SDH-A, SDH-B, SDH-C, SDH-D) - 8 % dei casi</i></div>",
+          "<div>Mutazioni KIT e PDGFRA rispondono bene all'<b>imatinib</b></div>"
+        ]
+      }
+    }
+  },
+  {
+    "Tumori della via Pancreatico-Biliare": {
+      "Tumori pancreatici": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori vie biliari": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Cisti pancreatiche": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori del Colon-Retto": {
+      "Lesioni serrate sessili e non": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenoma serrato": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Polipo amartomatoso": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenocarcinoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Poliposi adenomatosa familiare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Carcinoma della Cervice Uterina ed Esame Estemporaneo": {
+      "CIN/HSIL": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Nevi e Melanomi": {
+      "Lentigo simplex & maligna": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nevi melanocitari": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nevo dermico": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Nevo di Sutton": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Spitz": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Reed": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Blu": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Melanoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologie della Mammella": {
+      "Ectasia dotti mammari": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Galattocele": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Mastopatia linfocitaria": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Malattia fibrocistica": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Mastopatia fibrosa": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia duttale": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenosi sclerosante": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Lesioni sclerosanti complesse": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Papilloma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia lobulare atipica": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Fibroadenoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumore filloide": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma micropapillare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma duttale": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Paget": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma duttale infiltrante": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma lobulare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma invasivo special e non": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Tumori dell'Ovaio": {
+      "Tumori sierosi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori mucinosi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori endometrioidi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Tumori di brenner": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Teratomi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leydig/granulosa/teca": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  },
+  {
+    "Patologie del Corpo dell'Utero": {
+      "Endometriosi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Adenomiosi": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Iperplasia ghiandolare": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Carcinoma endometroide": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leiomioma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      },
+      "Leiomiosarcoma": {
+        "Generalità": [],
+        "Clinica": [],
+        "Epidemiologia": [],
+        "Fattori di rischio": [],
+        "Aspetto macroscopico": [],
+        "Aspetto microscopico": [],
+        "Immunoistochimica": [],
+        "Genetica e biologia molecolare": []
+      }
+    }
+  }
+]

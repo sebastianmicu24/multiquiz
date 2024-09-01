@@ -4,13 +4,16 @@
 
 <main>
   <h1>Quiz Sapienza C</h1>
-  <p>Preparati per gli esami svolgendo dei quiz!</p>
+  <p>Quiz di materie vecchie</p>
   <div class="button-container">
     <button on:click={() => goto('/quiz/psichiatria')}>Psichiatria</button>
     <button on:click={() => goto('/quiz/sanita_pubblica')}>Sanità Pubblica</button>
     <button on:click={() => goto('/quiz/igiene')}>Igiene</button>
-    <button on:click={() => goto('/quiz/anatomia_patologica')}>Anatomia Patologica</button>
-    <button on:click={() => goto('/quiz/anatomia_patologica/Teoria_Anapat')}>Teoria Anapat</button>
+  </div><br>
+  <h2>Anatomia Patologica</h2>
+    <div class="button-container"><button on:click={() => goto('/quiz/anatomia_patologica')}>Quiz</button>
+    <button on:click={() => goto('/quiz/anatomia_patologica/Teoria_Anapat')}>Teoria</button>
+    <!-- <button on:click={() => goto('/quiz/AppuntiEditor')}>Editor</button> -->
   </div>
 </main>
 

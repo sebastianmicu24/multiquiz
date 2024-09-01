@@ -1,6 +1,7 @@
 <script>
   import Header from '$lib/Header.svelte';
   import Footer from '$lib/Footer.svelte';
+  import KeywordAlarm from '$lib/KeywordAlarm.svelte';
   import '$lib/darkTheme.css';
 </script>
 
@@ -10,6 +11,7 @@
     <slot />
   </main>
   <Footer />
+  <KeywordAlarm />
 </div>
 
 <style>

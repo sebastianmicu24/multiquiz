@@ -1,17 +1,25 @@
 <script>
     import { page } from '$app/stores';
     import { onMount } from 'svelte';
+    import WikimediaImages from '$lib/WikimediaImages.svelte';
 
     let subcategoryData = null;
 
     onMount(async () => {
         const category = $page.params.category;
         const subcategory = $page.params.subcategory;
-        const response = await fetch('/Appunti.json');
-        const data = await response.json();
-        const categoryItem = data.find(item => Object.keys(item)[0] === category);
-        if (categoryItem && categoryItem[category]) {
-            subcategoryData = categoryItem[category][subcategory];
+        try {
+            const response = await fetch('/api/getAppunti');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            const data = await response.json();
+            const categoryItem = data.find(item => Object.keys(item)[0] === category);
+            if (categoryItem && categoryItem[category]) {
+                subcategoryData = categoryItem[category][subcategory];
+            }
+        } catch (error) {
+            console.error('Error fetching data:', error);
         }
     });
 </script>
@@ -22,41 +30,61 @@
     {#if subcategoryData}
         <ul>
             {#each Object.entries(subcategoryData) as [key, value]}
-                <li>
-                    <strong>{key}:</strong>
-                    {#if Array.isArray(value) && value.length > 0}
-                        <ul>
-                            {#each value as item}
-                                <li>{item}</li>
-                            {/each}
-                        </ul>
-                    {:else if Array.isArray(value) && value.length === 0}
-                        <span>No data available</span>
-                    {:else}
-                        <span>{value}</span>
-                    {/if}
-                </li>
+                {#if Array.isArray(value) ? value.length > 0 : value !== ""}
+                    <li class="big-card">
+                        <div class="key"><strong>{key}:</strong></div>
+                        {#if Array.isArray(value) && value.length > 0}
+                            <ul>
+                                {#each value as item}
+                                    <li class="small-card">{@html item}</li>
+                                {/each}
+                            </ul>
+                        {:else}
+                            <span>{@html value}</span>
+                        {/if}
+                    </li>
+                {/if}
             {/each}
         </ul>
+        
+        <h3>Related Wikimedia Commons Images</h3>
+        <WikimediaImages searchTerm="{$page.params.subcategory}" />
     {:else}
         <p>Loading data...</p>
     {/if}
 </main>
 
 <style>
-       main {
-        max-width: 800px;
+    main {
+        max-width: 1200px;
         margin: 0 auto;
         padding: 20px;
     }
 
     h2 {
         color: var(--text-primary);
-        font-size: 2rem;
+        font-size: 2;
         margin-bottom: 1.5rem;
         text-align: center;
     }
 
+    h1 {
+        color: var(--text-primary);
+        font-size: 3;
+        margin-bottom: 1.5rem;
+        text-align: center;
+    }
+
+    h3 {
+        color: var(--text-primary);
+        font-size: 1.5em;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    strong{
+        font-size: large;
+    }
     ul {
         list-style-type: none;
         padding: 0;
@@ -96,5 +124,18 @@
         ul {
             grid-template-columns: 1fr;
         }
+    }
+
+    .big-card{
+        background-color: rgb(47, 47, 47);
+    }
+
+    .small-card{
+        background-color: white;
+        color: black !important;
+    }
+
+    .key{
+        padding-bottom: 10px;
     }
 </style>

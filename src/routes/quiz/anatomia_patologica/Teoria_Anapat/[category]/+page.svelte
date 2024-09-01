@@ -6,10 +6,17 @@
 
     onMount(async () => {
         const category = $page.params.category;
-        const response = await fetch('/Appunti.json');
-        const data = await response.json();
-        const categoryItem = data.find(item => Object.keys(item)[0] === category);
-        categoryData = categoryItem ? categoryItem[category] : null;
+        try {
+            const response = await fetch('/api/getAppunti');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            const data = await response.json();
+            const categoryItem = data.find(item => Object.keys(item)[0] === category);
+            categoryData = categoryItem ? categoryItem[category] : null;
+        } catch (error) {
+            console.error('Error fetching data:', error);
+        }
     });
 </script>
 
@@ -31,7 +38,7 @@
 </main>
 
 <style>
-       main {
+    main {
         max-width: 800px;
         margin: 0 auto;
         padding: 20px;
@@ -47,7 +54,6 @@
     ul {
         list-style-type: none;
         padding: 0;
-        /* display: grid; */
         grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
         gap: 1rem;
     }

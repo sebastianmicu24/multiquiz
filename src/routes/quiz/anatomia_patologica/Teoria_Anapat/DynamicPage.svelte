@@ -4,21 +4,32 @@
     let categories = [];
 
     onMount(async () => {
-        const response = await fetch('/Appunti.json');
-        const data = await response.json();
-        categories = data.map(item => Object.keys(item)[0]);
+        try {
+            const response = await fetch('/api/getAppunti');
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            const data = await response.json();
+            categories = data.map(item => Object.keys(item)[0]);
+        } catch (error) {
+            console.error('Error fetching data:', error);
+        }
     });
 </script>
 
 <main>
     <h1>Appunti Categories</h1>
-    <ul>
-        {#each categories as category}
-            <li>
-                <a href="/quiz/anatomia_patologica/Teoria_Anapat/{encodeURIComponent(category)}">{category}</a>
-            </li>
-        {/each}
-    </ul>
+    {#if categories.length > 0}
+        <ul>
+            {#each categories as category}
+                <li>
+                    <a href="/quiz/anatomia_patologica/Teoria_Anapat/{encodeURIComponent(category)}">{category}</a>
+                </li>
+            {/each}
+        </ul>
+    {:else}
+        <p>Loading categories...</p>
+    {/if}
 </main>
 
 <style>
